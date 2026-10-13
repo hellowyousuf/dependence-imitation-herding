@@ -1,0 +1,243 @@
+{
+ "schema": "rihlah-codebook/2.0",
+ "plan_revision": 5,
+ "codes": [
+  {
+   "id": "C1",
+   "variable": "V1",
+   "label": "Salience following",
+   "definition": "Correlation of weekly issue shares between an outlet and the core set",
+   "examples": [],
+   "decision_rules": [
+    "a story belongs to an issue when its title or text matches the issue's query terms (Appendix A): Ukraine — Ukraine OR Ukrainian OR Kyiv OR Kiev OR Zelensky OR (Russia AND invasion); Gaza — Gaza OR Hamas OR (Israel AND (war OR strike OR ceasefire OR hostages)); COP — COP27 OR COP28 OR (climate AND (summit OR conference) AND (Sharm OR Dubai OR UNFCCC)); terms fixed before retrieval and tested on a pilot week per outlet",
+    "issue share = stories matching the issue query / all stories of the outlet that week",
+    "issue share = issue stories ÷ all stories of the outlet that week (Media Cloud weekly count)",
+    "weeks with fewer than 5 outlet stories are dropped"
+   ]
+  },
+  {
+   "id": "C2",
+   "variable": "V2/V7",
+   "label": "Frame",
+   "definition": "The dominant generic frame of the article",
+   "examples": [
+    "Episodic: a single event or person, no wider context",
+    "Conflict: disagreement between parties is the organizing idea",
+    "Responsibility: attributes cause or solution to an actor",
+    "Human interest: a family's escape from Kharkiv leads the story",
+    "Economic consequences: wheat prices rise after the Black Sea deal ends",
+    "Thematic: the lead places the day's strike in the war's two-year course"
+   ],
+   "decision_rules": [
+    "code the frame of the headline and lead paragraph, for every outlet (core and peripheral) and for agent-written proposals",
+    "one dominant frame per article; 'other' if none fits",
+    "agents assign one codebook frame to each proposed item; 300 written-out proposals are coded by the model coder to check the labels",
+    "read the headline first, then the lead paragraph; when they differ, the lead decides",
+    "when two frames are present, code the one the headline states; if the headline states none, the one the lead's first sentence states",
+    "episodic vs thematic: code thematic only when the lead itself gives background, a trend or a cause"
+   ],
+   "categories": [
+    {
+     "code": "episodic",
+     "label": "Episodic",
+     "definition": "Reports a single event, incident or person, with no wider background, trend or cause."
+    },
+    {
+     "code": "thematic",
+     "label": "Thematic / context",
+     "definition": "Places the event in a wider context: background, trends, causes, history or policy."
+    },
+    {
+     "code": "conflict",
+     "label": "Conflict",
+     "definition": "Disagreement or confrontation between parties, sides or countries is the organizing idea."
+    },
+    {
+     "code": "human_interest",
+     "label": "Human interest",
+     "definition": "A personal or emotional angle: individuals' experiences, suffering or stories lead."
+    },
+    {
+     "code": "responsibility",
+     "label": "Responsibility",
+     "definition": "Attributes the cause of, or the solution to, the problem to an actor (government, group, person)."
+    },
+    {
+     "code": "economic",
+     "label": "Economic consequences",
+     "definition": "Costs, prices, trade, aid money, markets or other economic effects lead."
+    },
+    {
+     "code": "other",
+     "label": "Other",
+     "definition": "None of the six fits the headline and lead."
+    }
+   ]
+  },
+  {
+   "id": "C3",
+   "variable": "V3",
+   "label": "Timing",
+   "definition": "V3a: lag in days from the first core story to the first outlet story on the same event, entered as the negative lag; V3b: lag in weeks of the peak cross-correlation of weekly issue shares, entered as the negative lag",
+   "examples": [],
+   "decision_rules": [
+    "an event is a GDELT event record; a story is matched to an event through the article URLs GDELT links to that event (mentions table)",
+    "lags above 14 days are censored",
+    "higher (less negative) values mean closer following"
+   ]
+  },
+  {
+   "id": "C4",
+   "variable": "V4",
+   "label": "Wire reliance",
+   "definition": "share of an outlet's sampled foreign stories that credit AP, AFP or Reuters, or that share at least 50% of their text with an AP, AFP or Reuters story published in the three days before",
+   "examples": [
+    "byline or dateline credit '(Reuters)', 'AFP', 'AP'"
+   ],
+   "decision_rules": [
+    "credit in byline, dateline or end note counts",
+    "text reuse: document similarity to AP, AFP and Reuters stories published on the agencies' public sites within 3 days before; threshold 50% of the story's text, checked against the hand-coded credits",
+    "credits to national or non-Western agencies are coded under C10, not here",
+    "foreign story = sampled story datelined outside the outlet's country or credited to a foreign source (a wire or agency based in another country); when the text shows neither a dateline nor a credit, the place where the reported events mainly take place decides (a statement or decision: where it was made if stated, else the main actor's country). Revised October 6, 2026 under the plan's if_below rule (model self-consistency alpha .782 < .80 with the first wording); author's choice 'Event location'.",
+    "identification (X10): dateline and credit by rule (data/analysis/code_rules.py); event location by the model coder (prompt version 2) when the rule finds neither"
+   ],
+   "categories": [
+    {
+     "code": 1,
+     "label": "yes"
+    },
+    {
+     "code": 0,
+     "label": "no"
+    },
+    {
+     "code": "na",
+     "label": "not a foreign story (C4, C8, C10 only)"
+    }
+   ]
+  },
+  {
+   "id": "C5",
+   "variable": "V5",
+   "label": "Tier",
+   "definition": "World-system position of the outlet's country",
+   "examples": [],
+   "decision_rules": [
+    "Gunaratne (2001) index: [(% of world GNP × 0.55) + (% of world exports × 0.45)], World Bank data for 2022",
+    "the three higher-scoring sampled countries form the semi-periphery (declared departure from a published classification, author ruling of September 29, 2026); scores recorded with the citation",
+    "2022 scores (D1; X1): India 2.83, Malaysia 0.66, Nigeria 0.44 → semi-periphery; South Africa 0.41, Bangladesh 0.34, Kenya 0.09 → periphery; Nigeria's exports from BX.GSR.GNFS.CD (NE.EXP.GNFS.CD null); values in data/coded/v5_tier.csv"
+   ]
+  },
+  {
+   "id": "C6",
+   "variable": "V6",
+   "label": "Local stake",
+   "definition": "Issue-level stake for the sampled countries",
+   "examples": [
+    "Ukraine low",
+    "Gaza mixed",
+    "COP27/COP28 high"
+   ],
+   "decision_rules": [
+    "fixed a priori by issue: Ukraine 0 (low), Gaza 1 (mixed), COP27/COP28 2 (high)",
+    "robustness: two dummy contrasts; V10 (C9) as an outlet-level check",
+    "country × issue stake (check within the wars): coded a priori by the two human coders from each country's diplomatic, economic and population ties to the issue, on the same 0/1/2 scale",
+    "X14 (October 6, 2026): no country × issue stake is coded — the within-wars check is dropped; nothing in the study is hand-coded"
+   ]
+  },
+  {
+   "id": "C7",
+   "variable": "V8",
+   "label": "Simulated following",
+   "definition": "V1–V3 computed on simulation output",
+   "examples": [],
+   "decision_rules": [
+    "same formulas as C1–C3, on the second half of each issue's period",
+    "agents' frame labels are coded with C2 by the same model coder as the observed articles"
+   ]
+  },
+  {
+   "id": "C8",
+   "variable": "V9",
+   "label": "Correspondent presence",
+   "definition": "The article is a foreign story filed by the outlet's own staff from abroad",
+   "examples": [
+    "staff byline with a dateline outside the outlet's country"
+   ],
+   "decision_rules": [
+    "wire-credited or syndicated stories count as not own staff",
+    "a staff byline with a home-country dateline does not count"
+   ],
+   "categories": [
+    {
+     "code": 1,
+     "label": "yes"
+    },
+    {
+     "code": 0,
+     "label": "no"
+    },
+    {
+     "code": "na",
+     "label": "not a foreign story (C4, C8, C10 only)"
+    }
+   ]
+  },
+  {
+   "id": "C9",
+   "variable": "V10",
+   "label": "Own-country mention",
+   "definition": "The story names the outlet's own country in its title or text",
+   "examples": [
+    "a Nairobi outlet's COP28 story that names Kenya"
+   ],
+   "decision_rules": [
+    "country name, demonym or capital counts",
+    "dateline alone does not count"
+   ],
+   "categories": [
+    {
+     "code": 1,
+     "label": "yes"
+    },
+    {
+     "code": 0,
+     "label": "no"
+    },
+    {
+     "code": "na",
+     "label": "not a foreign story (C4, C8, C10 only)"
+    }
+   ]
+  },
+  {
+   "id": "C10",
+   "variable": "V11",
+   "label": "National-agency credit",
+   "definition": "The article credits a national news agency or a non-Western international agency",
+   "examples": [
+    "BSS (Bangladesh), KNA (Kenya), NAN (Nigeria), PTI (India), SAnews (South Africa), Bernama (Malaysia), Xinhua"
+   ],
+   "decision_rules": [
+    "credit in byline, dateline or end note counts",
+    "an article crediting both a national agency and AP, AFP or Reuters is coded under both C4 and C10"
+   ],
+   "categories": [
+    {
+     "code": 1,
+     "label": "yes"
+    },
+    {
+     "code": 0,
+     "label": "no"
+    },
+    {
+     "code": "na",
+     "label": "not a foreign story (C4, C8, C10 only)"
+    }
+   ]
+  }
+ ],
+ "generated": "2026-09-29T22:34:32+00:00",
+ "note": "Stage 6b: C2 categories and tie rules completed from plan V7; C5 filled from D1 under X1."
+}
