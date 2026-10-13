@@ -1,0 +1,30 @@
+{
+ "run_id": "run_20261009_03",
+ "plan_revision": 5,
+ "script": "data/analysis/p1b_source_check.py",
+ "inputs": [
+  "data/raw/gdelt/g4_host_weeks.csv",
+  "data/raw/mediacloud/r1_source_weeks.jsonl",
+  "data/sampling/census_urls.csv",
+  "data/coded/following_cells.csv",
+  "data/raw/gdelt/g6b_issue_event_weeks.csv"
+ ],
+ "sha256s": {
+  "data/raw/gdelt/g4_host_weeks.csv": "e82d6b94f1bfde786556feb533fe1ad090c6831aa081b41aa92dff485bae086a",
+  "data/raw/mediacloud/r1_source_weeks.jsonl": "9d8529676dc639b3a3ab83976809ecaac61c3bfbb4167a6f10c855e7a3ab41d4",
+  "data/sampling/census_urls.csv": "408ce37b604996d0207ef4c84baddf867c3268a297a2b3857c1a51066f612600",
+  "data/coded/following_cells.csv": "49b4c5f1fe5deec669074d4d6ef7dbffeac4943261c0ad11ab9122682396e00d",
+  "data/raw/gdelt/g6b_issue_event_weeks.csv": "64239ecf33f48609ff47943727580c764722e86b081bff95b6c0cf370dec8c2c"
+ },
+ "started": "2026-10-09T18:38:29+00:00",
+ "finished": "2026-10-09T18:38:30+00:00",
+ "environment": "data/analysis/environment.txt",
+ "seed": 20261006,
+ "deviations_applied": [
+  "X5",
+  "X13",
+  "X7"
+ ],
+ "model": null,
+ "notes": "Source check promised in X5 (amended_2): GDELT title-based shares for every outlet against the Media Cloud series; descriptive, no model."
+}

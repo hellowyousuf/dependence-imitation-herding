@@ -1,0 +1,529 @@
+{
+ "schema": "rihlah-results/2.0",
+ "run_id": "run_20261009_03",
+ "plan_revision": 5,
+ "generated": "2026-10-09T18:38:30+00:00",
+ "tables": [
+  {
+   "label": "T12",
+   "title": "Source Check (X5): Media Cloud Series Against GDELT Title-Based Series, by Tier and Cell",
+   "answers": [
+    "RQ1"
+   ],
+   "columns": [
+    "Tier / cell",
+    "Cells (n) / tier",
+    "Media Cloud cells (n) / source",
+    "r between the two sources' weekly issue shares, M (SD) / cell r",
+    "Salience following V1, main series, M (SD) / cell",
+    "Salience following V1 from GDELT shares, M (SD) / cell",
+    "r of main vs GDELT V1 across cells / weeks (n)"
+   ],
+   "rows": [
+    [
+     "Periphery",
+     "26",
+     "18",
+     "0.68 (0.34)",
+     "0.41 (0.28)",
+     "0.28 (0.28)",
+     "0.70"
+    ],
+    [
+     "Semi-periphery",
+     "26",
+     "26",
+     "0.87 (0.12)",
+     "0.27 (0.31)",
+     "0.30 (0.24)",
+     "0.18"
+    ],
+    [
+     "Daily Nation · COP27/COP28",
+     "periphery",
+     "Media Cloud",
+     "0.81",
+     "0.76",
+     "0.85",
+     "140"
+    ],
+    [
+     "Daily Nation · Gaza",
+     "periphery",
+     "Media Cloud",
+     "0.88",
+     "-0.06",
+     "0.32",
+     "140"
+    ],
+    [
+     "Daily Nation · Ukraine",
+     "periphery",
+     "Media Cloud",
+     "0.62",
+     "0.22",
+     "0.38",
+     "140"
+    ],
+    [
+     "IOL · COP27/COP28",
+     "periphery",
+     "Media Cloud",
+     "0.85",
+     "0.84",
+     "0.76",
+     "127"
+    ],
+    [
+     "IOL · Gaza",
+     "periphery",
+     "Media Cloud",
+     "0.91",
+     "0.43",
+     "0.02",
+     "127"
+    ],
+    [
+     "IOL · Ukraine",
+     "periphery",
+     "Media Cloud",
+     "0.92",
+     "0.51",
+     "0.11",
+     "127"
+    ],
+    [
+     "New Age · Gaza",
+     "periphery",
+     "GDELT (main series)",
+     "1.00",
+     "0.33",
+     "0.02",
+     "130"
+    ],
+    [
+     "New Age · Ukraine",
+     "periphery",
+     "GDELT (main series)",
+     "1.00",
+     "0.27",
+     "0.25",
+     "130"
+    ],
+    [
+     "The Citizen · COP27/COP28",
+     "periphery",
+     "Media Cloud",
+     "0.83",
+     "0.80",
+     "0.53",
+     "93"
+    ],
+    [
+     "The Citizen · Gaza",
+     "periphery",
+     "Media Cloud",
+     "0.87",
+     "0.32",
+     "-0.02",
+     "93"
+    ],
+    [
+     "The Citizen · Ukraine",
+     "periphery",
+     "Media Cloud",
+     "0.58",
+     "0.43",
+     "0.17",
+     "93"
+    ],
+    [
+     "The Daily Star · COP27/COP28",
+     "periphery",
+     "GDELT (main series)",
+     "1.00",
+     "0.77",
+     "0.80",
+     "149"
+    ],
+    [
+     "The Daily Star · Gaza",
+     "periphery",
+     "GDELT (main series)",
+     "1.00",
+     "-0.11",
+     "0.47",
+     "149"
+    ],
+    [
+     "The Daily Star · Ukraine",
+     "periphery",
+     "GDELT (main series)",
+     "1.00",
+     "0.12",
+     "0.38",
+     "149"
+    ],
+    [
+     "The Star (Kenya) · COP27/COP28",
+     "periphery",
+     "Media Cloud",
+     "0.88",
+     "0.44",
+     "0.22",
+     "81"
+    ],
+    [
+     "The Star (Kenya) · Gaza",
+     "periphery",
+     "Media Cloud",
+     "0.90",
+     "0.32",
+     "0.41",
+     "81"
+    ],
+    [
+     "The Star (Kenya) · Ukraine",
+     "periphery",
+     "Media Cloud",
+     "0.66",
+     "0.50",
+     "0.41",
+     "81"
+    ],
+    [
+     "TimesLIVE · COP27/COP28",
+     "periphery",
+     "Media Cloud",
+     "0.83",
+     "0.77",
+     "0.40",
+     "149"
+    ],
+    [
+     "TimesLIVE · Gaza",
+     "periphery",
+     "Media Cloud",
+     "0.88",
+     "0.42",
+     "0.18",
+     "149"
+    ],
+    [
+     "TimesLIVE · Ukraine",
+     "periphery",
+     "Media Cloud",
+     "0.94",
+     "0.54",
+     "0.54",
+     "149"
+    ],
+    [
+     "Tuko · COP27/COP28",
+     "periphery",
+     "Media Cloud",
+     "-0.07",
+     "-0.00",
+     "-0.18",
+     "89"
+    ],
+    [
+     "Tuko · Gaza",
+     "periphery",
+     "Media Cloud",
+     "-0.07",
+     "0.19",
+     "0.07",
+     "89"
+    ],
+    [
+     "Tuko · Ukraine",
+     "periphery",
+     "Media Cloud",
+     "0.05",
+     "-0.01",
+     "-0.08",
+     "89"
+    ],
+    [
+     "bdnews24.com · COP27/COP28",
+     "periphery",
+     "GDELT (main series)",
+     "0.99",
+     "0.71",
+     "0.72",
+     "145"
+    ],
+    [
+     "bdnews24.com · Gaza",
+     "periphery",
+     "GDELT (main series)",
+     "0.94",
+     "-0.15",
+     "0.45",
+     "145"
+    ],
+    [
+     "bdnews24.com · Ukraine",
+     "periphery",
+     "GDELT (main series)",
+     "0.91",
+     "0.41",
+     "0.41",
+     "145"
+    ],
+    [
+     "Daily Post · COP27/COP28",
+     "semi-periphery",
+     "Media Cloud",
+     "0.97",
+     "0.10",
+     "0.16",
+     "149"
+    ],
+    [
+     "Daily Post · Gaza",
+     "semi-periphery",
+     "Media Cloud",
+     "0.97",
+     "0.20",
+     "0.20",
+     "149"
+    ],
+    [
+     "Daily Post · Ukraine",
+     "semi-periphery",
+     "Media Cloud",
+     "0.98",
+     "0.18",
+     "0.32",
+     "149"
+    ],
+    [
+     "Hindustan Times · COP27/COP28",
+     "semi-periphery",
+     "Media Cloud",
+     "0.80",
+     "0.75",
+     "0.10",
+     "130"
+    ],
+    [
+     "Hindustan Times · Gaza",
+     "semi-periphery",
+     "Media Cloud",
+     "0.91",
+     "0.17",
+     "0.53",
+     "130"
+    ],
+    [
+     "Hindustan Times · Ukraine",
+     "semi-periphery",
+     "Media Cloud",
+     "0.47",
+     "0.37",
+     "-0.04",
+     "130"
+    ],
+    [
+     "Malay Mail · COP27/COP28",
+     "semi-periphery",
+     "Media Cloud",
+     "0.86",
+     "0.73",
+     "0.18",
+     "147"
+    ],
+    [
+     "Malay Mail · Gaza",
+     "semi-periphery",
+     "Media Cloud",
+     "0.91",
+     "0.60",
+     "-0.01",
+     "147"
+    ],
+    [
+     "Malay Mail · Ukraine",
+     "semi-periphery",
+     "Media Cloud",
+     "0.87",
+     "0.81",
+     "0.36",
+     "147"
+    ],
+    [
+     "Malaysiakini · Gaza",
+     "semi-periphery",
+     "Media Cloud",
+     "0.84",
+     "0.13",
+     "0.20",
+     "149"
+    ],
+    [
+     "Malaysiakini · Ukraine",
+     "semi-periphery",
+     "Media Cloud",
+     "0.85",
+     "-0.15",
+     "0.04",
+     "149"
+    ],
+    [
+     "New Sarawak Tribune · COP27/COP28",
+     "semi-periphery",
+     "Media Cloud",
+     "—",
+     "0.06",
+     "—",
+     "0"
+    ],
+    [
+     "New Sarawak Tribune · Gaza",
+     "semi-periphery",
+     "Media Cloud",
+     "—",
+     "0.29",
+     "—",
+     "0"
+    ],
+    [
+     "New Sarawak Tribune · Ukraine",
+     "semi-periphery",
+     "Media Cloud",
+     "—",
+     "0.36",
+     "—",
+     "0"
+    ],
+    [
+     "Nigerian Tribune · COP27/COP28",
+     "semi-periphery",
+     "Media Cloud",
+     "0.61",
+     "0.33",
+     "0.62",
+     "149"
+    ],
+    [
+     "Nigerian Tribune · Gaza",
+     "semi-periphery",
+     "Media Cloud",
+     "0.89",
+     "-0.22",
+     "0.27",
+     "149"
+    ],
+    [
+     "Nigerian Tribune · Ukraine",
+     "semi-periphery",
+     "Media Cloud",
+     "0.88",
+     "0.03",
+     "0.03",
+     "149"
+    ],
+    [
+     "Punch · COP27/COP28",
+     "semi-periphery",
+     "Media Cloud",
+     "0.93",
+     "0.34",
+     "0.21",
+     "146"
+    ],
+    [
+     "Punch · Gaza",
+     "semi-periphery",
+     "Media Cloud",
+     "0.87",
+     "-0.24",
+     "0.32",
+     "146"
+    ],
+    [
+     "Punch · Ukraine",
+     "semi-periphery",
+     "Media Cloud",
+     "0.93",
+     "0.22",
+     "0.15",
+     "146"
+    ],
+    [
+     "The Hindu · COP27/COP28",
+     "semi-periphery",
+     "Media Cloud",
+     "0.96",
+     "0.84",
+     "0.82",
+     "149"
+    ],
+    [
+     "The Hindu · Gaza",
+     "semi-periphery",
+     "Media Cloud",
+     "0.92",
+     "0.32",
+     "0.46",
+     "149"
+    ],
+    [
+     "The Hindu · Ukraine",
+     "semi-periphery",
+     "Media Cloud",
+     "0.93",
+     "0.46",
+     "0.29",
+     "149"
+    ],
+    [
+     "Times of India · COP27/COP28",
+     "semi-periphery",
+     "Media Cloud",
+     "0.95",
+     "0.51",
+     "0.85",
+     "149"
+    ],
+    [
+     "Times of India · Gaza",
+     "semi-periphery",
+     "Media Cloud",
+     "0.91",
+     "-0.28",
+     "0.46",
+     "149"
+    ],
+    [
+     "Times of India · Ukraine",
+     "semi-periphery",
+     "Media Cloud",
+     "0.93",
+     "0.23",
+     "0.34",
+     "149"
+    ]
+   ],
+   "note": "The two tier rows summarize the Media Cloud cells (Bangladesh's three outlets draw their main series from GDELT under X5 and are listed with the cells only). For every outlet, GDELT's Global Knowledge Graph host rows give weekly article totals and the number of page titles matching the codebook C1 terms for each issue (D21), the same measure the Bangladesh outlets use; weeks with fewer than 5 articles are dropped. r between sources is the Pearson correlation of the weekly issue shares from Media Cloud (census stories over the source's story count) and from GDELT titles over the weeks both hold. V1 from GDELT shares recomputes the event-adjusted salience correlation with both the outlet and the core set measured from GDELT titles (core = mean of the core hosts present; The Washington Post included, X7). Columns read per tier row as: cells, Media Cloud cells, mean r between sources, mean main V1, mean GDELT V1, correlation of the two V1 values across cells; per cell row as: tier, source of the main series, r between sources, main V1, GDELT V1, weeks.",
+   "stats": [
+    {
+     "name": "source_check_periphery",
+     "value": "Periphery: r between sources M = 0.68, main V1 M = 0.41, GDELT V1 M = 0.28, r(main V1, GDELT V1) across cells = 0.70 (Media Cloud cells n = 18)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "source_check_semi-periphery",
+     "value": "Semi-periphery: r between sources M = 0.87, main V1 M = 0.27, GDELT V1 M = 0.30, r(main V1, GDELT V1) across cells = 0.18 (Media Cloud cells n = 26)",
+     "p": null,
+     "effect": null
+    }
+   ]
+  }
+ ],
+ "figures": [],
+ "descriptives": []
+}
