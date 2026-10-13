@@ -1,0 +1,67 @@
+country,group,outlet,issue,census_raw,census_dedup,opinion_excluded,eligible,status
+core,core,bbc,cop,331,316,12,304,random 50
+core,core,bbc,gaza,4874,4581,85,4496,random 50
+core,core,bbc,ukraine,12727,11899,139,11760,random 50
+Bangladesh,periphery,bdnews24.com,cop,33,33,0,33,whole cell
+Bangladesh,periphery,bdnews24.com,gaza,815,799,1,798,random 50
+Bangladesh,periphery,bdnews24.com,ukraine,2292,2274,2,2272,random 50
+South Africa,periphery,citizen.co.za,cop,129,129,15,114,random 50
+South Africa,periphery,citizen.co.za,gaza,1240,1238,78,1160,random 50
+South Africa,periphery,citizen.co.za,ukraine,2340,2313,182,2131,random 50
+Nigeria,semi-periphery,dailypost.ng,cop,68,68,0,68,random 50
+Nigeria,semi-periphery,dailypost.ng,gaza,488,488,0,488,random 50
+Nigeria,semi-periphery,dailypost.ng,ukraine,1293,1293,0,1293,random 50
+India,semi-periphery,hindustantimes.com,cop,747,740,77,663,random 50
+India,semi-periphery,hindustantimes.com,gaza,10138,10085,196,9889,random 50
+India,semi-periphery,hindustantimes.com,ukraine,13813,13796,375,13421,random 50
+South Africa,periphery,iol.co.za,cop,301,300,46,254,random 50
+South Africa,periphery,iol.co.za,gaza,1619,1607,262,1345,random 50
+South Africa,periphery,iol.co.za,ukraine,4497,4456,576,3880,random 50
+Malaysia,semi-periphery,malaymail.com,cop,330,329,0,329,random 50
+Malaysia,semi-periphery,malaymail.com,gaza,4791,4786,8,4778,random 50
+Malaysia,semi-periphery,malaymail.com,ukraine,10093,10080,19,10061,random 50
+Malaysia,semi-periphery,malaysiakini.com,cop,2,2,0,2,"dropped (<20 stories, A17)"
+Malaysia,semi-periphery,malaysiakini.com,gaza,235,235,0,235,random 50
+Malaysia,semi-periphery,malaysiakini.com,ukraine,97,97,0,97,random 50
+Kenya,periphery,nation.africa,cop,351,350,133,217,random 50
+Kenya,periphery,nation.africa,gaza,583,581,112,469,random 50
+Kenya,periphery,nation.africa,ukraine,1419,1410,375,1035,random 50
+Bangladesh,periphery,newagebd.net,cop,12,11,0,11,"dropped (<20 stories, A17)"
+Bangladesh,periphery,newagebd.net,gaza,184,184,0,184,random 50
+Bangladesh,periphery,newagebd.net,ukraine,321,319,1,318,random 50
+Malaysia,semi-periphery,newsarawaktribune.com.my,cop,36,36,0,36,whole cell
+Malaysia,semi-periphery,newsarawaktribune.com.my,gaza,270,270,0,270,random 50
+Malaysia,semi-periphery,newsarawaktribune.com.my,ukraine,322,322,0,322,random 50
+core,core,nytimes.com,cop,437,429,23,406,random 50
+core,core,nytimes.com,gaza,10970,10736,1135,9601,random 50
+core,core,nytimes.com,ukraine,24235,23208,1603,21605,random 50
+Nigeria,semi-periphery,punchng.com,cop,201,201,1,200,random 50
+Nigeria,semi-periphery,punchng.com,gaza,798,796,0,796,random 50
+Nigeria,semi-periphery,punchng.com,ukraine,2579,2575,2,2573,random 50
+Kenya,periphery,the-star.co.ke,cop,411,409,30,379,random 50
+Kenya,periphery,the-star.co.ke,gaza,1375,1373,29,1344,random 50
+Kenya,periphery,the-star.co.ke,ukraine,4198,4193,103,4090,random 50
+Bangladesh,periphery,thedailystar.net,cop,87,85,22,63,random 50
+Bangladesh,periphery,thedailystar.net,gaza,1065,1041,54,987,random 50
+Bangladesh,periphery,thedailystar.net,ukraine,1019,1016,42,974,random 50
+core,core,theguardian.com,cop,1329,1325,152,1173,random 50
+core,core,theguardian.com,gaza,9962,9952,1250,8702,random 50
+core,core,theguardian.com,ukraine,22312,22290,2138,20152,random 50
+India,semi-periphery,thehindu.com,cop,644,622,70,552,random 50
+India,semi-periphery,thehindu.com,gaza,4826,4803,319,4484,random 50
+India,semi-periphery,thehindu.com,ukraine,11594,11484,746,10738,random 50
+South Africa,periphery,timeslive.co.za,cop,81,81,4,77,random 50
+South Africa,periphery,timeslive.co.za,gaza,910,907,10,897,random 50
+South Africa,periphery,timeslive.co.za,ukraine,2064,2060,32,2028,random 50
+India,semi-periphery,timesofindia,cop,940,920,93,827,random 50
+India,semi-periphery,timesofindia,gaza,13936,13858,263,13595,random 50
+India,semi-periphery,timesofindia,ukraine,25218,24874,1020,23854,random 50
+Nigeria,semi-periphery,tribuneonlineng.com,cop,423,423,0,423,random 50
+Nigeria,semi-periphery,tribuneonlineng.com,gaza,634,630,0,630,random 50
+Nigeria,semi-periphery,tribuneonlineng.com,ukraine,1160,1148,0,1148,random 50
+Kenya,periphery,tuko.co.ke,cop,33,33,0,33,whole cell
+Kenya,periphery,tuko.co.ke,gaza,209,209,1,208,random 50
+Kenya,periphery,tuko.co.ke,ukraine,458,458,5,453,random 50
+core,core,washingtonpost.com,cop,445,434,27,407,random 50
+core,core,washingtonpost.com,gaza,4130,4091,673,3418,random 50
+core,core,washingtonpost.com,ukraine,15161,15059,2481,12578,random 50

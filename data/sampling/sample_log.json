@@ -1,0 +1,12 @@
+{
+ "cells": 66,
+ "cells_dropped": 2,
+ "census_dedup": 237150,
+ "sampled": 3152,
+ "log": {
+  "host_filtered": 38456,
+  "out_of_period": 8,
+  "dup_url": 977,
+  "dup_title_day": 2508
+ }
+}
