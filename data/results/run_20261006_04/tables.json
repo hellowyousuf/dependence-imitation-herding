@@ -1,0 +1,589 @@
+{
+ "schema": "rihlah-results/2.0",
+ "run_id": "run_20261006_04",
+ "plan_revision": 5,
+ "generated": "2026-10-06T16:36:23+00:00",
+ "tables": [
+  {
+   "label": "T6",
+   "title": "Mixed Models of Following on Tier × Local Stake (H3), the Second Falsifier, and Holm Decisions Across the Nine Confirmatory Tests",
+   "answers": [
+    "H1",
+    "H2",
+    "H3"
+   ],
+   "columns": [
+    "Model",
+    "Predictor",
+    "Level",
+    "b",
+    "95% CI",
+    "p",
+    "Cells (n)",
+    "Random effects / decision"
+   ],
+   "rows": [
+    [
+     "H1",
+     "Tier (periphery)",
+     "Salience",
+     "0.103",
+     "[-0.148, 0.354]",
+     "1.000",
+     "52",
+     "not supported"
+    ],
+    [
+     "H1",
+     "Tier (periphery)",
+     "Framing",
+     "-0.010",
+     "[-0.065, 0.046]",
+     "1.000",
+     "52",
+     "not supported"
+    ],
+    [
+     "H1",
+     "Tier (periphery)",
+     "Timing",
+     "-0.026",
+     "[-0.132, 0.081]",
+     "1.000",
+     "37",
+     "not supported"
+    ],
+    [
+     "H2",
+     "Wire reliance",
+     "Salience",
+     "-0.020",
+     "[-0.267, 0.227]",
+     "1.000",
+     "52",
+     "not supported"
+    ],
+    [
+     "H2",
+     "Wire reliance",
+     "Framing",
+     "0.019",
+     "[-0.066, 0.104]",
+     "1.000",
+     "52",
+     "not supported"
+    ],
+    [
+     "H2",
+     "Wire reliance",
+     "Timing",
+     "0.175",
+     "[0.084, 0.267]",
+     ".002",
+     "37",
+     "supported"
+    ],
+    [
+     "H3",
+     "Periphery × stake",
+     "Salience",
+     "0.061",
+     "[-0.114, 0.236]",
+     "1.000",
+     "52",
+     "not supported"
+    ],
+    [
+     "H3",
+     "Periphery × stake",
+     "Framing",
+     "0.019",
+     "[-0.032, 0.070]",
+     "1.000",
+     "52",
+     "not supported"
+    ],
+    [
+     "H3",
+     "Periphery × stake",
+     "Timing",
+     "0.049",
+     "[-0.020, 0.117]",
+     "1.000",
+     "37",
+     "not supported"
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Periphery × stake",
+     "Salience",
+     "0.061",
+     "[-0.114, 0.236]",
+     ".495",
+     "52",
+     "n = 52, var(country) = 0.0138, var(outlet) = 0.0095, residual = 0.0669"
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Stake (semi-periphery slope)",
+     "Salience",
+     "0.083",
+     "[-0.041, 0.207]",
+     ".192",
+     "52",
+     ""
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Periphery (at stake 0)",
+     "Salience",
+     "0.042",
+     "[-0.260, 0.344]",
+     ".785",
+     "52",
+     ""
+    ],
+    [
+     "H3 robustness: two dummy contrasts",
+     "Periphery × stake 1 (Gaza vs Ukraine)",
+     "Salience",
+     "0.027",
+     "[-0.241, 0.295]",
+     ".843",
+     "52",
+     "n = 52, var(country) = 0.0135, var(outlet) = 0.0174, residual = 0.0420"
+    ],
+    [
+     "H3 robustness: two dummy contrasts",
+     "Periphery × stake 2 (COP vs Ukraine)",
+     "Salience",
+     "0.133",
+     "[-0.146, 0.412]",
+     ".349",
+     "52",
+     "n = 52, var(country) = 0.0135, var(outlet) = 0.0174, residual = 0.0420"
+    ],
+    [
+     "H3 robustness: own-country share V10 in place of stake",
+     "Periphery × V10",
+     "Salience",
+     "2.510",
+     "[-0.916, 5.937]",
+     ".151",
+     "52",
+     "n = 52, var(country) = 0.0307, var(outlet) = 0.0187, residual = 0.0594"
+    ],
+    [
+     "H3 robustness: own-country share V10 in place of stake",
+     "V10 (semi-periphery slope)",
+     "Salience",
+     "1.023",
+     "[-0.291, 2.337]",
+     ".127",
+     "52",
+     ""
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Periphery × stake",
+     "Framing",
+     "0.019",
+     "[-0.032, 0.070]",
+     ".463",
+     "52",
+     "n = 52, var(outlet) = 0.0016, residual = 0.0057"
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Stake (semi-periphery slope)",
+     "Framing",
+     "-0.006",
+     "[-0.042, 0.030]",
+     ".750",
+     "52",
+     ""
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Periphery (at stake 0)",
+     "Framing",
+     "-0.028",
+     "[-0.102, 0.046]",
+     ".457",
+     "52",
+     ""
+    ],
+    [
+     "H3 main fit before dropping the zero-variance component",
+     "Periphery × stake",
+     "Framing",
+     "0.019",
+     "[-0.033, 0.071]",
+     ".470",
+     "52",
+     "n = 52, var(country) = 0.0000, var(outlet) = 0.0016, residual = 0.0057"
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Periphery × stake",
+     "Framing (without headline-only Post copies, X11)",
+     "0.026",
+     "[-0.032, 0.083]",
+     ".385",
+     "52",
+     "n = 52, var(country) = 0.0001, var(outlet) = 0.0000, residual = 0.0073"
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Stake (semi-periphery slope)",
+     "Framing (without headline-only Post copies, X11)",
+     "-0.005",
+     "[-0.046, 0.035]",
+     ".795",
+     "52",
+     ""
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Periphery (at stake 0)",
+     "Framing (without headline-only Post copies, X11)",
+     "-0.029",
+     "[-0.103, 0.046]",
+     ".447",
+     "52",
+     ""
+    ],
+    [
+     "H3 robustness: two dummy contrasts",
+     "Periphery × stake 1 (Gaza vs Ukraine)",
+     "Framing",
+     "0.052",
+     "[-0.060, 0.165]",
+     ".364",
+     "52",
+     "n = 52, var(country) = 0.0002, var(outlet) = 0.0000, residual = 0.0074"
+    ],
+    [
+     "H3 robustness: two dummy contrasts",
+     "Periphery × stake 2 (COP vs Ukraine)",
+     "Framing",
+     "0.036",
+     "[-0.080, 0.152]",
+     ".545",
+     "52",
+     "n = 52, var(country) = 0.0002, var(outlet) = 0.0000, residual = 0.0074"
+    ],
+    [
+     "H3 robustness: own-country share V10 in place of stake",
+     "Periphery × V10",
+     "Framing",
+     "-0.068",
+     "[-0.981, 0.846]",
+     ".885",
+     "52",
+     "n = 52, var(outlet) = 0.0017, residual = 0.0053"
+    ],
+    [
+     "H3 robustness: own-country share V10 in place of stake",
+     "V10 (semi-periphery slope)",
+     "Framing",
+     "0.323",
+     "[-0.048, 0.695]",
+     ".088",
+     "52",
+     ""
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Periphery × stake",
+     "Timing",
+     "0.049",
+     "[-0.020, 0.117]",
+     ".165",
+     "37",
+     "n = 37, var(country) = 0.0012, var(outlet) = 0.0064, residual = 0.0048"
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Stake (semi-periphery slope)",
+     "Timing",
+     "0.007",
+     "[-0.039, 0.053]",
+     ".779",
+     "37",
+     ""
+    ],
+    [
+     "H3 tier × stake (linear 0/1/2)",
+     "Periphery (at stake 0)",
+     "Timing",
+     "-0.058",
+     "[-0.173, 0.057]",
+     ".322",
+     "37",
+     ""
+    ],
+    [
+     "H3 robustness: two dummy contrasts",
+     "Periphery × stake 1 (Gaza vs Ukraine)",
+     "Timing",
+     "0.020",
+     "[-0.077, 0.117]",
+     ".684",
+     "37",
+     "n = 37, var(country) = 0.0008, var(outlet) = 0.0068, residual = 0.0049"
+    ],
+    [
+     "H3 robustness: two dummy contrasts",
+     "Periphery × stake 2 (COP vs Ukraine)",
+     "Timing",
+     "0.135",
+     "[-0.023, 0.293]",
+     ".093",
+     "37",
+     "n = 37, var(country) = 0.0008, var(outlet) = 0.0068, residual = 0.0049"
+    ],
+    [
+     "H3 robustness: own-country share V10 in place of stake",
+     "Periphery × V10",
+     "Timing",
+     "0.092",
+     "[-1.731, 1.916]",
+     ".921",
+     "37",
+     "n = 37, var(country) = 0.0020, var(outlet) = 0.0054, residual = 0.0059"
+    ],
+    [
+     "H3 robustness: own-country share V10 in place of stake",
+     "V10 (semi-periphery slope)",
+     "Timing",
+     "-0.099",
+     "[-0.861, 0.664]",
+     ".800",
+     "37",
+     ""
+    ],
+    [
+     "Second T1 falsifier: periphery following at high stake (COP) vs mismatched-issue benchmark",
+     "Mean following 0.64 vs benchmark -0.20",
+     "Salience",
+     "0.837",
+     "paired t(7) = 9.57",
+     "one-sided < .001, Holm < .001",
+     "8",
+     "falsifier does not hold (following above benchmark)"
+    ],
+    [
+     "Second T1 falsifier: periphery following at high stake (COP) vs mismatched-issue benchmark",
+     "Mean following -0.09 vs benchmark -0.12",
+     "Framing",
+     "0.025",
+     "paired t(7) = 1.31",
+     "one-sided .116, Holm .116",
+     "8",
+     "falsifier holds (following not above benchmark)"
+    ],
+    [
+     "Second T1 falsifier: periphery following at high stake (COP) vs mismatched-issue benchmark",
+     "Mean following 0.04 vs benchmark 0.04",
+     "Timing",
+     "—",
+     "—",
+     "one-sided —, Holm —",
+     "2",
+     "not testable (too few cells)"
+    ],
+    [
+     "H3 check within the two wars with country × issue stake (A28)",
+     "—",
+     "All levels",
+     "—",
+     "—",
+     "—",
+     "—",
+     "not run: the a-priori country × issue stake sheets hold no codes (X10 removed the human coders); pending the author's decision"
+    ]
+   ],
+   "note": "The first nine rows give the Holm-adjusted decision for each confirmatory test (H1–H3 × salience, framing, timing; estimates from Tables T3 and T5 and this table; decision = positive coefficient and Holm-adjusted p < .05). H3 models: stake is coded Ukraine 0, Gaza 1, COP 2 and enters linearly with tier (periphery = 1); issue is dropped because stake and issue coincide; random intercepts for outlet nested in country. A positive periphery × stake coefficient means the decline in following from low to high stake is smaller among periphery outlets. The dummy-contrast and V10 models are robustness checks; V10 is the share of an outlet's issue stories whose title names its own country. The second falsifier compares periphery following at high stake (the 8 periphery COP cells; timing 5 with enough events) with the same cells' following against the core series or sample of a different issue (salience: Ukraine core series; framing: Ukraine core sample; timing: core first mentions permuted across events), paired t test, one-sided, Holm-adjusted within the three levels. The within-wars check with a country × issue stake code was not run (see the last row).",
+   "stats": [
+    {
+     "name": "H3_salience_interaction",
+     "value": "b = 0.061, 95% CI [-0.114, 0.236], z = 0.68, n = 52 cells",
+     "p": ".495",
+     "effect": null
+    },
+    {
+     "name": "H3_salience_stake_slope_semi",
+     "value": "b = 0.083 per stake step, 95% CI [-0.041, 0.207]",
+     "p": ".192",
+     "effect": null
+    },
+    {
+     "name": "H3_dummies_salience_1",
+     "value": "b = 0.027, 95% CI [-0.241, 0.295], n = 52 cells",
+     "p": ".843",
+     "effect": null
+    },
+    {
+     "name": "H3_dummies_salience_2",
+     "value": "b = 0.133, 95% CI [-0.146, 0.412], n = 52 cells",
+     "p": ".349",
+     "effect": null
+    },
+    {
+     "name": "H3_V10_salience_interaction",
+     "value": "b = 2.510, 95% CI [-0.916, 5.937], n = 52 cells",
+     "p": ".151",
+     "effect": null
+    },
+    {
+     "name": "H3_framing_interaction",
+     "value": "b = 0.019, 95% CI [-0.032, 0.070], z = 0.73, n = 52 cells",
+     "p": ".463",
+     "effect": null
+    },
+    {
+     "name": "H3_framing_stake_slope_semi",
+     "value": "b = -0.006 per stake step, 95% CI [-0.042, 0.030]",
+     "p": ".750",
+     "effect": null
+    },
+    {
+     "name": "H3_framing_interaction_x11",
+     "value": "b = 0.026, 95% CI [-0.032, 0.083], n = 52 cells",
+     "p": ".385",
+     "effect": null
+    },
+    {
+     "name": "H3_dummies_framing_1",
+     "value": "b = 0.052, 95% CI [-0.060, 0.165], n = 52 cells",
+     "p": ".364",
+     "effect": null
+    },
+    {
+     "name": "H3_dummies_framing_2",
+     "value": "b = 0.036, 95% CI [-0.080, 0.152], n = 52 cells",
+     "p": ".545",
+     "effect": null
+    },
+    {
+     "name": "H3_V10_framing_interaction",
+     "value": "b = -0.068, 95% CI [-0.981, 0.846], n = 52 cells",
+     "p": ".885",
+     "effect": null
+    },
+    {
+     "name": "H3_timing_interaction",
+     "value": "b = 0.049, 95% CI [-0.020, 0.117], z = 1.39, n = 37 cells",
+     "p": ".165",
+     "effect": null
+    },
+    {
+     "name": "H3_timing_stake_slope_semi",
+     "value": "b = 0.007 per stake step, 95% CI [-0.039, 0.053]",
+     "p": ".779",
+     "effect": null
+    },
+    {
+     "name": "H3_dummies_timing_1",
+     "value": "b = 0.020, 95% CI [-0.077, 0.117], n = 37 cells",
+     "p": ".684",
+     "effect": null
+    },
+    {
+     "name": "H3_dummies_timing_2",
+     "value": "b = 0.135, 95% CI [-0.023, 0.293], n = 37 cells",
+     "p": ".093",
+     "effect": null
+    },
+    {
+     "name": "H3_V10_timing_interaction",
+     "value": "b = 0.092, 95% CI [-1.731, 1.916], n = 37 cells",
+     "p": ".921",
+     "effect": null
+    },
+    {
+     "name": "falsifier2_salience",
+     "value": "periphery COP cells n = 8: following M = 0.635, benchmark M = -0.201, difference M = 0.837, SD = 0.247, paired t = 9.57",
+     "p": "one-sided < .001, Holm < .001",
+     "effect": "falsifier does not hold (following above benchmark)"
+    },
+    {
+     "name": "falsifier2_framing",
+     "value": "periphery COP cells n = 8: following M = -0.090, benchmark M = -0.115, difference M = 0.025, SD = 0.054, paired t = 1.31",
+     "p": "one-sided .116, Holm .116",
+     "effect": "falsifier holds (following not above benchmark)"
+    },
+    {
+     "name": "falsifier2_timing",
+     "value": "periphery COP cells n = 2: following M = 0.036, benchmark M = 0.036, difference M = —, SD = —, paired t = —",
+     "p": "one-sided —, Holm —",
+     "effect": "not testable (too few cells)"
+    },
+    {
+     "name": "holm_H1_salience",
+     "value": "b = 0.103, 95% CI [-0.148, 0.354], unadjusted p = .421, Holm-adjusted p = 1.000, n = 52 cells",
+     "p": "1.000",
+     "effect": "not supported"
+    },
+    {
+     "name": "holm_H1_framing",
+     "value": "b = -0.010, 95% CI [-0.065, 0.046], unadjusted p = .729, Holm-adjusted p = 1.000, n = 52 cells",
+     "p": "1.000",
+     "effect": "not supported"
+    },
+    {
+     "name": "holm_H1_timing",
+     "value": "b = -0.026, 95% CI [-0.132, 0.081], unadjusted p = .635, Holm-adjusted p = 1.000, n = 37 cells",
+     "p": "1.000",
+     "effect": "not supported"
+    },
+    {
+     "name": "holm_H2_salience",
+     "value": "b = -0.020, 95% CI [-0.267, 0.227], unadjusted p = .875, Holm-adjusted p = 1.000, n = 52 cells",
+     "p": "1.000",
+     "effect": "not supported"
+    },
+    {
+     "name": "holm_H2_framing",
+     "value": "b = 0.019, 95% CI [-0.066, 0.104], unadjusted p = .663, Holm-adjusted p = 1.000, n = 52 cells",
+     "p": "1.000",
+     "effect": "not supported"
+    },
+    {
+     "name": "holm_H2_timing",
+     "value": "b = 0.175, 95% CI [0.084, 0.267], unadjusted p = < .001, Holm-adjusted p = .002, n = 37 cells",
+     "p": ".002",
+     "effect": "supported"
+    },
+    {
+     "name": "holm_H3_salience",
+     "value": "b = 0.061, 95% CI [-0.114, 0.236], unadjusted p = .495, Holm-adjusted p = 1.000, n = 52 cells",
+     "p": "1.000",
+     "effect": "not supported"
+    },
+    {
+     "name": "holm_H3_framing",
+     "value": "b = 0.019, 95% CI [-0.032, 0.070], unadjusted p = .463, Holm-adjusted p = 1.000, n = 52 cells",
+     "p": "1.000",
+     "effect": "not supported"
+    },
+    {
+     "name": "holm_H3_timing",
+     "value": "b = 0.049, 95% CI [-0.020, 0.117], unadjusted p = .165, Holm-adjusted p = 1.000, n = 37 cells",
+     "p": "1.000",
+     "effect": "not supported"
+    }
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "label": "F2",
+   "title": "Following by Local Stake and Tier",
+   "file": "figures/f2.svg",
+   "note": "Cell means with 95% confidence intervals by issue stake (Ukraine 0, Gaza 1, COP27/COP28 2) and tier; timing over cells with at least 10 matched events."
+  }
+ ],
+ "descriptives": []
+}
