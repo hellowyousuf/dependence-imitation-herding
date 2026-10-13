@@ -1,6 +1,6 @@
 {
  "schema": "release-manifest/1",
- "built": "2026-10-13T01:38:52",
+ "built": "2026-10-13T02:10:38",
  "files": [
   {
    "file": "code/analysis/P5-INSTRUCTIONS.md",
@@ -391,8 +391,8 @@
   },
   {
    "file": "data/raw/mediacloud/r1_source_weeks.jsonl.gz",
-   "sha256": "479df5be0660b29db97a41794576251ec39f8317bba4126e5c1ef8b17b26e06e",
-   "bytes": 1260952,
+   "sha256": "b3c48f49fe7e2045aa9d62a8d5dff8aadd450e82fdfaab0952c20fb434c34933",
+   "bytes": 1260930,
    "from": "data/raw/mediacloud/r1_source_weeks.jsonl",
    "source_id": "D4",
    "licence": "CC-BY-4.0; Media Cloud terms (counts and ids)",
@@ -430,8 +430,8 @@
   },
   {
    "file": "data/raw/mediacloud/r1_stories_gaza.jsonl.gz",
-   "sha256": "64ee4cb4ff4158e2603fb988d7507c343244cccd405506e90e136f6da79a4d03",
-   "bytes": 5567792,
+   "sha256": "5d6ec31c21a36e24d48615e9e90ce9adce6b0c3d7f2564ba5c01972d49b97541",
+   "bytes": 5567770,
    "from": "data/raw/mediacloud/r1_stories_gaza.jsonl",
    "source_id": "D6",
    "licence": "CC-BY-4.0; Media Cloud terms (counts and ids)",
@@ -442,8 +442,8 @@
   },
   {
    "file": "data/raw/mediacloud/r1_stories_ukraine.jsonl.gz.part01",
-   "sha256": "336f4f5cee5e24feb730496bfeeaa3c2c7042d844fced3970f52c2fb57d5f0e1",
-   "bytes": 9000000,
+   "sha256": "66b58f243645e00ce0c3a757f54790f7d55d5278d6cad1a4571623e332917cfd",
+   "bytes": 7000000,
    "from": "data/raw/mediacloud/r1_stories_ukraine.jsonl",
    "source_id": "D5",
    "licence": "CC-BY-4.0; Media Cloud terms (counts and ids)",
@@ -452,12 +452,12 @@
     "title"
    ],
    "part_of": "data/raw/mediacloud/r1_stories_ukraine.jsonl.gz",
-   "whole_sha256": "8503ac403f0565b7b786fba5ae779d8d822092250295f9a153b3347eb221a2f9"
+   "whole_sha256": "0b6edfb6cefce1d27ce0a94eb6cb1a88ef2805ee21d14148d58cac086d7b7a8d"
   },
   {
    "file": "data/raw/mediacloud/r1_stories_ukraine.jsonl.gz.part02",
-   "sha256": "9dc01e0ce0876102b0b877091386a4f33c76126e7dfbaab20a28236bc50eefb1",
-   "bytes": 3939984,
+   "sha256": "b542c3955f704eecae8196abfe967a4e3f47204fcba60f7e6e046db42539d9a2",
+   "bytes": 5939959,
    "from": "data/raw/mediacloud/r1_stories_ukraine.jsonl",
    "source_id": "D5",
    "licence": "CC-BY-4.0; Media Cloud terms (counts and ids)",
@@ -466,7 +466,7 @@
     "title"
    ],
    "part_of": "data/raw/mediacloud/r1_stories_ukraine.jsonl.gz",
-   "whole_sha256": "8503ac403f0565b7b786fba5ae779d8d822092250295f9a153b3347eb221a2f9"
+   "whole_sha256": "0b6edfb6cefce1d27ce0a94eb6cb1a88ef2805ee21d14148d58cac086d7b7a8d"
   },
   {
    "file": "data/raw/mediacloud/r2_stories_cop.jsonl",
@@ -569,58 +569,69 @@
   },
   {
    "file": "data/raw/gdelt/g5_story_events.csv.gz.part01",
-   "sha256": "b7fc54d0231279d9c6932a1e5755a60e49a29f7d3d654065cb00285f2003e3e1",
-   "bytes": 9000000,
+   "sha256": "9b51b8ebc38d64420b8b52d7333db226c1117fe139be36f69445ab9eb66ff862",
+   "bytes": 7000000,
    "from": "data/raw/gdelt/g5_story_events.csv",
    "source_id": "D22",
    "licence": "CC-BY-4.0; GDELT open data, attribution",
    "text_field_stripped": null,
    "part_of": "data/raw/gdelt/g5_story_events.csv.gz",
-   "whole_sha256": "1638720ae6980cc99cee2ea8c5c150fe15f0868541b9566a64f130878708a7bc"
+   "whole_sha256": "80f0043f1d165803a72204f26c9dcbe5cfc8e5ee65a01e9ab868edf6a584bee3"
   },
   {
    "file": "data/raw/gdelt/g5_story_events.csv.gz.part02",
-   "sha256": "a2fa0aee06f5f340d44376d4a1e45246b83731465504228b22cbf7de78732bf3",
-   "bytes": 3155649,
+   "sha256": "7c9715571095c78b51a4416456aab6d382d47128928308916cd8cd6531b4f26d",
+   "bytes": 5155629,
    "from": "data/raw/gdelt/g5_story_events.csv",
    "source_id": "D22",
    "licence": "CC-BY-4.0; GDELT open data, attribution",
    "text_field_stripped": null,
    "part_of": "data/raw/gdelt/g5_story_events.csv.gz",
-   "whole_sha256": "1638720ae6980cc99cee2ea8c5c150fe15f0868541b9566a64f130878708a7bc"
+   "whole_sha256": "80f0043f1d165803a72204f26c9dcbe5cfc8e5ee65a01e9ab868edf6a584bee3"
   },
   {
    "file": "data/raw/gdelt/g6a_event_attributes.csv.gz.part01",
-   "sha256": "1ca92e744175c3de5d33cb8c8535ba3dc9f08f714b40048fe87784516d387e39",
-   "bytes": 9000000,
+   "sha256": "c2d4aa8aa4feeaea955260f7c37eab7b34b619f87f9ecf1273dd10748a25f71c",
+   "bytes": 7000000,
    "from": "data/raw/gdelt/g6a_event_attributes.csv",
    "source_id": "D34",
    "licence": "CC-BY-4.0; GDELT open data, attribution",
    "text_field_stripped": null,
    "part_of": "data/raw/gdelt/g6a_event_attributes.csv.gz",
-   "whole_sha256": "bc622d1d4e59d2c34287fd5a881e088fc9bf2fb45a04bd949a5a2fb5a3996893"
+   "whole_sha256": "9971b9acc81971e6afe7a7fe5148929df0782ce7cabd7e831664e9daa42cef7d"
   },
   {
    "file": "data/raw/gdelt/g6a_event_attributes.csv.gz.part02",
-   "sha256": "a53eaad345f897424e55d0ef0e66305e88066eebdbc175a8e8c8b28c5afced26",
-   "bytes": 9000000,
+   "sha256": "599a34d5c13fef1a3e2aae000c00dd121cd216f08ddfee3eaac2a9eb67d8edc8",
+   "bytes": 7000000,
    "from": "data/raw/gdelt/g6a_event_attributes.csv",
    "source_id": "D34",
    "licence": "CC-BY-4.0; GDELT open data, attribution",
    "text_field_stripped": null,
    "part_of": "data/raw/gdelt/g6a_event_attributes.csv.gz",
-   "whole_sha256": "bc622d1d4e59d2c34287fd5a881e088fc9bf2fb45a04bd949a5a2fb5a3996893"
+   "whole_sha256": "9971b9acc81971e6afe7a7fe5148929df0782ce7cabd7e831664e9daa42cef7d"
   },
   {
    "file": "data/raw/gdelt/g6a_event_attributes.csv.gz.part03",
-   "sha256": "28c24796435018bfe4cfb8f538c12ee5d814cd61f8de8afaa610eb2464dd0a05",
-   "bytes": 3031045,
+   "sha256": "3f0592de7e1153a938ac0fdcdeba351448cfa336af737ac74107766075444438",
+   "bytes": 7000000,
    "from": "data/raw/gdelt/g6a_event_attributes.csv",
    "source_id": "D34",
    "licence": "CC-BY-4.0; GDELT open data, attribution",
    "text_field_stripped": null,
    "part_of": "data/raw/gdelt/g6a_event_attributes.csv.gz",
-   "whole_sha256": "bc622d1d4e59d2c34287fd5a881e088fc9bf2fb45a04bd949a5a2fb5a3996893"
+   "whole_sha256": "9971b9acc81971e6afe7a7fe5148929df0782ce7cabd7e831664e9daa42cef7d"
+  },
+  {
+   "file": "data/raw/gdelt/g6a_event_attributes.csv.gz.part04",
+   "sha256": "147f496652767f21fdce398621f4d68924d9bc4725711cef866d9e107bc38a13",
+   "bytes": 31020,
+   "from": "data/raw/gdelt/g6a_event_attributes.csv",
+   "source_id": "D34",
+   "licence": "CC-BY-4.0; GDELT open data, attribution",
+   "text_field_stripped": null,
+   "part_of": "data/raw/gdelt/g6a_event_attributes.csv.gz",
+   "whole_sha256": "9971b9acc81971e6afe7a7fe5148929df0782ce7cabd7e831664e9daa42cef7d"
   },
   {
    "file": "data/raw/gdelt/g3_bangladesh_census.csv",
@@ -739,9 +750,9 @@
    "text_field_stripped": null
   },
   {
-   "file": "data/sampling/census_urls.csv",
-   "sha256": "3b965b40d6f83a3b25cf3f10f53be7afc26f4deb11ec278ac31746f281af4302",
-   "bytes": 8500451,
+   "file": "data/sampling/census_urls.csv.gz",
+   "sha256": "db161c7571bc6f6515bfb7aa1a3de24014c957b46176573946c781f54fe863ae",
+   "bytes": 231557,
    "from": "data/sampling/census_urls.csv",
    "source_id": "derived from D5-D7, D20",
    "licence": "CC-BY-4.0; Media Cloud terms (counts and ids); GDELT",
@@ -1557,17 +1568,17 @@
   },
   {
    "file": "simulation/feed_events.jsonl.gz",
-   "sha256": "3b7e6c384f1db044352d1f386de45c769262cfe38aea15f882719825a1a54cf9",
-   "bytes": 3108774,
+   "sha256": "eb27256b1b0f9eb85661bbffb98681c062f9a5610a02ff3e09488c1025a00d74",
+   "bytes": 3108756,
    "from": "data/analysis/sim/feed_events.jsonl",
    "source_id": "derived from D34",
    "licence": "CC-BY-4.0; GDELT open data, attribution",
    "text_field_stripped": null
   },
   {
-   "file": "simulation/feed_core.jsonl",
-   "sha256": "47a7254df7a773629280a6f43044ba2498dfd2b792865b754b8316b83d66acaf",
-   "bytes": 8609449,
+   "file": "simulation/feed_core.jsonl.gz",
+   "sha256": "96eba0e5740590f31149333f57abb32dbb9d5eb3c69a56f23aa62968eb67afc9",
+   "bytes": 655765,
    "from": "data/analysis/sim/feed_core.jsonl",
    "source_id": "derived from D5-D7",
    "licence": "CC-BY-4.0; Media Cloud terms (counts and ids)",
