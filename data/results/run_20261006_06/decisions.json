@@ -1,0 +1,207 @@
+{
+ "falsifier2": [
+  {
+   "level": "salience",
+   "n": 8,
+   "mean_follow": 0.635154048478479,
+   "mean_bench": -0.2014909086282738,
+   "mean_diff": 0.8366449571067529,
+   "sd_diff": 0.24726713288901575,
+   "t": 9.570173208280744,
+   "p_one_sided": 1.427979234086739e-05,
+   "holm_p": 2.855958468173478e-05,
+   "verdict": "falsifier does not hold (following above benchmark)"
+  },
+  {
+   "level": "framing",
+   "n": 8,
+   "mean_follow": -0.08982848908268057,
+   "mean_bench": -0.11500436713065924,
+   "mean_diff": 0.025175878047978696,
+   "sd_diff": 0.05429852581285071,
+   "t": 1.3114193303449215,
+   "p_one_sided": 0.11554553781005414,
+   "holm_p": 0.11554553781005414,
+   "verdict": "falsifier holds (following not above benchmark)"
+  },
+  {
+   "level": "timing",
+   "n": 2,
+   "mean_follow": 0.036458333333333356,
+   "mean_bench": 0.036458333333333356,
+   "mean_diff": NaN,
+   "sd_diff": NaN,
+   "t": NaN,
+   "p_one_sided": NaN,
+   "holm_p": NaN,
+   "verdict": "not testable (too few cells)"
+  }
+ ],
+ "family": {
+  "H1_framing": {
+   "hypothesis": "H1",
+   "level": "framing",
+   "term": "periphery",
+   "b": -0.009827671112355841,
+   "ci": [
+    -0.06546056930340148,
+    0.0458052270786898
+   ],
+   "p": 0.7291684780995873,
+   "n": 52,
+   "run_id": "run_20261006_02",
+   "sign_ok": false,
+   "holm_p": 1.0
+  },
+  "H1_salience": {
+   "hypothesis": "H1",
+   "level": "salience",
+   "term": "periphery",
+   "b": 0.10303485658621457,
+   "ci": [
+    -0.14787556859713907,
+    0.35394528176956824
+   ],
+   "p": 0.42090773415221083,
+   "n": 52,
+   "run_id": "run_20261006_02",
+   "sign_ok": true,
+   "holm_p": 1.0
+  },
+  "H1_timing": {
+   "hypothesis": "H1",
+   "level": "timing",
+   "term": "periphery",
+   "b": -0.025785788598216102,
+   "ci": [
+    -0.1323612179588038,
+    0.08078964076237159
+   ],
+   "p": 0.6353496103578515,
+   "n": 37,
+   "run_id": "run_20261006_02",
+   "sign_ok": false,
+   "holm_p": 1.0
+  },
+  "H2_framing": {
+   "hypothesis": "H2",
+   "level": "framing",
+   "term": "V4",
+   "b": 0.018875130253959597,
+   "ci": [
+    -0.06611574260333099,
+    0.10386600311125017
+   ],
+   "p": 0.6633613489940697,
+   "n": 52,
+   "run_id": "run_20261006_03",
+   "sign_ok": true,
+   "falsifier1": {
+    "tier_b_net": -0.013857052686716099,
+    "tier_ci_net": [
+     -0.07445770244128246,
+     0.04674359706785025
+    ],
+    "h1_b": -0.009827671112355841,
+    "half_h1": -0.004913835556177921,
+    "verdict": "not met"
+   },
+   "holm_p": 1.0
+  },
+  "H2_salience": {
+   "hypothesis": "H2",
+   "level": "salience",
+   "term": "V4",
+   "b": -0.019877893398000057,
+   "ci": [
+    -0.26717372106375514,
+    0.227417934267755
+   ],
+   "p": 0.8748161935100608,
+   "n": 52,
+   "run_id": "run_20261006_03",
+   "sign_ok": false,
+   "falsifier1": {
+    "tier_b_net": 0.10762053239667267,
+    "tier_ci_net": [
+     -0.15282059397917697,
+     0.36806165877252234
+    ],
+    "h1_b": 0.10303485658621457,
+    "half_h1": 0.051517428293107285,
+    "verdict": "not met"
+   },
+   "holm_p": 1.0
+  },
+  "H2_timing": {
+   "hypothesis": "H2",
+   "level": "timing",
+   "term": "V4",
+   "b": 0.17537044969491072,
+   "ci": [
+    0.08365111582126947,
+    0.26708978356855195
+   ],
+   "p": 0.0001785937171699289,
+   "n": 37,
+   "run_id": "run_20261006_03",
+   "sign_ok": true,
+   "falsifier1": {
+    "tier_b_net": -0.05345003809963818,
+    "tier_ci_net": [
+     -0.14113290368570722,
+     0.03423282748643086
+    ],
+    "h1_b": -0.025785788598216102,
+    "half_h1": -0.012892894299108051,
+    "verdict": "not met"
+   },
+   "holm_p": 0.00160734345452936
+  },
+  "H3_framing": {
+   "hypothesis": "H3",
+   "level": "framing",
+   "term": "periphery:stake_lin",
+   "b": 0.019120148474139616,
+   "ci": [
+    -0.031980624831771456,
+    0.0702209217800507
+   ],
+   "p": 0.46334438654965393,
+   "n": 52,
+   "run_id": "run_20261006_06",
+   "sign_ok": true,
+   "holm_p": 1.0
+  },
+  "H3_salience": {
+   "hypothesis": "H3",
+   "level": "salience",
+   "term": "periphery:stake_lin",
+   "b": 0.06108043676988001,
+   "ci": [
+    -0.11430907124098821,
+    0.23646994478074823
+   ],
+   "p": 0.4948791737787017,
+   "n": 52,
+   "run_id": "run_20261006_06",
+   "sign_ok": true,
+   "holm_p": 1.0
+  },
+  "H3_timing": {
+   "hypothesis": "H3",
+   "level": "timing",
+   "term": "periphery:stake_lin",
+   "b": 0.0485162574545565,
+   "ci": [
+    -0.019934480787401607,
+    0.1169669956965146
+   ],
+   "p": 0.16477926213973704,
+   "n": 37,
+   "run_id": "run_20261006_06",
+   "sign_ok": true,
+   "holm_p": 1.0
+  }
+ }
+}
