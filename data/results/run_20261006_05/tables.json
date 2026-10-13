@@ -1,0 +1,177 @@
+{
+ "schema": "rihlah-results/2.0",
+ "run_id": "run_20261006_05",
+ "plan_revision": 5,
+ "generated": "2026-10-06T16:36:28+00:00",
+ "tables": [
+  {
+   "label": "T7",
+   "title": "Observational Tests of Prestige Imitation (T2) and Herding (T3)",
+   "answers": [
+    "H2",
+    "RQ2"
+   ],
+   "columns": [
+    "Model",
+    "Predictor",
+    "Level",
+    "b",
+    "95% CI",
+    "p",
+    "n",
+    "Random effects / decision"
+   ],
+   "rows": [
+    [
+     "T2 isomorphism: non-wire framing following, intercept-only",
+     "Intercept (mean V2 on non-wire stories)",
+     "Framing",
+     "-0.102",
+     "[-0.136, -0.068]",
+     "< .001",
+     "52",
+     "n = 52, var(country) = 0.0010, residual = 0.0077"
+    ],
+    [
+     "T2 main fit before dropping the zero-variance component",
+     "Intercept",
+     "Framing",
+     "-0.102",
+     "[-0.136, -0.068]",
+     "< .001",
+     "52",
+     "n = 52, var(country) = 0.0010, var(outlet) = 0.0000, residual = 0.0077"
+    ],
+    [
+     "T2 isomorphism: non-wire framing following, intercept-only",
+     "Intercept (mean V2 on non-wire stories)",
+     "Framing (without headline-only Post copies, X11)",
+     "-0.102",
+     "[-0.136, -0.068]",
+     "< .001",
+     "52",
+     "n = 52, var(country) = 0.0010, residual = 0.0077"
+    ],
+    [
+     "T2 main fit before dropping the zero-variance component",
+     "Intercept",
+     "Framing (without headline-only Post copies, X11)",
+     "-0.102",
+     "[-0.136, -0.068]",
+     "< .001",
+     "52",
+     "n = 52, var(country) = 0.0010, var(outlet) = 0.0000, residual = 0.0077"
+    ],
+    [
+     "Context (no test): all-story vs non-wire framing similarity in the same cells",
+     "M all = -0.096; M non-wire = -0.102",
+     "Framing",
+     "-0.006",
+     "—",
+     "—",
+     "52",
+     "mean within-cell difference (non-wire minus all)"
+    ],
+    [
+     "T3 herding: event-level timing following on uncertainty",
+     "Core outlets on the event's first day (1–4)",
+     "Timing, Ukraine",
+     "-0.1316",
+     "[-0.1726, -0.0906]",
+     "< .001",
+     "20,697 events",
+     "n = 20697, var(country) = 0.0026, var(outlet) = 0.0064, residual = 1.1096"
+    ],
+    [
+     "T3 herding: event-level timing following on uncertainty",
+     "Core outlets on the event's first day (1–4)",
+     "Timing, Gaza",
+     "-0.1640",
+     "[-0.1893, -0.1387]",
+     "< .001",
+     "22,665 events",
+     "n = 22665, var(country) = 0.2205, var(outlet) = 0.0126, residual = 1.6591"
+    ],
+    [
+     "Decision (Holm across the pair)",
+     "T2: non-wire framing intercept > 0",
+     "Framing",
+     "-0.102",
+     "[-0.136, -0.068]",
+     "Holm < .001",
+     "52",
+     "not supported"
+    ],
+    [
+     "Decision (Holm across the pair)",
+     "T3: uncertainty coefficient < 0 in both wars",
+     "Timing",
+     "-0.1316 / -0.1640",
+     "—",
+     "Holm < .001 (larger of the two wars)",
+     "20,697 / 22,665",
+     "supported"
+    ]
+   ],
+   "note": "T2: framing similarity recomputed with wire-credited stories removed from both the outlet's and the core sample (bias-corrected as in Table T2, so 0 means indistinguishable from the core's non-wire frames); intercept-only mixed model over the 52 kept cells with random intercepts for outlet nested in country; the plan's decision rule reads a positive intercept as support. T3: for every GDELT event an outlet covered within one of the two wars (Gaza from October 7, 2023), the negative lag in days from the first core mention to the outlet's first mention (censored at 14 days) regressed on the number of core outlets that mentioned the event on its first core day, the available proxy for the number of core stories that day; random intercepts for outlet nested in country; the plan reads a negative coefficient (closer following for less-covered, more uncertain events) as support. Decisions by Holm-adjusted p < .05 across the pair, the T3 p being the larger of the two wars.",
+   "stats": [
+    {
+     "name": "T2_nonwire_intercept",
+     "value": "b = -0.102, 95% CI [-0.136, -0.068], n = 52 cells (non-wire stories n = 1,623)",
+     "p": "< .001",
+     "effect": null
+    },
+    {
+     "name": "T2_nonwire_intercept_x11",
+     "value": "b = -0.102, 95% CI [-0.136, -0.068], n = 52 cells (non-wire stories n = 1,623)",
+     "p": "< .001",
+     "effect": null
+    },
+    {
+     "name": "T2_context_all_vs_nonwire",
+     "value": "same 52 cells: V2 all stories M = -0.096, non-wire stories M = -0.102, mean within-cell difference = -0.006",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "T3_uncertainty_ukraine",
+     "value": "b = -0.1316 days per additional core outlet on the first day, 95% CI [-0.1726, -0.0906], events n = 20,697 (1 outlet(s): 18,971, 2 outlet(s): 1,423, 3 outlet(s): 275, 4 outlet(s): 28)",
+     "p": "< .001",
+     "effect": null
+    },
+    {
+     "name": "T3_lag_by_uncertainty_ukraine",
+     "value": "1 core outlet(s) on day 1: Mdn lag 0.094 days; 2 core outlet(s) on day 1: Mdn lag 0.125 days; 3 core outlet(s) on day 1: Mdn lag 0.208 days; 4 core outlet(s) on day 1: Mdn lag 0.083 days",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "T3_uncertainty_gaza",
+     "value": "b = -0.1640 days per additional core outlet on the first day, 95% CI [-0.1893, -0.1387], events n = 22,665 (1 outlet(s): 17,434, 2 outlet(s): 3,529, 3 outlet(s): 1,239, 4 outlet(s): 463)",
+     "p": "< .001",
+     "effect": null
+    },
+    {
+     "name": "T3_lag_by_uncertainty_gaza",
+     "value": "1 core outlet(s) on day 1: Mdn lag 0.052 days; 2 core outlet(s) on day 1: Mdn lag 0.135 days; 3 core outlet(s) on day 1: Mdn lag 0.229 days; 4 core outlet(s) on day 1: Mdn lag 0.281 days",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "decision_T2",
+     "value": "non-wire framing intercept b = -0.102, 95% CI [-0.136, -0.068]",
+     "p": "Holm < .001",
+     "effect": "not supported"
+    },
+    {
+     "name": "decision_T3",
+     "value": "uncertainty b = -0.1316 (Ukraine), -0.1640 (Gaza)",
+     "p": "Holm < .001",
+     "effect": "supported"
+    }
+   ]
+  }
+ ],
+ "figures": [],
+ "descriptives": []
+}
