@@ -1,0 +1,215 @@
+{
+ "schema": "rihlah-results/2.0",
+ "run_id": "run_20261012_01",
+ "plan_revision": 5,
+ "generated": "2026-10-12T14:20:09+00:00",
+ "tables": [
+  {
+   "label": "T4",
+   "title": "Out-of-Sample Fit of Simulation Configurations",
+   "answers": [
+    "RQ2"
+   ],
+   "columns": [
+    "Configuration",
+    "Std. error salience",
+    "Std. error framing",
+    "Std. error timing",
+    "Mean std. error",
+    "SD across seeds",
+    "Difference from baseline (M, SD of seed-matched difference)",
+    "Difference from the best other single mechanism (M, SD)",
+    "Signs of tier and stake contrasts reproduced",
+    "Rank",
+    "Bootstrap share of outlet resamples holding the margin",
+    "Within-outlet error"
+   ],
+   "rows": [
+    [
+     "Baseline (no rule)",
+     "1.13",
+     "1.06",
+     "0.79",
+     "1.00",
+     "0.00",
+     "—",
+     "—",
+     "0.50",
+     "5",
+     "—",
+     "0.93"
+    ],
+    [
+     "Dependence",
+     "1.25",
+     "0.95",
+     "0.28",
+     "0.83",
+     "0.01",
+     "-0.17 (0.01)",
+     "-0.08 (0.01)",
+     "0.71",
+     "1",
+     "0.45",
+     "0.93"
+    ],
+    [
+     "Imitation",
+     "0.85",
+     "1.08",
+     "0.79",
+     "0.91",
+     "0.00",
+     "-0.09 (0.00)",
+     "0.08 (0.01)",
+     "0.50",
+     "3",
+     "—",
+     "0.88"
+    ],
+    [
+     "Herding",
+     "1.22",
+     "1.09",
+     "1.69",
+     "1.33",
+     "0.02",
+     "0.34 (0.02)",
+     "0.51 (0.02)",
+     "0.53",
+     "6",
+     "—",
+     "1.39"
+    ],
+    [
+     "Dependence + imitation",
+     "1.19",
+     "1.01",
+     "0.43",
+     "0.88",
+     "0.01",
+     "-0.12 (0.01)",
+     "—",
+     "0.44",
+     "2",
+     "—",
+     "0.88"
+    ],
+    [
+     "Dependence + herding",
+     "1.30",
+     "0.98",
+     "7.29",
+     "3.19",
+     "0.45",
+     "2.20 (0.45)",
+     "—",
+     "0.62",
+     "8",
+     "—",
+     "1.42"
+    ],
+    [
+     "Imitation + herding",
+     "0.92",
+     "1.06",
+     "0.79",
+     "0.92",
+     "0.01",
+     "-0.07 (0.01)",
+     "—",
+     "0.46",
+     "4",
+     "—",
+     "0.89"
+    ],
+    [
+     "All three",
+     "1.24",
+     "1.02",
+     "4.23",
+     "2.16",
+     "0.23",
+     "1.17 (0.23)",
+     "—",
+     "0.50",
+     "7",
+     "—",
+     "0.89"
+    ]
+   ],
+   "note": "Standardized error = mean absolute difference between simulated and observed following over outlet × issue cells on the second validation half, divided by the SD of the observed values; 20 seeds per configuration. Parameters fitted on the first half: D: w = 1.00, v = 0.00, c = 0.00; I: w = 0.00, v = 0.10, c = 0.00; H: w = 0.00, v = 0.00, c = 0.50; DI: w = 1.00, v = 0.10, c = 0.00; DH: w = 1.00, v = 0.00, c = 0.50; IH: w = 0.00, v = 0.10, c = 0.50; DIH: w = 1.00, v = 0.10, c = 0.50. Decision (plan P5 margin and the Method's bootstrap condition, X15): RQ2 undecided: D met the seed margin of the plan file but its margin held in a share of 0.45 of outlet resamples, below the 0.95 the Method requires (X15). ",
+   "stats": [
+    {
+     "name": "decision",
+     "value": "RQ2 undecided: D met the seed margin of the plan file but its margin held in a share of 0.45 of outlet resamples, below the 0.95 the Method requires (X15)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "framing_source",
+     "value": "simulated framing from the model coder's frames on written-out proposals (agent labels alpha .232 < .80; plan P5 step 6 fallback)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "err_baseline",
+     "value": "mean std. error = 0.996 (SD 0.003), salience 1.135, framing 1.065, timing 0.788",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "err_D",
+     "value": "mean std. error = 0.825 (SD 0.008), salience 1.251, framing 0.948, timing 0.276",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "err_I",
+     "value": "mean std. error = 0.907 (SD 0.004), salience 0.854, framing 1.079, timing 0.788",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "err_H",
+     "value": "mean std. error = 1.335 (SD 0.018), salience 1.218, framing 1.094, timing 1.692",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "err_DI",
+     "value": "mean std. error = 0.878 (SD 0.009), salience 1.192, framing 1.007, timing 0.434",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "err_DH",
+     "value": "mean std. error = 3.191 (SD 0.449), salience 1.303, framing 0.984, timing 7.287",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "err_IH",
+     "value": "mean std. error = 0.923 (SD 0.010), salience 0.920, framing 1.061, timing 0.788",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "err_DIH",
+     "value": "mean std. error = 2.162 (SD 0.230), salience 1.240, framing 1.021, timing 4.226",
+     "p": null,
+     "effect": null
+    }
+   ]
+  }
+ ],
+ "figures": [
+  {
+   "label": "F3",
+   "title": "Observed and Simulated Following by Configuration",
+   "file": "figures/f3.svg",
+   "note": "Standardized error per level and configuration on the held-out half (mean over seeds)."
+  }
+ ],
+ "descriptives": []
+}

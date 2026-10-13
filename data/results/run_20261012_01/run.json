@@ -1,0 +1,31 @@
+{
+ "run_id": "run_20261012_01",
+ "plan_revision": 5,
+ "script": "data/analysis/p5_simulation.py",
+ "inputs": [
+  "data/coded/following_cells.csv",
+  "data/analysis/sim/outlets.json",
+  "data/analysis/sim/feed_core.jsonl",
+  "data/analysis/sim/feed_wire.jsonl",
+  "data/raw/sim"
+ ],
+ "sha256s": {
+  "data/coded/following_cells.csv": "49b4c5f1fe5deec669074d4d6ef7dbffeac4943261c0ad11ab9122682396e00d",
+  "data/analysis/sim/outlets.json": "cf89537b31be7ee26417c70061bfd6c2430380ca328d6612d3965c794090d511",
+  "data/analysis/sim/feed_core.jsonl": "dc8d5bbee701e96311a032477092b7f482b395ecea6b7c449fb9a4836fd4b177",
+  "data/analysis/sim/feed_wire.jsonl": "55b97f3fb6899db8535d19de5e5adf801ed274590eb2a3abf9387f82c3fe27a7"
+ },
+ "started": "2026-10-12T14:20:03+00:00",
+ "finished": "2026-10-12T14:20:09+00:00",
+ "environment": "data/analysis/environment.txt",
+ "seed": 20261006,
+ "deviations_applied": [
+  "X1",
+  "X4",
+  "X7",
+  "X12",
+  "X13"
+ ],
+ "model": null,
+ "notes": "Supersedes run_20261008_01 (identical errors from the cached simulation records; decision line now read by the Method's full rule, X15). Implementation choices (A39): imitation target shares use the core feed's daily issue shares × the core coded sample's frame shares; herding 'uncertain' = fewer than 3 core stories on the item's issue in the day's feed; items are stories, not GDELT events, for m_s."
+}
