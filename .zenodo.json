@@ -1,0 +1,35 @@
+{
+  "title": "Structural Dependence, Imitation or Herding? Code and data",
+  "upload_type": "dataset",
+  "description": "Code, data and simulation records for the paper \"Structural Dependence, Imitation or Herding? A Multi-Agent Simulation of Global Intermedia Agenda Setting\". The study measured how closely 18 national outlets in Bangladesh, Kenya, South Africa, India, Malaysia and Nigeria followed four core outlets on the wars in Ukraine and Gaza and the COP27 and COP28 climate conferences, February 24, 2022, to December 31, 2024, in salience, framing and timing. It then ran a simulation in which a language model acted as each outlet's editor, with wire dependence, prestige imitation and herding switched on and off. The archive holds the analysis scripts, coder prompts, codebook, World Bank indicators, Media Cloud counts and story ids, GDELT records, coded labels, result tables and figures, and the agents' proposals. Outlet article texts and headlines are not included. Code is under the MIT licence; data, documents and figures are under CC BY 4.0; the agents' proposals are outputs of Qwen3-14B (Apache 2.0) and are released under CC BY 4.0. See README.md and release_manifest.json.",
+  "creators": [
+    {
+      "name": "Yousuf, Mohammad",
+      "affiliation": "Department of Communication & Journalism, University of New Mexico",
+      "orcid": "0000-0003-3784-3346"
+    },
+    {
+      "name": "Habib, Arif Md Tareque",
+      "affiliation": "Department of Communication & Journalism, University of New Mexico"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "agenda setting",
+    "world-system theory",
+    "international news flow",
+    "news agencies",
+    "LLM agent-based simulation",
+    "Global South"
+  ],
+  "version": "1.0.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/hellowyousuf/dependence-imitation-herding",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Data sources: World Bank WDI (CC BY 4.0); Media Cloud (counts and story ids only, under the Media Cloud Terms of Use); GDELT Project (cited with attribution). The language-model agents ran Qwen3-14B (Apache 2.0)."
+}
