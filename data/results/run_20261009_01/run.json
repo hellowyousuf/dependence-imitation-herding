@@ -1,0 +1,27 @@
+{
+ "run_id": "run_20261009_01",
+ "plan_revision": 5,
+ "script": "data/analysis/p4_stake_interaction.py",
+ "inputs": [
+  "data/coded/following_cells.csv",
+  "data/analysis/holm_family.json"
+ ],
+ "sha256s": {
+  "data/coded/following_cells.csv": "49b4c5f1fe5deec669074d4d6ef7dbffeac4943261c0ad11ab9122682396e00d",
+  "data/analysis/holm_family.json": "ae94666d44ab5b1e89925a864f09c9a93c537c40a38fe6d01355a488af90a3c3"
+ },
+ "started": "2026-10-09T17:51:37+00:00",
+ "finished": "2026-10-09T17:51:38+00:00",
+ "environment": "data/analysis/environment.txt",
+ "seed": 20261006,
+ "deviations_applied": [
+  "X1",
+  "X7",
+  "X10",
+  "X11",
+  "X13",
+  "X14"
+ ],
+ "model": null,
+ "notes": "Within-wars country × issue stake check dropped (X14, no hand-coding). Holm decisions across the nine tests in T6. Supersedes run_20261006_06 (note corrected: timing cells of the second falsifier computed, not hard-coded) and run_20261006_04 (T6, F2)."
+}
