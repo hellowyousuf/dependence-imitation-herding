@@ -1,0 +1,602 @@
+[
+ {
+  "sample_id": "nation.africa|ukraine|064",
+  "outlet": "Daily Nation",
+  "date": "2022-03-16",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "timeslive.co.za|gaza|023",
+  "outlet": "TimesLIVE",
+  "date": "2024-08-08",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "iol.co.za|ukraine|040",
+  "outlet": "IOL",
+  "date": "2023-07-01",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "bdnews24.com|cop|016",
+  "outlet": "bdnews24.com",
+  "date": "2022-11-13",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "tuko.co.ke|gaza|051",
+  "outlet": "Tuko",
+  "date": "2024-11-27",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "thehindu.com|ukraine|001",
+  "outlet": "The Hindu",
+  "date": "2022-03-05",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|ukraine|014",
+  "outlet": "Nigerian Tribune",
+  "date": "2023-08-13",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|cop|050",
+  "outlet": "Nigerian Tribune",
+  "date": "2022-11-06",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "timeslive.co.za|cop|005",
+  "outlet": "TimesLIVE",
+  "date": "2022-11-09",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "iol.co.za|gaza|039",
+  "outlet": "IOL",
+  "date": "2024-01-12",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "timesofindia|gaza|017",
+  "outlet": "Times of India",
+  "date": "2023-12-09",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "dailypost.ng|ukraine|047",
+  "outlet": "Daily Post",
+  "date": "2023-11-28",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "newagebd.net|ukraine|023",
+  "outlet": "New Age",
+  "date": "2022-07-31",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "malaysiakini.com|gaza|009",
+  "outlet": "Malaysiakini",
+  "date": "2024-08-29",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "timeslive.co.za|ukraine|018",
+  "outlet": "TimesLIVE",
+  "date": "2022-03-08",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "hindustantimes.com|ukraine|042",
+  "outlet": "Hindustan Times",
+  "date": "2024-06-01",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|cop|022",
+  "outlet": "Nigerian Tribune",
+  "date": "2023-12-11",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "thedailystar.net|ukraine|024",
+  "outlet": "The Daily Star",
+  "date": "2023-08-25",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "hindustantimes.com|gaza|014",
+  "outlet": "Hindustan Times",
+  "date": "2024-09-30",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "newagebd.net|gaza|022",
+  "outlet": "New Age",
+  "date": "2022-09-22",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "iol.co.za|cop|018",
+  "outlet": "IOL",
+  "date": "2022-11-29",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "nation.africa|gaza|007",
+  "outlet": "Daily Nation",
+  "date": "2023-12-19",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "iol.co.za|gaza|032",
+  "outlet": "IOL",
+  "date": "2024-03-07",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "hindustantimes.com|cop|022",
+  "outlet": "Hindustan Times",
+  "date": "2022-11-07",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "hindustantimes.com|ukraine|034",
+  "outlet": "Hindustan Times",
+  "date": "2024-05-13",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "thedailystar.net|gaza|022",
+  "outlet": "The Daily Star",
+  "date": "2024-02-10",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "citizen.co.za|cop|047",
+  "outlet": "The Citizen",
+  "date": "2022-11-08",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "timeslive.co.za|ukraine|027",
+  "outlet": "TimesLIVE",
+  "date": "2022-09-11",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "nation.africa|gaza|009",
+  "outlet": "Daily Nation",
+  "date": "2023-10-09",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "newsarawaktribune.com.my|ukraine|007",
+  "outlet": "New Sarawak Tribune",
+  "date": "2023-04-02",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "tuko.co.ke|cop|022",
+  "outlet": "Tuko",
+  "date": "2024-11-12",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "bdnews24.com|gaza|037",
+  "outlet": "bdnews24.com",
+  "date": "2024-11-20",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "bdnews24.com|gaza|032",
+  "outlet": "bdnews24.com",
+  "date": "2023-12-08",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|gaza|010",
+  "outlet": "Nigerian Tribune",
+  "date": "2024-08-29",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "iol.co.za|ukraine|032",
+  "outlet": "IOL",
+  "date": "2024-03-15",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "newagebd.net|gaza|044",
+  "outlet": "New Age",
+  "date": "2023-11-10",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "timesofindia|cop|010",
+  "outlet": "Times of India",
+  "date": "2022-11-02",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "thedailystar.net|cop|049",
+  "outlet": "The Daily Star",
+  "date": "2022-11-20",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "malaymail.com|gaza|034",
+  "outlet": "Malay Mail",
+  "date": "2024-02-13",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|ukraine|017",
+  "outlet": "Nigerian Tribune",
+  "date": "2023-07-12",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "newagebd.net|ukraine|034",
+  "outlet": "New Age",
+  "date": "2022-10-31",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|ukraine|038",
+  "outlet": "Nigerian Tribune",
+  "date": "2022-03-05",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "malaysiakini.com|gaza|005",
+  "outlet": "Malaysiakini",
+  "date": "2024-03-16",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "thehindu.com|gaza|043",
+  "outlet": "The Hindu",
+  "date": "2024-11-29",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "malaymail.com|gaza|028",
+  "outlet": "Malay Mail",
+  "date": "2022-11-18",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "citizen.co.za|gaza|010",
+  "outlet": "The Citizen",
+  "date": "2024-08-12",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "dailypost.ng|cop|011",
+  "outlet": "Daily Post",
+  "date": "2023-12-03",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "newsarawaktribune.com.my|cop|033",
+  "outlet": "New Sarawak Tribune",
+  "date": "2024-04-30",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|cop|027",
+  "outlet": "Nigerian Tribune",
+  "date": "2022-05-08",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "timesofindia|cop|018",
+  "outlet": "Times of India",
+  "date": "2024-11-17",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "dailypost.ng|ukraine|018",
+  "outlet": "Daily Post",
+  "date": "2022-03-08",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "thehindu.com|ukraine|012",
+  "outlet": "The Hindu",
+  "date": "2022-03-01",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "thedailystar.net|ukraine|046",
+  "outlet": "The Daily Star",
+  "date": "2024-07-10",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "nation.africa|cop|002",
+  "outlet": "Daily Nation",
+  "date": "2022-09-22",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "thehindu.com|ukraine|005",
+  "outlet": "The Hindu",
+  "date": "2024-05-06",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "timeslive.co.za|ukraine|002",
+  "outlet": "TimesLIVE",
+  "date": "2024-01-24",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "malaysiakini.com|gaza|006",
+  "outlet": "Malaysiakini",
+  "date": "2023-11-23",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "newagebd.net|gaza|001",
+  "outlet": "New Age",
+  "date": "2023-10-27",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "the-star.co.ke|cop|053",
+  "outlet": "The Star (Kenya)",
+  "date": "2022-11-11",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "iol.co.za|ukraine|026",
+  "outlet": "IOL",
+  "date": "2023-03-06",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "nation.africa|cop|035",
+  "outlet": "Daily Nation",
+  "date": "2022-08-05",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|cop|028",
+  "outlet": "Nigerian Tribune",
+  "date": "2023-12-08",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "tuko.co.ke|gaza|052",
+  "outlet": "Tuko",
+  "date": "2024-08-07",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "tuko.co.ke|gaza|054",
+  "outlet": "Tuko",
+  "date": "2024-05-02",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "bdnews24.com|cop|019",
+  "outlet": "bdnews24.com",
+  "date": "2023-12-12",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "timesofindia|gaza|006",
+  "outlet": "Times of India",
+  "date": "2023-10-19",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "the-star.co.ke|cop|001",
+  "outlet": "The Star (Kenya)",
+  "date": "2022-11-13",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "citizen.co.za|gaza|043",
+  "outlet": "The Citizen",
+  "date": "2023-11-10",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "punchng.com|ukraine|026",
+  "outlet": "Punch",
+  "date": "2022-10-27",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "dailypost.ng|ukraine|043",
+  "outlet": "Daily Post",
+  "date": "2022-02-24",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "hindustantimes.com|ukraine|018",
+  "outlet": "Hindustan Times",
+  "date": "2024-11-06",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "tuko.co.ke|gaza|028",
+  "outlet": "Tuko",
+  "date": "2024-04-16",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "the-star.co.ke|cop|006",
+  "outlet": "The Star (Kenya)",
+  "date": "2023-10-12",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "the-star.co.ke|ukraine|042",
+  "outlet": "The Star (Kenya)",
+  "date": "2022-07-05",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "nation.africa|gaza|032",
+  "outlet": "Daily Nation",
+  "date": "2023-10-13",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "newagebd.net|gaza|058",
+  "outlet": "New Age",
+  "date": "2024-04-02",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "dailypost.ng|gaza|044",
+  "outlet": "Daily Post",
+  "date": "2024-04-16",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "iol.co.za|cop|046",
+  "outlet": "IOL",
+  "date": "2022-07-19",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "malaymail.com|gaza|025",
+  "outlet": "Malay Mail",
+  "date": "2023-10-12",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "the-star.co.ke|cop|020",
+  "outlet": "The Star (Kenya)",
+  "date": "2023-09-06",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "malaysiakini.com|ukraine|014",
+  "outlet": "Malaysiakini",
+  "date": "2022-02-27",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "timeslive.co.za|gaza|014",
+  "outlet": "TimesLIVE",
+  "date": "2024-10-15",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|ukraine|006",
+  "outlet": "Nigerian Tribune",
+  "date": "2022-03-08",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "the-star.co.ke|ukraine|030",
+  "outlet": "The Star (Kenya)",
+  "date": "2022-05-16",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "punchng.com|cop|003",
+  "outlet": "Punch",
+  "date": "2022-11-07",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "timesofindia|cop|006",
+  "outlet": "Times of India",
+  "date": "2023-05-09",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "timeslive.co.za|ukraine|052",
+  "outlet": "TimesLIVE",
+  "date": "2022-11-25",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "the-star.co.ke|gaza|048",
+  "outlet": "The Star (Kenya)",
+  "date": "2023-10-12",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "timesofindia|gaza|012",
+  "outlet": "Times of India",
+  "date": "2023-12-20",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "nation.africa|gaza|017",
+  "outlet": "Daily Nation",
+  "date": "2024-05-19",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "citizen.co.za|gaza|050",
+  "outlet": "The Citizen",
+  "date": "2024-02-09",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "dailypost.ng|gaza|049",
+  "outlet": "Daily Post",
+  "date": "2024-04-23",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "punchng.com|ukraine|015",
+  "outlet": "Punch",
+  "date": "2022-03-27",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "tribuneonlineng.com|cop|018",
+  "outlet": "Nigerian Tribune",
+  "date": "2023-12-11",
+  "issue": "COP27/COP28"
+ },
+ {
+  "sample_id": "tuko.co.ke|ukraine|039",
+  "outlet": "Tuko",
+  "date": "2024-05-30",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "timeslive.co.za|gaza|040",
+  "outlet": "TimesLIVE",
+  "date": "2024-10-29",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "newsarawaktribune.com.my|ukraine|008",
+  "outlet": "New Sarawak Tribune",
+  "date": "2023-10-13",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "citizen.co.za|gaza|031",
+  "outlet": "The Citizen",
+  "date": "2024-10-28",
+  "issue": "Gaza"
+ },
+ {
+  "sample_id": "iol.co.za|ukraine|015",
+  "outlet": "IOL",
+  "date": "2024-03-12",
+  "issue": "Ukraine"
+ },
+ {
+  "sample_id": "hindustantimes.com|cop|011",
+  "outlet": "Hindustan Times",
+  "date": "2023-09-09",
+  "issue": "COP27/COP28"
+ }
+]

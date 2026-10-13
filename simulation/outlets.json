@@ -1,0 +1,324 @@
+[
+ {
+  "code": "P01",
+  "country": "Bangladesh",
+  "audience": "a national English-language daily read by Bangladesh's urban professionals and diaspora",
+  "n_i_daily_fitting_half": {
+   "ukraine": 3.4879,
+   "gaza": 1.6178,
+   "cop": 0.0448
+  },
+  "W_i": 0.5717,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "bdnews24.com"
+ },
+ {
+  "code": "P02",
+  "country": "South Africa",
+  "audience": "a national English-language outlet read across South Africa",
+  "n_i_daily_fitting_half": {
+   "ukraine": 2.9327,
+   "gaza": 3.3067,
+   "cop": 0.1493
+  },
+  "W_i": 0.8436,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "citizen.co.za"
+ },
+ {
+  "code": "P03",
+  "country": "Nigeria",
+  "audience": "a national English-language outlet read across Nigeria",
+  "n_i_daily_fitting_half": {
+   "ukraine": 1.8617,
+   "gaza": 1.1778,
+   "cop": 0.0149
+  },
+  "W_i": 0.0,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "dailypost.ng"
+ },
+ {
+  "code": "P04",
+  "country": "India",
+  "audience": "a national English-language outlet read across India",
+  "n_i_daily_fitting_half": {
+   "ukraine": 13.5626,
+   "gaza": 30.0533,
+   "cop": 0.5224
+  },
+  "W_i": 0.2009,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "hindustantimes.com"
+ },
+ {
+  "code": "P05",
+  "country": "South Africa",
+  "audience": "a national English-language outlet read across South Africa",
+  "n_i_daily_fitting_half": {
+   "ukraine": 6.8449,
+   "gaza": 5.3511,
+   "cop": 0.3902
+  },
+  "W_i": 0.2195,
+  "C_i": 0.0345,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "iol.co.za"
+ },
+ {
+  "code": "P06",
+  "country": "Malaysia",
+  "audience": "a national English-language outlet read across Malaysia",
+  "n_i_daily_fitting_half": {
+   "ukraine": 13.9925,
+   "gaza": 14.44,
+   "cop": 0.2836
+  },
+  "W_i": 0.943,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "malaymail.com"
+ },
+ {
+  "code": "P07",
+  "country": "Malaysia",
+  "audience": "a national English-language outlet read across Malaysia",
+  "n_i_daily_fitting_half": {
+   "ukraine": 0.1477,
+   "gaza": 0.5556,
+   "cop": 0.0
+  },
+  "W_i": 0.1071,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza"
+  ],
+  "outlet": "malaysiakini.com"
+ },
+ {
+  "code": "P08",
+  "country": "Kenya",
+  "audience": "a national English-language outlet read across Kenya",
+  "n_i_daily_fitting_half": {
+   "ukraine": 1.9888,
+   "gaza": 1.5911,
+   "cop": 0.4136
+  },
+  "W_i": 0.588,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "nation.africa"
+ },
+ {
+  "code": "P09",
+  "country": "Bangladesh",
+  "audience": "a national English-language daily read by Bangladesh's urban professionals and diaspora",
+  "n_i_daily_fitting_half": {
+   "ukraine": 0.4561,
+   "gaza": 0.6533,
+   "cop": 0.0213
+  },
+  "W_i": 0.0,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza"
+  ],
+  "outlet": "newagebd.net"
+ },
+ {
+  "code": "P10",
+  "country": "Malaysia",
+  "audience": "a national English-language outlet read across Malaysia",
+  "n_i_daily_fitting_half": {
+   "ukraine": 0.3981,
+   "gaza": 0.8133,
+   "cop": 0.0085
+  },
+  "W_i": 0.2694,
+  "C_i": 0.0417,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "newsarawaktribune.com.my"
+ },
+ {
+  "code": "P11",
+  "country": "Nigeria",
+  "audience": "a national English-language outlet read across Nigeria",
+  "n_i_daily_fitting_half": {
+   "ukraine": 3.4467,
+   "gaza": 1.5156,
+   "cop": 0.0959
+  },
+  "W_i": 0.5241,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "punchng.com"
+ },
+ {
+  "code": "P12",
+  "country": "Kenya",
+  "audience": "a national English-language outlet read across Kenya",
+  "n_i_daily_fitting_half": {
+   "ukraine": 5.871,
+   "gaza": 4.1422,
+   "cop": 0.339
+  },
+  "W_i": 0.0,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "the-star.co.ke"
+ },
+ {
+  "code": "P13",
+  "country": "Bangladesh",
+  "audience": "a national English-language daily read by Bangladesh's urban professionals and diaspora",
+  "n_i_daily_fitting_half": {
+   "ukraine": 1.428,
+   "gaza": 3.4178,
+   "cop": 0.0938
+  },
+  "W_i": 0.8182,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "thedailystar.net"
+ },
+ {
+  "code": "P14",
+  "country": "India",
+  "audience": "a national English-language outlet read across India",
+  "n_i_daily_fitting_half": {
+   "ukraine": 14.6411,
+   "gaza": 11.0533,
+   "cop": 0.5565
+  },
+  "W_i": 0.3519,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "thehindu.com"
+ },
+ {
+  "code": "P15",
+  "country": "South Africa",
+  "audience": "a national English-language outlet read across South Africa",
+  "n_i_daily_fitting_half": {
+   "ukraine": 2.8579,
+   "gaza": 2.4533,
+   "cop": 0.0789
+  },
+  "W_i": 0.8581,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "timeslive.co.za"
+ },
+ {
+  "code": "P16",
+  "country": "India",
+  "audience": "a national English-language outlet read across India",
+  "n_i_daily_fitting_half": {
+   "ukraine": 28.3159,
+   "gaza": 36.36,
+   "cop": 0.516
+  },
+  "W_i": 0.5463,
+  "C_i": 0.0494,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "timesofindia"
+ },
+ {
+  "code": "P17",
+  "country": "Nigeria",
+  "audience": "a national English-language outlet read across Nigeria",
+  "n_i_daily_fitting_half": {
+   "ukraine": 1.4972,
+   "gaza": 1.44,
+   "cop": 0.2324
+  },
+  "W_i": 0.0,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "tribuneonlineng.com"
+ },
+ {
+  "code": "P18",
+  "country": "Kenya",
+  "audience": "a national English-language outlet read across Kenya",
+  "n_i_daily_fitting_half": {
+   "ukraine": 0.028,
+   "gaza": 0.4489,
+   "cop": 0.0
+  },
+  "W_i": 0.9174,
+  "C_i": 0.0,
+  "cells_kept": [
+   "ukraine",
+   "gaza",
+   "cop"
+  ],
+  "outlet": "tuko.co.ke"
+ }
+]

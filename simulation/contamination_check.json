@@ -1,0 +1,611 @@
+{
+ "model": "Qwen/Qwen3-14B",
+ "n": 100,
+ "recall_at_0.8": 0.0,
+ "chance_at_0.8": 0.0,
+ "mean_similarity_true": 0.26993553326135183,
+ "mean_similarity_random": 0.2729548838406025,
+ "items": [
+  {
+   "sample_id": "nation.africa|ukraine|064",
+   "answer": "Ukraine War: Russia Launches Major Offensive in Eastern Ukraine",
+   "sim_true": 0.3709677419354839,
+   "sim_random": 0.3053435114503817
+  },
+  {
+   "sample_id": "timeslive.co.za|gaza|023",
+   "answer": "Gaza violence escalates as Israel-Hamas conflict intensifies.",
+   "sim_true": 0.2748091603053435,
+   "sim_random": 0.2878787878787879
+  },
+  {
+   "sample_id": "iol.co.za|ukraine|040",
+   "answer": "Ukraine war: Russia launches fresh attacks on eastern front as Kyiv says it is preparing counteroffensive",
+   "sim_true": 0.25157232704402516,
+   "sim_random": 0.09836065573770492
+  },
+  {
+   "sample_id": "bdnews24.com|cop|016",
+   "answer": "COP27: Global leaders commit to phasing down fossil fuels, but not coal, in climate deal",
+   "sim_true": 0.4927536231884058,
+   "sim_random": 0.45454545454545453
+  },
+  {
+   "sample_id": "tuko.co.ke|gaza|051",
+   "answer": "Gaza violence escalates as Israeli forces intensify operations in northern regions.",
+   "sim_true": 0.3795620437956204,
+   "sim_random": 0.1875
+  },
+  {
+   "sample_id": "thehindu.com|ukraine|001",
+   "answer": "Ukraine War: Russia Advances in Eastern Ukraine, Civilians Flee",
+   "sim_true": 0.42016806722689076,
+   "sim_random": 0.37583892617449666
+  },
+  {
+   "sample_id": "tribuneonlineng.com|ukraine|014",
+   "answer": "Nigerian Tribune did not publish a headline about Ukraine on 2023-08-13.",
+   "sim_true": 0.27350427350427353,
+   "sim_random": 0.3333333333333333
+  },
+  {
+   "sample_id": "tribuneonlineng.com|cop|050",
+   "answer": "Nigerian Tribune: \"Nigeria Commits to COP28 Climate Goals, Pledges Renewable Energy Expansion\"",
+   "sim_true": 0.3137254901960784,
+   "sim_random": 0.2835820895522388
+  },
+  {
+   "sample_id": "timeslive.co.za|cop|005",
+   "answer": "COP27: Global leaders commit to phasing down fossil fuels in landmark climate deal",
+   "sim_true": 0.3246753246753247,
+   "sim_random": 0.08547008547008547
+  },
+  {
+   "sample_id": "iol.co.za|gaza|039",
+   "answer": "Gaza violence escalates as Israel-Hamas conflict intensifies",
+   "sim_true": 0.18045112781954886,
+   "sim_random": 0.4
+  },
+  {
+   "sample_id": "timesofindia|gaza|017",
+   "answer": "Gaza violence escalates as Israel-Hamas conflict intensifies",
+   "sim_true": 0.30158730158730157,
+   "sim_random": 0.2882882882882883
+  },
+  {
+   "sample_id": "dailypost.ng|ukraine|047",
+   "answer": "Ukraine War: Russia Launches Fresh Attacks on Eastern Front",
+   "sim_true": 0.19480519480519481,
+   "sim_random": 0.336
+  },
+  {
+   "sample_id": "newagebd.net|ukraine|023",
+   "answer": "Ukraine War: Russia Steps Up Bombing of Civilian Areas Amid Escalating Conflict",
+   "sim_true": 0.24299065420560748,
+   "sim_random": 0.34146341463414637
+  },
+  {
+   "sample_id": "malaysiakini.com|gaza|009",
+   "answer": "Malaysiakini reported on 2024-08-29 about the Gaza situation with the headline: \"Gaza crisis escalates as Israel-Hamas conflict intensifies\".",
+   "sim_true": 0.11764705882352941,
+   "sim_random": 0.11214953271028037
+  },
+  {
+   "sample_id": "timeslive.co.za|ukraine|018",
+   "answer": "Russia Invades Ukraine As World Watches In Horror",
+   "sim_true": 0.2962962962962963,
+   "sim_random": 0.3148148148148148
+  },
+  {
+   "sample_id": "hindustantimes.com|ukraine|042",
+   "answer": "Ukraine War: Russia Launches Fresh Attacks on Eastern Front as Ceasefire Talks Stall",
+   "sim_true": 0.2824858757062147,
+   "sim_random": 0.3018867924528302
+  },
+  {
+   "sample_id": "tribuneonlineng.com|cop|022",
+   "answer": "Nigerian Tribune: \"Nigeria Commits to COP28 Climate Goals, Pledges Increased Renewable Energy Investment\"",
+   "sim_true": 0.2682926829268293,
+   "sim_random": 0.21621621621621623
+  },
+  {
+   "sample_id": "thedailystar.net|ukraine|024",
+   "answer": "Ukraine War: Russia Launches Fresh Attacks on Eastern Front",
+   "sim_true": 0.33043478260869563,
+   "sim_random": 0.14285714285714285
+  },
+  {
+   "sample_id": "hindustantimes.com|gaza|014",
+   "answer": "Gaza violence escalates as Israel-Hamas conflict enters new phase",
+   "sim_true": 0.23529411764705882,
+   "sim_random": 0.29357798165137616
+  },
+  {
+   "sample_id": "newagebd.net|gaza|022",
+   "answer": "Gaza Violence Escalates as Clashes Continue Between Israeli Forces and Palestinian Groups",
+   "sim_true": 0.22857142857142856,
+   "sim_random": 0.09722222222222222
+  },
+  {
+   "sample_id": "iol.co.za|cop|018",
+   "answer": "COP27: Global leaders commit to phasing down fossil fuels in landmark climate deal",
+   "sim_true": 0.23668639053254437,
+   "sim_random": 0.3050847457627119
+  },
+  {
+   "sample_id": "nation.africa|gaza|007",
+   "answer": "Gaza violence escalates as Israeli strikes kill dozens.",
+   "sim_true": 0.33663366336633666,
+   "sim_random": 0.4166666666666667
+  },
+  {
+   "sample_id": "iol.co.za|gaza|032",
+   "answer": "Gaza violence escalates as Israeli strikes kill dozens, UN warns of humanitarian crisis",
+   "sim_true": 0.3287671232876712,
+   "sim_random": 0.37735849056603776
+  },
+  {
+   "sample_id": "hindustantimes.com|cop|022",
+   "answer": "COP27: Global Leaders Commit to Climate Action, Pledge to Double Renewable Energy Capacity by 2030",
+   "sim_true": 0.21839080459770116,
+   "sim_random": 0.34394904458598724
+  },
+  {
+   "sample_id": "hindustantimes.com|ukraine|034",
+   "answer": "Ukraine War: Russia Launches Fresh Attacks on Eastern Front, Civilians Bear Brunt",
+   "sim_true": 0.29213483146067415,
+   "sim_random": 0.28901734104046245
+  },
+  {
+   "sample_id": "thedailystar.net|gaza|022",
+   "answer": "Gaza violence escalates as Israeli strikes kill dozens.",
+   "sim_true": 0.17543859649122806,
+   "sim_random": 0.4166666666666667
+  },
+  {
+   "sample_id": "citizen.co.za|cop|047",
+   "answer": "COP27: Global Leaders Commit to Climate Action, But Fossil Fuel Phase-Out Lags",
+   "sim_true": 0.31137724550898205,
+   "sim_random": 0.2589928057553957
+  },
+  {
+   "sample_id": "timeslive.co.za|ukraine|027",
+   "answer": "Ukraine war: Russia claims capture of key village in Kharkiv region",
+   "sim_true": 0.112,
+   "sim_random": 0.208
+  },
+  {
+   "sample_id": "nation.africa|gaza|009",
+   "answer": "Gaza violence escalates as Israeli strikes kill dozens.",
+   "sim_true": 0.4166666666666667,
+   "sim_random": 0.3103448275862069
+  },
+  {
+   "sample_id": "newsarawaktribune.com.my|ukraine|007",
+   "answer": "No headline related to Ukraine was published by New Sarawak Tribune on 2023-04-02.",
+   "sim_true": 0.46808510638297873,
+   "sim_random": 0.42105263157894735
+  },
+  {
+   "sample_id": "tuko.co.ke|cop|022",
+   "answer": "Tuko published the headline: \"COP28: Kenya's Commitment to Climate Action Under Scrutiny as Global Leaders Meet in Dubai.\"",
+   "sim_true": 0.19318181818181818,
+   "sim_random": 0.2
+  },
+  {
+   "sample_id": "bdnews24.com|gaza|037",
+   "answer": "Gaza violence escalates as Israeli strikes kill dozens, UN warns of humanitarian crisis",
+   "sim_true": 0.3333333333333333,
+   "sim_random": 0.3108108108108108
+  },
+  {
+   "sample_id": "bdnews24.com|gaza|032",
+   "answer": "Gaza violence escalates as Israeli strikes kill dozens, UN warns of humanitarian crisis",
+   "sim_true": 0.3108108108108108,
+   "sim_random": 0.3333333333333333
+  },
+  {
+   "sample_id": "tribuneonlineng.com|gaza|010",
+   "answer": "Nigerian Tribune: \"Gaza Crisis Escalates as Humanitarian Aid Delays Spark Global Concern\"",
+   "sim_true": 0.28,
+   "sim_random": 0.21333333333333335
+  },
+  {
+   "sample_id": "iol.co.za|ukraine|032",
+   "answer": "Ukraine war: Russia launches fresh attacks on eastern front as Kyiv warns of 'very difficult' year ahead",
+   "sim_true": 0.22818791946308725,
+   "sim_random": 0.20125786163522014
+  },
+  {
+   "sample_id": "newagebd.net|gaza|044",
+   "answer": "Gaza Violence Escalates as Clashes Continue Between Israeli Forces and Palestinian Groups",
+   "sim_true": 0.09722222222222222,
+   "sim_random": 0.22857142857142856
+  },
+  {
+   "sample_id": "timesofindia|cop|010",
+   "answer": "COP27: Global Leaders Commit to Climate Action, Pledge to Double Renewable Energy Capacity by 2030",
+   "sim_true": 0.2731707317073171,
+   "sim_random": 0.3105590062111801
+  },
+  {
+   "sample_id": "thedailystar.net|cop|049",
+   "answer": "COP27: Global Leaders Commit to Climate Action as Talks Conclude in Egypt",
+   "sim_true": 0.18032786885245902,
+   "sim_random": 0.26666666666666666
+  },
+  {
+   "sample_id": "malaymail.com|gaza|034",
+   "answer": "Gaza crisis escalates as Israel-Hamas conflict intensifies",
+   "sim_true": 0.2992125984251969,
+   "sim_random": 0.1523809523809524
+  },
+  {
+   "sample_id": "tribuneonlineng.com|ukraine|017",
+   "answer": "Nigerian Tribune did not publish any headline about Ukraine on 2023-07-12.",
+   "sim_true": 0.24347826086956523,
+   "sim_random": 0.16666666666666666
+  },
+  {
+   "sample_id": "newagebd.net|ukraine|034",
+   "answer": "Ukraine War: Russia Launches Major Offensive in Eastern Ukraine",
+   "sim_true": 0.29906542056074764,
+   "sim_random": 0.2857142857142857
+  },
+  {
+   "sample_id": "tribuneonlineng.com|ukraine|038",
+   "answer": "Nigeria Condemns Russia's Invasion of Ukraine, Calls for Peaceful Resolution",
+   "sim_true": 0.26229508196721313,
+   "sim_random": 0.24793388429752067
+  },
+  {
+   "sample_id": "malaysiakini.com|gaza|005",
+   "answer": "Malaysiakini reported on 2024-03-16 about the Gaza conflict with the headline: \"Gaza crisis escalates as Israel-Hamas violence intensifies\".",
+   "sim_true": 0.11267605633802817,
+   "sim_random": 0.11822660098522167
+  },
+  {
+   "sample_id": "thehindu.com|gaza|043",
+   "answer": "Gaza violence escalates as Israel-Hamas conflict enters new phase",
+   "sim_true": 0.21794871794871795,
+   "sim_random": 0.29310344827586204
+  },
+  {
+   "sample_id": "malaymail.com|gaza|028",
+   "answer": "Gaza conflict: Malaysia calls for immediate ceasefire, humanitarian aid access",
+   "sim_true": 0.14634146341463414,
+   "sim_random": 0.3310344827586207
+  },
+  {
+   "sample_id": "citizen.co.za|gaza|010",
+   "answer": "Gaza ceasefire talks collapse as violence escalates.",
+   "sim_true": 0.2975206611570248,
+   "sim_random": 0.4132231404958678
+  },
+  {
+   "sample_id": "dailypost.ng|cop|011",
+   "answer": "COP28 Focus Turns to Climate Finance as Developing Nations Push for More Support",
+   "sim_true": 0.16793893129770993,
+   "sim_random": 0.26666666666666666
+  },
+  {
+   "sample_id": "newsarawaktribune.com.my|cop|033",
+   "answer": "COP28: Global Leaders Commit to Accelerate Climate Action in Fight Against Global Warming",
+   "sim_true": 0.304635761589404,
+   "sim_random": 0.267515923566879
+  },
+  {
+   "sample_id": "tribuneonlineng.com|cop|027",
+   "answer": "Nigerian Tribune: \"Nigeria Commits to COP28 Climate Goals, Pledges Increased Renewable Energy Investment\"",
+   "sim_true": 0.2620689655172414,
+   "sim_random": 0.3170731707317073
+  },
+  {
+   "sample_id": "timesofindia|cop|018",
+   "answer": "COP28: India to Push for Climate Justice and Renewable Energy Expansion",
+   "sim_true": 0.3111111111111111,
+   "sim_random": 0.3463687150837989
+  },
+  {
+   "sample_id": "dailypost.ng|ukraine|018",
+   "answer": "Ukraine War: Russia Launches Major Offensive in Eastern Ukraine",
+   "sim_true": 0.24806201550387597,
+   "sim_random": 0.3924050632911392
+  },
+  {
+   "sample_id": "thehindu.com|ukraine|012",
+   "answer": "Ukraine War: Russia Launches Full-Scale Invasion, Calls for Peace Talks",
+   "sim_true": 0.3184713375796178,
+   "sim_random": 0.2992125984251969
+  },
+  {
+   "sample_id": "thedailystar.net|ukraine|046",
+   "answer": "Ukraine War: Russia Launches Fresh Attacks on Eastern Front as Kyiv Warns of Escalation",
+   "sim_true": 0.1111111111111111,
+   "sim_random": 0.26573426573426573
+  },
+  {
+   "sample_id": "nation.africa|cop|002",
+   "answer": "COP28: Kenya urges global action on climate change as developing nations demand climate justice",
+   "sim_true": 0.5333333333333333,
+   "sim_random": 0.32926829268292684
+  },
+  {
+   "sample_id": "thehindu.com|ukraine|005",
+   "answer": "Ukraine war: Russia steps up attacks on energy infrastructure, says UN",
+   "sim_true": 0.4383561643835616,
+   "sim_random": 0.41025641025641024
+  },
+  {
+   "sample_id": "timeslive.co.za|ukraine|002",
+   "answer": "Ukraine war: Russia launches fresh attacks on eastern front as Kyiv warns of 'very difficult' year ahead",
+   "sim_true": 0.27848101265822783,
+   "sim_random": 0.0875
+  },
+  {
+   "sample_id": "malaysiakini.com|gaza|006",
+   "answer": "Malaysiakini: Gaza crisis escalates as Israel-Hamas conflict intensifies",
+   "sim_true": 0.16326530612244897,
+   "sim_random": 0.17391304347826086
+  },
+  {
+   "sample_id": "newagebd.net|gaza|001",
+   "answer": "Gaza Violence Escalates as Clashes Continue Between Israeli Forces and Palestinian Groups",
+   "sim_true": 0.22818791946308725,
+   "sim_random": 0.22857142857142856
+  },
+  {
+   "sample_id": "the-star.co.ke|cop|053",
+   "answer": "Kenya urges global leaders to prioritize climate justice at COP27",
+   "sim_true": 0.31932773109243695,
+   "sim_random": 0.3140495867768595
+  },
+  {
+   "sample_id": "iol.co.za|ukraine|026",
+   "answer": "Ukraine war: Russia launches fresh attacks on eastern front as Kyiv seeks Western support",
+   "sim_true": 0.2191780821917808,
+   "sim_random": 0.10778443113772455
+  },
+  {
+   "sample_id": "nation.africa|cop|035",
+   "answer": "COP28: Kenya to Push for Climate Justice and Renewable Energy Solutions",
+   "sim_true": 0.3,
+   "sim_random": 0.3076923076923077
+  },
+  {
+   "sample_id": "tribuneonlineng.com|cop|028",
+   "answer": "Nigerian Tribune: \"Nigeria Commits to COP28 Climate Goals, Pledges Increased Renewable Energy Investment\"",
+   "sim_true": 0.34523809523809523,
+   "sim_random": 0.3170731707317073
+  },
+  {
+   "sample_id": "tuko.co.ke|gaza|052",
+   "answer": "Gaza violence escalates as Israeli forces launch new offensive.",
+   "sim_true": 0.16417910447761194,
+   "sim_random": 0.3076923076923077
+  },
+  {
+   "sample_id": "tuko.co.ke|gaza|054",
+   "answer": "Gaza violence escalates as Israeli forces intensify operations in northern regions.",
+   "sim_true": 0.1875,
+   "sim_random": 0.21897810218978103
+  },
+  {
+   "sample_id": "bdnews24.com|cop|019",
+   "answer": "COP28: Global leaders to focus on climate finance and loss and damage at UAE summit",
+   "sim_true": 0.3973509933774834,
+   "sim_random": 0.34074074074074073
+  },
+  {
+   "sample_id": "timesofindia|gaza|006",
+   "answer": "Gaza violence escalates as Israel-Hamas conflict intensifies",
+   "sim_true": 0.2882882882882883,
+   "sim_random": 0.30158730158730157
+  },
+  {
+   "sample_id": "the-star.co.ke|cop|001",
+   "answer": "Kenya urges global leaders to prioritize climate justice at COP27",
+   "sim_true": 0.2833333333333333,
+   "sim_random": 0.3140495867768595
+  },
+  {
+   "sample_id": "citizen.co.za|gaza|043",
+   "answer": "Gaza violence escalates as Israeli strikes kill dozens.",
+   "sim_true": 0.20967741935483872,
+   "sim_random": 0.2706766917293233
+  },
+  {
+   "sample_id": "punchng.com|ukraine|026",
+   "answer": "Punch Publishes Article on Ukraine's Ongoing Conflict and International Response",
+   "sim_true": 0.25862068965517243,
+   "sim_random": 0.3055555555555556
+  },
+  {
+   "sample_id": "dailypost.ng|ukraine|043",
+   "answer": "Ukraine crisis escalates as Russia massing troops near border.",
+   "sim_true": 0.28125,
+   "sim_random": 0.17834394904458598
+  },
+  {
+   "sample_id": "hindustantimes.com|ukraine|018",
+   "answer": "Ukraine War: Russia Launches Fresh Attacks on Eastern Front, Civilians Bear Brunt",
+   "sim_true": 0.3225806451612903,
+   "sim_random": 0.29213483146067415
+  },
+  {
+   "sample_id": "tuko.co.ke|gaza|028",
+   "answer": "Gaza violence escalates as Israeli forces intensify operations in northern regions.",
+   "sim_true": 0.21897810218978103,
+   "sim_random": 0.3795620437956204
+  },
+  {
+   "sample_id": "the-star.co.ke|cop|006",
+   "answer": "Kenya urges global leaders to prioritize climate justice at COP28",
+   "sim_true": 0.3305785123966942,
+   "sim_random": 0.3247863247863248
+  },
+  {
+   "sample_id": "the-star.co.ke|ukraine|042",
+   "answer": "Kenya's The Star on 2022-07-05 likely published a headline related to the ongoing Russia-Ukraine conflict, possibly focusing on international reactions or Kenya's stance. The most likely headline would be:",
+   "sim_true": 0.18972332015810275,
+   "sim_random": 0.16342412451361868
+  },
+  {
+   "sample_id": "nation.africa|gaza|032",
+   "answer": "Gaza violence escalates as Israeli strikes kill dozens.",
+   "sim_true": 0.36363636363636365,
+   "sim_random": 0.33663366336633666
+  },
+  {
+   "sample_id": "newagebd.net|gaza|058",
+   "answer": "Gaza Crisis Escalates as Aid Efforts Face New Challenges",
+   "sim_true": 0.3442622950819672,
+   "sim_random": 0.24299065420560748
+  },
+  {
+   "sample_id": "dailypost.ng|gaza|044",
+   "answer": "Gaza Conflict Escalates as Ceasefire Talks Collapse",
+   "sim_true": 0.2033898305084746,
+   "sim_random": 0.2608695652173913
+  },
+  {
+   "sample_id": "iol.co.za|cop|046",
+   "answer": "COP28 to focus on climate finance, loss and damage as nations gear up for crucial negotiations",
+   "sim_true": 0.24338624338624337,
+   "sim_random": 0.26519337016574585
+  },
+  {
+   "sample_id": "malaymail.com|gaza|025",
+   "answer": "Gaza conflict escalates as Israel intensifies airstrikes on Hamas targets",
+   "sim_true": 0.3684210526315789,
+   "sim_random": 0.29577464788732394
+  },
+  {
+   "sample_id": "the-star.co.ke|cop|020",
+   "answer": "Kenya urges global leaders to prioritize climate justice at COP28",
+   "sim_true": 0.3247863247863248,
+   "sim_random": 0.2833333333333333
+  },
+  {
+   "sample_id": "malaysiakini.com|ukraine|014",
+   "answer": "Malaysiakini reported on 2022-02-27: \"Ukraine crisis: Russia warns of 'unprecedented' response if sanctions imposed\".",
+   "sim_true": 0.13259668508287292,
+   "sim_random": 0.23030303030303031
+  },
+  {
+   "sample_id": "timeslive.co.za|gaza|014",
+   "answer": "Gaza conflict escalates as Israel launches major offensive.",
+   "sim_true": 0.2153846153846154,
+   "sim_random": 0.31007751937984496
+  },
+  {
+   "sample_id": "tribuneonlineng.com|ukraine|006",
+   "answer": "Nigeria Condemns Russia's Invasion of Ukraine, Calls for Peaceful Resolution",
+   "sim_true": 0.33783783783783783,
+   "sim_random": 0.3418803418803419
+  },
+  {
+   "sample_id": "the-star.co.ke|ukraine|030",
+   "answer": "Kenya's The Star on 2022-05-16 likely published a headline related to Kenya's support for Ukraine, possibly something like: \"Kenya pledges support for Ukraine amid Russia invasion.\"",
+   "sim_true": 0.21645021645021645,
+   "sim_random": 0.22026431718061673
+  },
+  {
+   "sample_id": "punchng.com|cop|003",
+   "answer": "Punch headline: \"COP27: The Climate Summit That Failed to Deliver\"",
+   "sim_true": 0.17699115044247787,
+   "sim_random": 0.29310344827586204
+  },
+  {
+   "sample_id": "timesofindia|cop|006",
+   "answer": "COP28: India to push for climate justice, sustainable development at global summit",
+   "sim_true": 0.22580645161290322,
+   "sim_random": 0.2751322751322751
+  },
+  {
+   "sample_id": "timeslive.co.za|ukraine|052",
+   "answer": "Ukraine war: Russia claims capture of key village in Kherson region",
+   "sim_true": 0.2878787878787879,
+   "sim_random": 0.208
+  },
+  {
+   "sample_id": "the-star.co.ke|gaza|048",
+   "answer": "Gaza violence escalates as Israel-Hamas conflict intensifies",
+   "sim_true": 0.2833333333333333,
+   "sim_random": 0.19548872180451127
+  },
+  {
+   "sample_id": "timesofindia|gaza|012",
+   "answer": "Gaza violence escalates as Israel-Hamas conflict intensifies",
+   "sim_true": 0.36619718309859156,
+   "sim_random": 0.2882882882882883
+  },
+  {
+   "sample_id": "nation.africa|gaza|017",
+   "answer": "Gaza violence escalates as Israeli strikes kill dozens.",
+   "sim_true": 0.3103448275862069,
+   "sim_random": 0.36363636363636365
+  },
+  {
+   "sample_id": "citizen.co.za|gaza|050",
+   "answer": "Gaza violence escalates as Israel intensifies airstrikes on Hamas targets.",
+   "sim_true": 0.27631578947368424,
+   "sim_random": 0.2191780821917808
+  },
+  {
+   "sample_id": "dailypost.ng|gaza|049",
+   "answer": "Gaza Conflict Escalates as Ceasefire Talks Collapse",
+   "sim_true": 0.2608695652173913,
+   "sim_random": 0.2033898305084746
+  },
+  {
+   "sample_id": "punchng.com|ukraine|015",
+   "answer": "Punch Publishes Ukraine War Coverage with Focus on Humanitarian Crisis and International Response",
+   "sim_true": 0.2857142857142857,
+   "sim_random": 0.19548872180451127
+  },
+  {
+   "sample_id": "tribuneonlineng.com|cop|018",
+   "answer": "Nigerian Tribune: \"Nigeria Commits to COP28 Climate Goals, Pledges Increased Renewable Energy Investment\"",
+   "sim_true": 0.21621621621621623,
+   "sim_random": 0.2682926829268293
+  },
+  {
+   "sample_id": "tuko.co.ke|ukraine|039",
+   "answer": "Ukraine War: Russia Launches Fresh Attacks on Eastern Front as Kyiv Warns of Escalation",
+   "sim_true": 0.175,
+   "sim_random": 0.09655172413793103
+  },
+  {
+   "sample_id": "timeslive.co.za|gaza|040",
+   "answer": "Gaza violence escalates as Israel-Hamas conflict intensifies.",
+   "sim_true": 0.2992125984251969,
+   "sim_random": 0.2878787878787879
+  },
+  {
+   "sample_id": "newsarawaktribune.com.my|ukraine|008",
+   "answer": "No headline related to Ukraine was published by New Sarawak Tribune on 2023-10-13.",
+   "sim_true": 0.42105263157894735,
+   "sim_random": 0.46808510638297873
+  },
+  {
+   "sample_id": "citizen.co.za|gaza|031",
+   "answer": "Gaza Conflict Escalates as Ceasefire Talks Collapse",
+   "sim_true": 0.15228426395939088,
+   "sim_random": 0.16923076923076924
+  },
+  {
+   "sample_id": "iol.co.za|ukraine|015",
+   "answer": "Ukraine war: Russia launches fresh attacks on eastern front as Kyiv warns of 'very difficult' year ahead",
+   "sim_true": 0.1,
+   "sim_random": 0.20125786163522014
+  },
+  {
+   "sample_id": "hindustantimes.com|cop|011",
+   "answer": "COP28: Global Leaders Commit to Accelerate Climate Action, Pledge to Triple Renewable Energy Capacity by 2030",
+   "sim_true": 0.27380952380952384,
+   "sim_random": 0.2702702702702703
+  }
+ ],
+ "ts": "2026-10-06T20:30:15.748452Z"
+}

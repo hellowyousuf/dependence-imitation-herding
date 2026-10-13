@@ -1,0 +1,5 @@
+{
+ "pilot_start": "2022-03-01",
+ "pilot_end": "2022-03-31",
+ "note": "one-month pilot (A26): fixes the feed cap, prompt length and throughput before the full pass"
+}
