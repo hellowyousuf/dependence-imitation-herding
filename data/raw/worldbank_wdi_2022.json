@@ -1,0 +1,643 @@
+{
+ "retrieved": "2026-09-29",
+ "source": "World Bank, World Development Indicators (API v2)",
+ "licence": "CC BY 4.0",
+ "year": 2022,
+ "responses": {
+  "NY.GNP.MKTP.CD": {
+   "url": "https://api.worldbank.org/v2/country/WLD;BGD;KEN;NGA;IND;ZAF;MYS/indicator/NY.GNP.MKTP.CD?date=2022&format=json&per_page=100",
+   "body": [
+    {
+     "page": 1,
+     "pages": 1,
+     "per_page": 100,
+     "total": 7,
+     "sourceid": "2",
+     "lastupdated": "2026-07-13"
+    },
+    [
+     {
+      "indicator": {
+       "id": "NY.GNP.MKTP.CD",
+       "value": "GNI (current US$)"
+      },
+      "country": {
+       "id": "BD",
+       "value": "Bangladesh"
+      },
+      "countryiso3code": "BGD",
+      "date": "2022",
+      "value": 478360553749.872,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.MKTP.CD",
+       "value": "GNI (current US$)"
+      },
+      "country": {
+       "id": "IN",
+       "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": 3203859492501.88,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.MKTP.CD",
+       "value": "GNI (current US$)"
+      },
+      "country": {
+       "id": "KE",
+       "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2022",
+      "value": 112689233872.207,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.MKTP.CD",
+       "value": "GNI (current US$)"
+      },
+      "country": {
+       "id": "MY",
+       "value": "Malaysia"
+      },
+      "countryiso3code": "MYS",
+      "date": "2022",
+      "value": 394892167279.093,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.MKTP.CD",
+       "value": "GNI (current US$)"
+      },
+      "country": {
+       "id": "NG",
+       "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2022",
+      "value": 636543009517.75,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.MKTP.CD",
+       "value": "GNI (current US$)"
+      },
+      "country": {
+       "id": "1W",
+       "value": "World"
+      },
+      "countryiso3code": "WLD",
+      "date": "2022",
+      "value": 102457486743431,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.MKTP.CD",
+       "value": "GNI (current US$)"
+      },
+      "country": {
+       "id": "ZA",
+       "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2022",
+      "value": 399131611405.409,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     }
+    ]
+   ]
+  },
+  "NE.EXP.GNFS.CD": {
+   "url": "https://api.worldbank.org/v2/country/WLD;BGD;KEN;NGA;IND;ZAF;MYS/indicator/NE.EXP.GNFS.CD?date=2022&format=json&per_page=100",
+   "body": [
+    {
+     "page": 1,
+     "pages": 1,
+     "per_page": 100,
+     "total": 7,
+     "sourceid": "2",
+     "lastupdated": "2026-07-13"
+    },
+    [
+     {
+      "indicator": {
+       "id": "NE.EXP.GNFS.CD",
+       "value": "Exports of goods and services (current US$)"
+      },
+      "country": {
+       "id": "BD",
+       "value": "Bangladesh"
+      },
+      "countryiso3code": "BGD",
+      "date": "2022",
+      "value": 59275206086.406,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NE.EXP.GNFS.CD",
+       "value": "Exports of goods and services (current US$)"
+      },
+      "country": {
+       "id": "IN",
+       "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": 781290791563.827,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NE.EXP.GNFS.CD",
+       "value": "Exports of goods and services (current US$)"
+      },
+      "country": {
+       "id": "KE",
+       "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2022",
+      "value": 18262655904.9193,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NE.EXP.GNFS.CD",
+       "value": "Exports of goods and services (current US$)"
+      },
+      "country": {
+       "id": "MY",
+       "value": "Malaysia"
+      },
+      "countryiso3code": "MYS",
+      "date": "2022",
+      "value": 313245644474.215,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NE.EXP.GNFS.CD",
+       "value": "Exports of goods and services (current US$)"
+      },
+      "country": {
+       "id": "NG",
+       "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NE.EXP.GNFS.CD",
+       "value": "Exports of goods and services (current US$)"
+      },
+      "country": {
+       "id": "1W",
+       "value": "World"
+      },
+      "countryiso3code": "WLD",
+      "date": "2022",
+      "value": 31600792441567.5,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NE.EXP.GNFS.CD",
+       "value": "Exports of goods and services (current US$)"
+      },
+      "country": {
+       "id": "ZA",
+       "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2022",
+      "value": 136705431596.872,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     }
+    ]
+   ]
+  },
+  "BX.GSR.GNFS.CD": {
+   "url": "https://api.worldbank.org/v2/country/WLD;BGD;KEN;NGA;IND;ZAF;MYS/indicator/BX.GSR.GNFS.CD?date=2022&format=json&per_page=100",
+   "body": [
+    {
+     "page": 1,
+     "pages": 1,
+     "per_page": 100,
+     "total": 7,
+     "sourceid": "2",
+     "lastupdated": "2026-07-13"
+    },
+    [
+     {
+      "indicator": {
+       "id": "BX.GSR.GNFS.CD",
+       "value": "Exports of goods and services (BoP, current US$)"
+      },
+      "country": {
+       "id": "BD",
+       "value": "Bangladesh"
+      },
+      "countryiso3code": "BGD",
+      "date": "2022",
+      "value": 56794445611.3444,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "BX.GSR.GNFS.CD",
+       "value": "Exports of goods and services (BoP, current US$)"
+      },
+      "country": {
+       "id": "IN",
+       "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": 767643055702.076,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "BX.GSR.GNFS.CD",
+       "value": "Exports of goods and services (BoP, current US$)"
+      },
+      "country": {
+       "id": "KE",
+       "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2022",
+      "value": 18262659339.0953,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "BX.GSR.GNFS.CD",
+       "value": "Exports of goods and services (BoP, current US$)"
+      },
+      "country": {
+       "id": "MY",
+       "value": "Malaysia"
+      },
+      "countryiso3code": "MYS",
+      "date": "2022",
+      "value": 312879888024.449,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "BX.GSR.GNFS.CD",
+       "value": "Exports of goods and services (BoP, current US$)"
+      },
+      "country": {
+       "id": "NG",
+       "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2022",
+      "value": 69091131276.4452,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "BX.GSR.GNFS.CD",
+       "value": "Exports of goods and services (BoP, current US$)"
+      },
+      "country": {
+       "id": "1W",
+       "value": "World"
+      },
+      "countryiso3code": "WLD",
+      "date": "2022",
+      "value": 31792517850420.9,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "BX.GSR.GNFS.CD",
+       "value": "Exports of goods and services (BoP, current US$)"
+      },
+      "country": {
+       "id": "ZA",
+       "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2022",
+      "value": 136876171263.964,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     }
+    ]
+   ]
+  },
+  "TX.VAL.MRCH.CD.WT": {
+   "url": "https://api.worldbank.org/v2/country/WLD;BGD;KEN;NGA;IND;ZAF;MYS/indicator/TX.VAL.MRCH.CD.WT?date=2022&format=json&per_page=100",
+   "body": [
+    {
+     "page": 1,
+     "pages": 1,
+     "per_page": 100,
+     "total": 7,
+     "sourceid": "2",
+     "lastupdated": "2026-07-13"
+    },
+    [
+     {
+      "indicator": {
+       "id": "TX.VAL.MRCH.CD.WT",
+       "value": "Merchandise exports (current US$)"
+      },
+      "country": {
+       "id": "BD",
+       "value": "Bangladesh"
+      },
+      "countryiso3code": "BGD",
+      "date": "2022",
+      "value": 51405000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "TX.VAL.MRCH.CD.WT",
+       "value": "Merchandise exports (current US$)"
+      },
+      "country": {
+       "id": "IN",
+       "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": 453415000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "TX.VAL.MRCH.CD.WT",
+       "value": "Merchandise exports (current US$)"
+      },
+      "country": {
+       "id": "KE",
+       "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2022",
+      "value": 7411000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "TX.VAL.MRCH.CD.WT",
+       "value": "Merchandise exports (current US$)"
+      },
+      "country": {
+       "id": "MY",
+       "value": "Malaysia"
+      },
+      "countryiso3code": "MYS",
+      "date": "2022",
+      "value": 352094000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "TX.VAL.MRCH.CD.WT",
+       "value": "Merchandise exports (current US$)"
+      },
+      "country": {
+       "id": "NG",
+       "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2022",
+      "value": 63075000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "TX.VAL.MRCH.CD.WT",
+       "value": "Merchandise exports (current US$)"
+      },
+      "country": {
+       "id": "1W",
+       "value": "World"
+      },
+      "countryiso3code": "WLD",
+      "date": "2022",
+      "value": 25037933627192,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "TX.VAL.MRCH.CD.WT",
+       "value": "Merchandise exports (current US$)"
+      },
+      "country": {
+       "id": "ZA",
+       "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2022",
+      "value": 122901000000,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     }
+    ]
+   ]
+  },
+  "NY.GNP.ATLS.CD": {
+   "url": "https://api.worldbank.org/v2/country/WLD;BGD;KEN;NGA;IND;ZAF;MYS/indicator/NY.GNP.ATLS.CD?date=2022&format=json&per_page=100",
+   "body": [
+    {
+     "page": 1,
+     "pages": 1,
+     "per_page": 100,
+     "total": 7,
+     "sourceid": "2",
+     "lastupdated": "2026-07-13"
+    },
+    [
+     {
+      "indicator": {
+       "id": "NY.GNP.ATLS.CD",
+       "value": "GNI, Atlas method (current US$)"
+      },
+      "country": {
+       "id": "BD",
+       "value": "Bangladesh"
+      },
+      "countryiso3code": "BGD",
+      "date": "2022",
+      "value": 483370788278.341,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.ATLS.CD",
+       "value": "GNI, Atlas method (current US$)"
+      },
+      "country": {
+       "id": "IN",
+       "value": "India"
+      },
+      "countryiso3code": "IND",
+      "date": "2022",
+      "value": 3369134933654.19,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.ATLS.CD",
+       "value": "GNI, Atlas method (current US$)"
+      },
+      "country": {
+       "id": "KE",
+       "value": "Kenya"
+      },
+      "countryiso3code": "KEN",
+      "date": "2022",
+      "value": 117689640763.894,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.ATLS.CD",
+       "value": "GNI, Atlas method (current US$)"
+      },
+      "country": {
+       "id": "MY",
+       "value": "Malaysia"
+      },
+      "countryiso3code": "MYS",
+      "date": "2022",
+      "value": 403266944656.572,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.ATLS.CD",
+       "value": "GNI, Atlas method (current US$)"
+      },
+      "country": {
+       "id": "NG",
+       "value": "Nigeria"
+      },
+      "countryiso3code": "NGA",
+      "date": "2022",
+      "value": 656206404308.18,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.ATLS.CD",
+       "value": "GNI, Atlas method (current US$)"
+      },
+      "country": {
+       "id": "1W",
+       "value": "World"
+      },
+      "countryiso3code": "WLD",
+      "date": "2022",
+      "value": 103929260629744,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     },
+     {
+      "indicator": {
+       "id": "NY.GNP.ATLS.CD",
+       "value": "GNI, Atlas method (current US$)"
+      },
+      "country": {
+       "id": "ZA",
+       "value": "South Africa"
+      },
+      "countryiso3code": "ZAF",
+      "date": "2022",
+      "value": 407305164217.696,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 0
+     }
+    ]
+   ]
+  }
+ }
+}
