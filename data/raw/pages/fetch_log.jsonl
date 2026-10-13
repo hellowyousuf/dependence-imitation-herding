@@ -1,0 +1,885 @@
+{"sample_id": "citizen.co.za|ukraine|039", "outlet": "citizen.co.za", "issue": "ukraine", "rank": 39, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "hindustantimes.com|gaza|010", "outlet": "hindustantimes.com", "issue": "gaza", "rank": 10, "retrieved": "2026-10-02", "status": "http_410"}
+{"sample_id": "hindustantimes.com|gaza|040", "outlet": "hindustantimes.com", "issue": "gaza", "rank": 40, "retrieved": "2026-10-02", "status": "http_410"}
+{"sample_id": "hindustantimes.com|gaza|041", "outlet": "hindustantimes.com", "issue": "gaza", "rank": 41, "retrieved": "2026-10-02", "status": "http_410"}
+{"sample_id": "hindustantimes.com|gaza|048", "outlet": "hindustantimes.com", "issue": "gaza", "rank": 48, "retrieved": "2026-10-02", "status": "http_410"}
+{"sample_id": "iol.co.za|cop|048", "outlet": "iol.co.za", "issue": "cop", "rank": 48, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "malaymail.com|ukraine|028", "outlet": "malaymail.com", "issue": "ukraine", "rank": 28, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "nation.africa|cop|001", "outlet": "nation.africa", "issue": "cop", "rank": 1, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|003", "outlet": "nation.africa", "issue": "cop", "rank": 3, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|014", "outlet": "nation.africa", "issue": "cop", "rank": 14, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|018", "outlet": "nation.africa", "issue": "cop", "rank": 18, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|031", "outlet": "nation.africa", "issue": "cop", "rank": 31, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|032", "outlet": "nation.africa", "issue": "cop", "rank": 32, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|033", "outlet": "nation.africa", "issue": "cop", "rank": 33, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|034", "outlet": "nation.africa", "issue": "cop", "rank": 34, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|036", "outlet": "nation.africa", "issue": "cop", "rank": 36, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|046", "outlet": "nation.africa", "issue": "cop", "rank": 46, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|050", "outlet": "nation.africa", "issue": "cop", "rank": 50, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|051", "outlet": "nation.africa", "issue": "cop", "rank": 51, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|054", "outlet": "nation.africa", "issue": "cop", "rank": 54, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|cop|063", "outlet": "nation.africa", "issue": "cop", "rank": 63, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|gaza|011", "outlet": "nation.africa", "issue": "gaza", "rank": 11, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|gaza|012", "outlet": "nation.africa", "issue": "gaza", "rank": 12, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|gaza|019", "outlet": "nation.africa", "issue": "gaza", "rank": 19, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|gaza|023", "outlet": "nation.africa", "issue": "gaza", "rank": 23, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|gaza|027", "outlet": "nation.africa", "issue": "gaza", "rank": 27, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "nation.africa|gaza|037", "outlet": "nation.africa", "issue": "gaza", "rank": 37, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|gaza|051", "outlet": "nation.africa", "issue": "gaza", "rank": 51, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|gaza|054", "outlet": "nation.africa", "issue": "gaza", "rank": 54, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|gaza|057", "outlet": "nation.africa", "issue": "gaza", "rank": 57, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|009", "outlet": "nation.africa", "issue": "ukraine", "rank": 9, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|011", "outlet": "nation.africa", "issue": "ukraine", "rank": 11, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|012", "outlet": "nation.africa", "issue": "ukraine", "rank": 12, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|013", "outlet": "nation.africa", "issue": "ukraine", "rank": 13, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|022", "outlet": "nation.africa", "issue": "ukraine", "rank": 22, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|023", "outlet": "nation.africa", "issue": "ukraine", "rank": 23, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|024", "outlet": "nation.africa", "issue": "ukraine", "rank": 24, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|025", "outlet": "nation.africa", "issue": "ukraine", "rank": 25, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|028", "outlet": "nation.africa", "issue": "ukraine", "rank": 28, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|029", "outlet": "nation.africa", "issue": "ukraine", "rank": 29, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|032", "outlet": "nation.africa", "issue": "ukraine", "rank": 32, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|035", "outlet": "nation.africa", "issue": "ukraine", "rank": 35, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|038", "outlet": "nation.africa", "issue": "ukraine", "rank": 38, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|039", "outlet": "nation.africa", "issue": "ukraine", "rank": 39, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|040", "outlet": "nation.africa", "issue": "ukraine", "rank": 40, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|042", "outlet": "nation.africa", "issue": "ukraine", "rank": 42, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|045", "outlet": "nation.africa", "issue": "ukraine", "rank": 45, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|047", "outlet": "nation.africa", "issue": "ukraine", "rank": 47, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|053", "outlet": "nation.africa", "issue": "ukraine", "rank": 53, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|054", "outlet": "nation.africa", "issue": "ukraine", "rank": 54, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|055", "outlet": "nation.africa", "issue": "ukraine", "rank": 55, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|057", "outlet": "nation.africa", "issue": "ukraine", "rank": 57, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|060", "outlet": "nation.africa", "issue": "ukraine", "rank": 60, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|063", "outlet": "nation.africa", "issue": "ukraine", "rank": 63, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|068", "outlet": "nation.africa", "issue": "ukraine", "rank": 68, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|069", "outlet": "nation.africa", "issue": "ukraine", "rank": 69, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|073", "outlet": "nation.africa", "issue": "ukraine", "rank": 73, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|076", "outlet": "nation.africa", "issue": "ukraine", "rank": 76, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|077", "outlet": "nation.africa", "issue": "ukraine", "rank": 77, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "nation.africa|ukraine|078", "outlet": "nation.africa", "issue": "ukraine", "rank": 78, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newsarawaktribune.com.my|cop|001", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 1, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|002", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 2, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|003", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 3, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|004", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 4, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|005", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 5, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|006", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 6, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|007", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 7, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|008", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 8, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|009", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 9, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|010", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 10, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|011", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 11, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|012", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 12, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|013", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 13, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|014", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 14, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|015", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 15, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|016", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 16, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|017", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 17, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|018", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 18, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|019", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 19, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|020", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 20, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|021", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 21, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|022", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 22, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|023", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 23, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|024", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 24, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|025", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 25, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|026", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 26, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|027", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 27, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|028", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 28, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|029", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 29, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|030", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 30, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|031", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 31, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|032", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 32, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|033", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 33, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|034", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 34, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|035", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 35, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|036", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 36, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|001", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 1, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|002", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 2, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|003", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 3, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|004", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 4, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|005", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 5, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|006", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 6, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|007", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 7, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|008", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 8, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|009", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 9, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|010", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 10, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|011", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 11, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|012", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 12, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|013", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 13, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|014", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 14, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|015", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 15, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|016", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 16, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|017", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 17, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|018", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 18, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|019", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 19, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|020", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 20, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|021", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 21, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|022", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 22, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|023", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 23, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|024", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 24, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|025", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 25, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|026", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 26, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|027", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 27, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|028", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 28, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|029", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 29, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|030", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 30, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|031", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 31, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|032", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 32, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|033", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 33, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|034", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 34, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|035", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 35, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|036", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 36, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|037", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 37, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|038", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 38, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|039", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 39, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|040", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 40, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|041", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 41, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|042", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 42, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|043", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 43, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|044", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 44, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|045", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 45, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|046", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 46, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|047", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 47, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|048", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 48, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|049", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 49, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|050", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 50, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|051", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 51, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|052", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 52, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|053", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 53, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|054", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 54, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|055", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 55, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|056", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 56, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|057", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 57, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|058", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 58, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|059", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 59, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|060", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 60, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|061", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 61, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|062", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 62, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|063", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 63, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|064", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 64, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|065", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 65, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|066", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 66, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|067", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 67, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|068", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 68, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|069", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 69, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|070", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 70, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|071", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 71, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|072", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 72, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|073", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 73, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|074", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 74, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|075", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 75, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|076", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 76, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|077", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 77, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|078", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 78, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|079", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 79, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|080", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 80, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|081", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 81, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|082", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 82, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|083", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 83, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|084", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 84, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|085", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 85, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|086", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 86, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|087", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 87, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|088", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 88, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|089", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 89, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|090", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 90, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|091", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 91, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|092", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 92, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|093", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 93, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|094", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 94, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|095", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 95, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|096", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 96, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|097", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 97, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|098", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 98, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|099", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 99, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|100", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 100, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|001", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 1, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|002", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 2, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|003", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 3, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|004", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 4, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|005", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 5, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|006", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 6, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|007", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 7, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|008", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 8, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|009", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 9, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|010", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 10, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|011", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 11, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|012", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 12, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|013", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 13, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|014", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 14, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|015", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 15, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|016", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 16, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|017", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 17, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|018", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 18, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|019", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 19, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|020", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 20, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|021", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 21, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|022", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 22, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|023", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 23, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|024", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 24, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|025", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 25, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|026", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 26, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|027", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 27, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|028", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 28, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|029", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 29, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|030", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 30, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|031", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 31, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|032", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 32, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|033", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 33, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|034", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 34, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|035", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 35, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|036", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 36, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|037", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 37, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|038", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 38, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|039", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 39, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|040", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 40, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|041", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 41, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|042", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 42, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|043", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 43, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|044", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 44, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|045", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 45, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|046", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 46, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|047", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 47, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|048", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 48, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|049", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 49, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|050", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 50, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|051", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 51, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|052", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 52, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|053", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 53, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|054", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 54, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|055", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 55, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|056", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 56, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|057", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 57, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|058", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 58, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|059", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 59, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|060", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 60, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|061", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 61, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|062", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 62, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|063", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 63, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|064", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 64, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|065", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 65, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|066", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 66, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|067", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 67, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|068", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 68, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|069", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 69, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|070", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 70, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|071", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 71, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|072", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 72, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|073", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 73, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|074", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 74, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|075", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 75, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|076", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 76, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|077", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 77, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|078", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 78, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|079", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 79, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|080", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 80, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|081", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 81, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|082", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 82, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|083", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 83, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|084", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 84, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|085", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 85, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|086", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 86, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|087", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 87, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|088", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 88, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|089", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 89, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|090", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 90, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|091", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 91, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|092", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 92, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|093", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 93, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|094", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 94, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|095", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 95, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|096", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 96, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|097", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 97, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|098", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 98, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|099", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 99, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|100", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 100, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "punchng.com|ukraine|018", "outlet": "punchng.com", "issue": "ukraine", "rank": 18, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "thehindu.com|cop|007", "outlet": "thehindu.com", "issue": "cop", "rank": 7, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "tuko.co.ke|gaza|026", "outlet": "tuko.co.ke", "issue": "gaza", "rank": 26, "retrieved": "2026-10-02", "status": "http_410"}
+{"sample_id": "tuko.co.ke|gaza|047", "outlet": "tuko.co.ke", "issue": "gaza", "rank": 47, "retrieved": "2026-10-02", "status": "http_410"}
+{"sample_id": "tuko.co.ke|ukraine|030", "outlet": "tuko.co.ke", "issue": "ukraine", "rank": 30, "retrieved": "2026-10-02", "status": "http_410"}
+{"sample_id": "newagebd.net|gaza|001", "outlet": "newagebd.net", "issue": "gaza", "rank": 1, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|002", "outlet": "newagebd.net", "issue": "gaza", "rank": 2, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|003", "outlet": "newagebd.net", "issue": "gaza", "rank": 3, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|004", "outlet": "newagebd.net", "issue": "gaza", "rank": 4, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|005", "outlet": "newagebd.net", "issue": "gaza", "rank": 5, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|006", "outlet": "newagebd.net", "issue": "gaza", "rank": 6, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|007", "outlet": "newagebd.net", "issue": "gaza", "rank": 7, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|008", "outlet": "newagebd.net", "issue": "gaza", "rank": 8, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|009", "outlet": "newagebd.net", "issue": "gaza", "rank": 9, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|010", "outlet": "newagebd.net", "issue": "gaza", "rank": 10, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|011", "outlet": "newagebd.net", "issue": "gaza", "rank": 11, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|012", "outlet": "newagebd.net", "issue": "gaza", "rank": 12, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|013", "outlet": "newagebd.net", "issue": "gaza", "rank": 13, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|014", "outlet": "newagebd.net", "issue": "gaza", "rank": 14, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|015", "outlet": "newagebd.net", "issue": "gaza", "rank": 15, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|016", "outlet": "newagebd.net", "issue": "gaza", "rank": 16, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|017", "outlet": "newagebd.net", "issue": "gaza", "rank": 17, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|018", "outlet": "newagebd.net", "issue": "gaza", "rank": 18, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|019", "outlet": "newagebd.net", "issue": "gaza", "rank": 19, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|020", "outlet": "newagebd.net", "issue": "gaza", "rank": 20, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|021", "outlet": "newagebd.net", "issue": "gaza", "rank": 21, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|022", "outlet": "newagebd.net", "issue": "gaza", "rank": 22, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|023", "outlet": "newagebd.net", "issue": "gaza", "rank": 23, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|024", "outlet": "newagebd.net", "issue": "gaza", "rank": 24, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|025", "outlet": "newagebd.net", "issue": "gaza", "rank": 25, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|026", "outlet": "newagebd.net", "issue": "gaza", "rank": 26, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|027", "outlet": "newagebd.net", "issue": "gaza", "rank": 27, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|028", "outlet": "newagebd.net", "issue": "gaza", "rank": 28, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|029", "outlet": "newagebd.net", "issue": "gaza", "rank": 29, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|030", "outlet": "newagebd.net", "issue": "gaza", "rank": 30, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|031", "outlet": "newagebd.net", "issue": "gaza", "rank": 31, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|032", "outlet": "newagebd.net", "issue": "gaza", "rank": 32, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|033", "outlet": "newagebd.net", "issue": "gaza", "rank": 33, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|034", "outlet": "newagebd.net", "issue": "gaza", "rank": 34, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|035", "outlet": "newagebd.net", "issue": "gaza", "rank": 35, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|036", "outlet": "newagebd.net", "issue": "gaza", "rank": 36, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|037", "outlet": "newagebd.net", "issue": "gaza", "rank": 37, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|038", "outlet": "newagebd.net", "issue": "gaza", "rank": 38, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|039", "outlet": "newagebd.net", "issue": "gaza", "rank": 39, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|040", "outlet": "newagebd.net", "issue": "gaza", "rank": 40, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|041", "outlet": "newagebd.net", "issue": "gaza", "rank": 41, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|042", "outlet": "newagebd.net", "issue": "gaza", "rank": 42, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|043", "outlet": "newagebd.net", "issue": "gaza", "rank": 43, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|044", "outlet": "newagebd.net", "issue": "gaza", "rank": 44, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|045", "outlet": "newagebd.net", "issue": "gaza", "rank": 45, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|046", "outlet": "newagebd.net", "issue": "gaza", "rank": 46, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|047", "outlet": "newagebd.net", "issue": "gaza", "rank": 47, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|048", "outlet": "newagebd.net", "issue": "gaza", "rank": 48, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|049", "outlet": "newagebd.net", "issue": "gaza", "rank": 49, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|050", "outlet": "newagebd.net", "issue": "gaza", "rank": 50, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|051", "outlet": "newagebd.net", "issue": "gaza", "rank": 51, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|052", "outlet": "newagebd.net", "issue": "gaza", "rank": 52, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|053", "outlet": "newagebd.net", "issue": "gaza", "rank": 53, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|054", "outlet": "newagebd.net", "issue": "gaza", "rank": 54, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|055", "outlet": "newagebd.net", "issue": "gaza", "rank": 55, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|056", "outlet": "newagebd.net", "issue": "gaza", "rank": 56, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|057", "outlet": "newagebd.net", "issue": "gaza", "rank": 57, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|058", "outlet": "newagebd.net", "issue": "gaza", "rank": 58, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|059", "outlet": "newagebd.net", "issue": "gaza", "rank": 59, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|060", "outlet": "newagebd.net", "issue": "gaza", "rank": 60, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|061", "outlet": "newagebd.net", "issue": "gaza", "rank": 61, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|062", "outlet": "newagebd.net", "issue": "gaza", "rank": 62, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|063", "outlet": "newagebd.net", "issue": "gaza", "rank": 63, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|064", "outlet": "newagebd.net", "issue": "gaza", "rank": 64, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|065", "outlet": "newagebd.net", "issue": "gaza", "rank": 65, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|066", "outlet": "newagebd.net", "issue": "gaza", "rank": 66, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|067", "outlet": "newagebd.net", "issue": "gaza", "rank": 67, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|068", "outlet": "newagebd.net", "issue": "gaza", "rank": 68, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|069", "outlet": "newagebd.net", "issue": "gaza", "rank": 69, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|070", "outlet": "newagebd.net", "issue": "gaza", "rank": 70, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|071", "outlet": "newagebd.net", "issue": "gaza", "rank": 71, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|072", "outlet": "newagebd.net", "issue": "gaza", "rank": 72, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|073", "outlet": "newagebd.net", "issue": "gaza", "rank": 73, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|074", "outlet": "newagebd.net", "issue": "gaza", "rank": 74, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|075", "outlet": "newagebd.net", "issue": "gaza", "rank": 75, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|076", "outlet": "newagebd.net", "issue": "gaza", "rank": 76, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|077", "outlet": "newagebd.net", "issue": "gaza", "rank": 77, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|078", "outlet": "newagebd.net", "issue": "gaza", "rank": 78, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|079", "outlet": "newagebd.net", "issue": "gaza", "rank": 79, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|080", "outlet": "newagebd.net", "issue": "gaza", "rank": 80, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|081", "outlet": "newagebd.net", "issue": "gaza", "rank": 81, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|082", "outlet": "newagebd.net", "issue": "gaza", "rank": 82, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|083", "outlet": "newagebd.net", "issue": "gaza", "rank": 83, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|084", "outlet": "newagebd.net", "issue": "gaza", "rank": 84, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|085", "outlet": "newagebd.net", "issue": "gaza", "rank": 85, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|086", "outlet": "newagebd.net", "issue": "gaza", "rank": 86, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|087", "outlet": "newagebd.net", "issue": "gaza", "rank": 87, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|088", "outlet": "newagebd.net", "issue": "gaza", "rank": 88, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|089", "outlet": "newagebd.net", "issue": "gaza", "rank": 89, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|090", "outlet": "newagebd.net", "issue": "gaza", "rank": 90, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|091", "outlet": "newagebd.net", "issue": "gaza", "rank": 91, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|092", "outlet": "newagebd.net", "issue": "gaza", "rank": 92, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|093", "outlet": "newagebd.net", "issue": "gaza", "rank": 93, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|094", "outlet": "newagebd.net", "issue": "gaza", "rank": 94, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|095", "outlet": "newagebd.net", "issue": "gaza", "rank": 95, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|096", "outlet": "newagebd.net", "issue": "gaza", "rank": 96, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|097", "outlet": "newagebd.net", "issue": "gaza", "rank": 97, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|098", "outlet": "newagebd.net", "issue": "gaza", "rank": 98, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|099", "outlet": "newagebd.net", "issue": "gaza", "rank": 99, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|gaza|100", "outlet": "newagebd.net", "issue": "gaza", "rank": 100, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|001", "outlet": "newagebd.net", "issue": "ukraine", "rank": 1, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|002", "outlet": "newagebd.net", "issue": "ukraine", "rank": 2, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|003", "outlet": "newagebd.net", "issue": "ukraine", "rank": 3, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|004", "outlet": "newagebd.net", "issue": "ukraine", "rank": 4, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|005", "outlet": "newagebd.net", "issue": "ukraine", "rank": 5, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|006", "outlet": "newagebd.net", "issue": "ukraine", "rank": 6, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|007", "outlet": "newagebd.net", "issue": "ukraine", "rank": 7, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|008", "outlet": "newagebd.net", "issue": "ukraine", "rank": 8, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|009", "outlet": "newagebd.net", "issue": "ukraine", "rank": 9, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|010", "outlet": "newagebd.net", "issue": "ukraine", "rank": 10, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|011", "outlet": "newagebd.net", "issue": "ukraine", "rank": 11, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|012", "outlet": "newagebd.net", "issue": "ukraine", "rank": 12, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|013", "outlet": "newagebd.net", "issue": "ukraine", "rank": 13, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|014", "outlet": "newagebd.net", "issue": "ukraine", "rank": 14, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|015", "outlet": "newagebd.net", "issue": "ukraine", "rank": 15, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|016", "outlet": "newagebd.net", "issue": "ukraine", "rank": 16, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|017", "outlet": "newagebd.net", "issue": "ukraine", "rank": 17, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|018", "outlet": "newagebd.net", "issue": "ukraine", "rank": 18, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|019", "outlet": "newagebd.net", "issue": "ukraine", "rank": 19, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|020", "outlet": "newagebd.net", "issue": "ukraine", "rank": 20, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|021", "outlet": "newagebd.net", "issue": "ukraine", "rank": 21, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|022", "outlet": "newagebd.net", "issue": "ukraine", "rank": 22, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|023", "outlet": "newagebd.net", "issue": "ukraine", "rank": 23, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|024", "outlet": "newagebd.net", "issue": "ukraine", "rank": 24, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|025", "outlet": "newagebd.net", "issue": "ukraine", "rank": 25, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|026", "outlet": "newagebd.net", "issue": "ukraine", "rank": 26, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|027", "outlet": "newagebd.net", "issue": "ukraine", "rank": 27, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|028", "outlet": "newagebd.net", "issue": "ukraine", "rank": 28, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|029", "outlet": "newagebd.net", "issue": "ukraine", "rank": 29, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|030", "outlet": "newagebd.net", "issue": "ukraine", "rank": 30, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|031", "outlet": "newagebd.net", "issue": "ukraine", "rank": 31, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|032", "outlet": "newagebd.net", "issue": "ukraine", "rank": 32, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|033", "outlet": "newagebd.net", "issue": "ukraine", "rank": 33, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|034", "outlet": "newagebd.net", "issue": "ukraine", "rank": 34, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|035", "outlet": "newagebd.net", "issue": "ukraine", "rank": 35, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|036", "outlet": "newagebd.net", "issue": "ukraine", "rank": 36, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|037", "outlet": "newagebd.net", "issue": "ukraine", "rank": 37, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|038", "outlet": "newagebd.net", "issue": "ukraine", "rank": 38, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|039", "outlet": "newagebd.net", "issue": "ukraine", "rank": 39, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|040", "outlet": "newagebd.net", "issue": "ukraine", "rank": 40, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|041", "outlet": "newagebd.net", "issue": "ukraine", "rank": 41, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|042", "outlet": "newagebd.net", "issue": "ukraine", "rank": 42, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|043", "outlet": "newagebd.net", "issue": "ukraine", "rank": 43, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|044", "outlet": "newagebd.net", "issue": "ukraine", "rank": 44, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|045", "outlet": "newagebd.net", "issue": "ukraine", "rank": 45, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|046", "outlet": "newagebd.net", "issue": "ukraine", "rank": 46, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|047", "outlet": "newagebd.net", "issue": "ukraine", "rank": 47, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|048", "outlet": "newagebd.net", "issue": "ukraine", "rank": 48, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|049", "outlet": "newagebd.net", "issue": "ukraine", "rank": 49, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|050", "outlet": "newagebd.net", "issue": "ukraine", "rank": 50, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|051", "outlet": "newagebd.net", "issue": "ukraine", "rank": 51, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|052", "outlet": "newagebd.net", "issue": "ukraine", "rank": 52, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|053", "outlet": "newagebd.net", "issue": "ukraine", "rank": 53, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|054", "outlet": "newagebd.net", "issue": "ukraine", "rank": 54, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|055", "outlet": "newagebd.net", "issue": "ukraine", "rank": 55, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|056", "outlet": "newagebd.net", "issue": "ukraine", "rank": 56, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|057", "outlet": "newagebd.net", "issue": "ukraine", "rank": 57, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|058", "outlet": "newagebd.net", "issue": "ukraine", "rank": 58, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|059", "outlet": "newagebd.net", "issue": "ukraine", "rank": 59, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|060", "outlet": "newagebd.net", "issue": "ukraine", "rank": 60, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|061", "outlet": "newagebd.net", "issue": "ukraine", "rank": 61, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|062", "outlet": "newagebd.net", "issue": "ukraine", "rank": 62, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|063", "outlet": "newagebd.net", "issue": "ukraine", "rank": 63, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|064", "outlet": "newagebd.net", "issue": "ukraine", "rank": 64, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|065", "outlet": "newagebd.net", "issue": "ukraine", "rank": 65, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|066", "outlet": "newagebd.net", "issue": "ukraine", "rank": 66, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|067", "outlet": "newagebd.net", "issue": "ukraine", "rank": 67, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|068", "outlet": "newagebd.net", "issue": "ukraine", "rank": 68, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|069", "outlet": "newagebd.net", "issue": "ukraine", "rank": 69, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|070", "outlet": "newagebd.net", "issue": "ukraine", "rank": 70, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|071", "outlet": "newagebd.net", "issue": "ukraine", "rank": 71, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|072", "outlet": "newagebd.net", "issue": "ukraine", "rank": 72, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|073", "outlet": "newagebd.net", "issue": "ukraine", "rank": 73, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|074", "outlet": "newagebd.net", "issue": "ukraine", "rank": 74, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|075", "outlet": "newagebd.net", "issue": "ukraine", "rank": 75, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|076", "outlet": "newagebd.net", "issue": "ukraine", "rank": 76, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|077", "outlet": "newagebd.net", "issue": "ukraine", "rank": 77, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|078", "outlet": "newagebd.net", "issue": "ukraine", "rank": 78, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|079", "outlet": "newagebd.net", "issue": "ukraine", "rank": 79, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|080", "outlet": "newagebd.net", "issue": "ukraine", "rank": 80, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|081", "outlet": "newagebd.net", "issue": "ukraine", "rank": 81, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|082", "outlet": "newagebd.net", "issue": "ukraine", "rank": 82, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|083", "outlet": "newagebd.net", "issue": "ukraine", "rank": 83, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|084", "outlet": "newagebd.net", "issue": "ukraine", "rank": 84, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|085", "outlet": "newagebd.net", "issue": "ukraine", "rank": 85, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|086", "outlet": "newagebd.net", "issue": "ukraine", "rank": 86, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|087", "outlet": "newagebd.net", "issue": "ukraine", "rank": 87, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|088", "outlet": "newagebd.net", "issue": "ukraine", "rank": 88, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|089", "outlet": "newagebd.net", "issue": "ukraine", "rank": 89, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|090", "outlet": "newagebd.net", "issue": "ukraine", "rank": 90, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|091", "outlet": "newagebd.net", "issue": "ukraine", "rank": 91, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|092", "outlet": "newagebd.net", "issue": "ukraine", "rank": 92, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|093", "outlet": "newagebd.net", "issue": "ukraine", "rank": 93, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|094", "outlet": "newagebd.net", "issue": "ukraine", "rank": 94, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|095", "outlet": "newagebd.net", "issue": "ukraine", "rank": 95, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|096", "outlet": "newagebd.net", "issue": "ukraine", "rank": 96, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|097", "outlet": "newagebd.net", "issue": "ukraine", "rank": 97, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|098", "outlet": "newagebd.net", "issue": "ukraine", "rank": 98, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|099", "outlet": "newagebd.net", "issue": "ukraine", "rank": 99, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newagebd.net|ukraine|100", "outlet": "newagebd.net", "issue": "ukraine", "rank": 100, "wayback": false, "retrieved": "2026-10-02", "status": "http_403"}
+{"sample_id": "newsarawaktribune.com.my|cop|001", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 1, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|004", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 4, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|006", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 6, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|007", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 7, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|016", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 16, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|017", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 17, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|019", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 19, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|020", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 20, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|cop|021", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 21, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|cop|027", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 27, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|028", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 28, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|029", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 29, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|030", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 30, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|031", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 31, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|032", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 32, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|033", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 33, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|034", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 34, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|035", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 35, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|036", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 36, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|gaza|005", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 5, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|gaza|006", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 6, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|gaza|007", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 7, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|gaza|028", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 28, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|gaza|029", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 29, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|gaza|035", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 35, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|gaza|039", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 39, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|gaza|043", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 43, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|gaza|044", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 44, "wayback": true, "retrieved": "2026-10-02", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|gaza|045", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 45, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|gaza|050", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 50, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|gaza|051", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 51, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|gaza|060", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 60, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|gaza|061", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 61, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|gaza|062", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 62, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|gaza|063", "outlet": "newsarawaktribune.com.my", "issue": "gaza", "rank": 63, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|006", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 6, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|007", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 7, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|008", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 8, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|009", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 9, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|010", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 10, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|026", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 26, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|027", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 27, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|028", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 28, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|029", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 29, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|041", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 41, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|045", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 45, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|046", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 46, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|049", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 49, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|050", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 50, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|051", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 51, "wayback": true, "retrieved": "2026-10-02", "status": "error:ConnectTimeout"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|057", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 57, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|064", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 64, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|065", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 65, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|066", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 66, "wayback": true, "retrieved": "2026-10-02", "status": "http_429"}
+{"sample_id": "newagebd.net|gaza|004", "outlet": "newagebd.net", "issue": "gaza", "rank": 4, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newagebd.net|gaza|005", "outlet": "newagebd.net", "issue": "gaza", "rank": 5, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newagebd.net|gaza|016", "outlet": "newagebd.net", "issue": "gaza", "rank": 16, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newagebd.net|gaza|017", "outlet": "newagebd.net", "issue": "gaza", "rank": 17, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newagebd.net|gaza|018", "outlet": "newagebd.net", "issue": "gaza", "rank": 18, "wayback": true, "retrieved": "2026-10-03", "status": "http_404"}
+{"sample_id": "newagebd.net|gaza|025", "outlet": "newagebd.net", "issue": "gaza", "rank": 25, "wayback": true, "retrieved": "2026-10-03", "status": "http_404"}
+{"sample_id": "newagebd.net|gaza|027", "outlet": "newagebd.net", "issue": "gaza", "rank": 27, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newagebd.net|gaza|032", "outlet": "newagebd.net", "issue": "gaza", "rank": 32, "wayback": true, "retrieved": "2026-10-03", "status": "http_404"}
+{"sample_id": "newagebd.net|gaza|034", "outlet": "newagebd.net", "issue": "gaza", "rank": 34, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newagebd.net|gaza|041", "outlet": "newagebd.net", "issue": "gaza", "rank": 41, "wayback": true, "retrieved": "2026-10-03", "status": "http_404"}
+{"sample_id": "newagebd.net|ukraine|001", "outlet": "newagebd.net", "issue": "ukraine", "rank": 1, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newagebd.net|ukraine|008", "outlet": "newagebd.net", "issue": "ukraine", "rank": 8, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newagebd.net|ukraine|030", "outlet": "newagebd.net", "issue": "ukraine", "rank": 30, "wayback": true, "retrieved": "2026-10-03", "status": "http_404"}
+{"sample_id": "newagebd.net|ukraine|031", "outlet": "newagebd.net", "issue": "ukraine", "rank": 31, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newagebd.net|ukraine|054", "outlet": "newagebd.net", "issue": "ukraine", "rank": 54, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|017", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 17, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|019", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 19, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|027", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 27, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|cop|030", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 30, "wayback": true, "retrieved": "2026-10-03", "status": "http_404"}
+{"sample_id": "bdnews24.com|gaza|051", "outlet": "bdnews24.com", "issue": "gaza", "rank": 51, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|052", "outlet": "bdnews24.com", "issue": "gaza", "rank": 52, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|053", "outlet": "bdnews24.com", "issue": "gaza", "rank": 53, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|054", "outlet": "bdnews24.com", "issue": "gaza", "rank": 54, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|055", "outlet": "bdnews24.com", "issue": "gaza", "rank": 55, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|056", "outlet": "bdnews24.com", "issue": "gaza", "rank": 56, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|057", "outlet": "bdnews24.com", "issue": "gaza", "rank": 57, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|058", "outlet": "bdnews24.com", "issue": "gaza", "rank": 58, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|059", "outlet": "bdnews24.com", "issue": "gaza", "rank": 59, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|060", "outlet": "bdnews24.com", "issue": "gaza", "rank": 60, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|061", "outlet": "bdnews24.com", "issue": "gaza", "rank": 61, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|062", "outlet": "bdnews24.com", "issue": "gaza", "rank": 62, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|063", "outlet": "bdnews24.com", "issue": "gaza", "rank": 63, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|064", "outlet": "bdnews24.com", "issue": "gaza", "rank": 64, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|065", "outlet": "bdnews24.com", "issue": "gaza", "rank": 65, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|066", "outlet": "bdnews24.com", "issue": "gaza", "rank": 66, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|067", "outlet": "bdnews24.com", "issue": "gaza", "rank": 67, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|068", "outlet": "bdnews24.com", "issue": "gaza", "rank": 68, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|069", "outlet": "bdnews24.com", "issue": "gaza", "rank": 69, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|070", "outlet": "bdnews24.com", "issue": "gaza", "rank": 70, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|071", "outlet": "bdnews24.com", "issue": "gaza", "rank": 71, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|072", "outlet": "bdnews24.com", "issue": "gaza", "rank": 72, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|073", "outlet": "bdnews24.com", "issue": "gaza", "rank": 73, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|074", "outlet": "bdnews24.com", "issue": "gaza", "rank": 74, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|075", "outlet": "bdnews24.com", "issue": "gaza", "rank": 75, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|076", "outlet": "bdnews24.com", "issue": "gaza", "rank": 76, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|077", "outlet": "bdnews24.com", "issue": "gaza", "rank": 77, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|078", "outlet": "bdnews24.com", "issue": "gaza", "rank": 78, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|079", "outlet": "bdnews24.com", "issue": "gaza", "rank": 79, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|080", "outlet": "bdnews24.com", "issue": "gaza", "rank": 80, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|081", "outlet": "bdnews24.com", "issue": "gaza", "rank": 81, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|082", "outlet": "bdnews24.com", "issue": "gaza", "rank": 82, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|083", "outlet": "bdnews24.com", "issue": "gaza", "rank": 83, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|084", "outlet": "bdnews24.com", "issue": "gaza", "rank": 84, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|085", "outlet": "bdnews24.com", "issue": "gaza", "rank": 85, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|086", "outlet": "bdnews24.com", "issue": "gaza", "rank": 86, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|087", "outlet": "bdnews24.com", "issue": "gaza", "rank": 87, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|088", "outlet": "bdnews24.com", "issue": "gaza", "rank": 88, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|089", "outlet": "bdnews24.com", "issue": "gaza", "rank": 89, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|090", "outlet": "bdnews24.com", "issue": "gaza", "rank": 90, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|091", "outlet": "bdnews24.com", "issue": "gaza", "rank": 91, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|092", "outlet": "bdnews24.com", "issue": "gaza", "rank": 92, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|093", "outlet": "bdnews24.com", "issue": "gaza", "rank": 93, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|094", "outlet": "bdnews24.com", "issue": "gaza", "rank": 94, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|095", "outlet": "bdnews24.com", "issue": "gaza", "rank": 95, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|096", "outlet": "bdnews24.com", "issue": "gaza", "rank": 96, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|097", "outlet": "bdnews24.com", "issue": "gaza", "rank": 97, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|098", "outlet": "bdnews24.com", "issue": "gaza", "rank": 98, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|099", "outlet": "bdnews24.com", "issue": "gaza", "rank": 99, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|gaza|100", "outlet": "bdnews24.com", "issue": "gaza", "rank": 100, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|051", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 51, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|052", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 52, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|053", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 53, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|054", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 54, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|055", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 55, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|056", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 56, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|057", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 57, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|058", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 58, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|059", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 59, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|060", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 60, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|061", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 61, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|062", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 62, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|063", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 63, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|064", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 64, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|065", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 65, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|066", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 66, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|067", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 67, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|068", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 68, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|069", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 69, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|070", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 70, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|071", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 71, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|072", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 72, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|073", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 73, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|074", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 74, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|075", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 75, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|076", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 76, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|077", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 77, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|078", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 78, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|079", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 79, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|080", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 80, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|081", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 81, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|082", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 82, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|083", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 83, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|084", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 84, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|085", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 85, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|086", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 86, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|087", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 87, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|088", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 88, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|089", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 89, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|090", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 90, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|091", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 91, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|092", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 92, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|093", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 93, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|094", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 94, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|095", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 95, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|096", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 96, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|097", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 97, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|098", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 98, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|099", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 99, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "bdnews24.com|ukraine|100", "outlet": "bdnews24.com", "issue": "ukraine", "rank": 100, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|051", "outlet": "citizen.co.za", "issue": "cop", "rank": 51, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|052", "outlet": "citizen.co.za", "issue": "cop", "rank": 52, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|053", "outlet": "citizen.co.za", "issue": "cop", "rank": 53, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|054", "outlet": "citizen.co.za", "issue": "cop", "rank": 54, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|055", "outlet": "citizen.co.za", "issue": "cop", "rank": 55, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|056", "outlet": "citizen.co.za", "issue": "cop", "rank": 56, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|057", "outlet": "citizen.co.za", "issue": "cop", "rank": 57, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|058", "outlet": "citizen.co.za", "issue": "cop", "rank": 58, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|059", "outlet": "citizen.co.za", "issue": "cop", "rank": 59, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|060", "outlet": "citizen.co.za", "issue": "cop", "rank": 60, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|061", "outlet": "citizen.co.za", "issue": "cop", "rank": 61, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|062", "outlet": "citizen.co.za", "issue": "cop", "rank": 62, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|063", "outlet": "citizen.co.za", "issue": "cop", "rank": 63, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|064", "outlet": "citizen.co.za", "issue": "cop", "rank": 64, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|065", "outlet": "citizen.co.za", "issue": "cop", "rank": 65, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|066", "outlet": "citizen.co.za", "issue": "cop", "rank": 66, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|067", "outlet": "citizen.co.za", "issue": "cop", "rank": 67, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|068", "outlet": "citizen.co.za", "issue": "cop", "rank": 68, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|069", "outlet": "citizen.co.za", "issue": "cop", "rank": 69, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|070", "outlet": "citizen.co.za", "issue": "cop", "rank": 70, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|071", "outlet": "citizen.co.za", "issue": "cop", "rank": 71, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|072", "outlet": "citizen.co.za", "issue": "cop", "rank": 72, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|073", "outlet": "citizen.co.za", "issue": "cop", "rank": 73, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|074", "outlet": "citizen.co.za", "issue": "cop", "rank": 74, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|075", "outlet": "citizen.co.za", "issue": "cop", "rank": 75, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|076", "outlet": "citizen.co.za", "issue": "cop", "rank": 76, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|077", "outlet": "citizen.co.za", "issue": "cop", "rank": 77, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|078", "outlet": "citizen.co.za", "issue": "cop", "rank": 78, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|079", "outlet": "citizen.co.za", "issue": "cop", "rank": 79, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|080", "outlet": "citizen.co.za", "issue": "cop", "rank": 80, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|081", "outlet": "citizen.co.za", "issue": "cop", "rank": 81, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|082", "outlet": "citizen.co.za", "issue": "cop", "rank": 82, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|083", "outlet": "citizen.co.za", "issue": "cop", "rank": 83, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|084", "outlet": "citizen.co.za", "issue": "cop", "rank": 84, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|085", "outlet": "citizen.co.za", "issue": "cop", "rank": 85, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|086", "outlet": "citizen.co.za", "issue": "cop", "rank": 86, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|087", "outlet": "citizen.co.za", "issue": "cop", "rank": 87, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|088", "outlet": "citizen.co.za", "issue": "cop", "rank": 88, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|089", "outlet": "citizen.co.za", "issue": "cop", "rank": 89, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|090", "outlet": "citizen.co.za", "issue": "cop", "rank": 90, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|091", "outlet": "citizen.co.za", "issue": "cop", "rank": 91, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|092", "outlet": "citizen.co.za", "issue": "cop", "rank": 92, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|093", "outlet": "citizen.co.za", "issue": "cop", "rank": 93, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|094", "outlet": "citizen.co.za", "issue": "cop", "rank": 94, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|095", "outlet": "citizen.co.za", "issue": "cop", "rank": 95, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|096", "outlet": "citizen.co.za", "issue": "cop", "rank": 96, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|097", "outlet": "citizen.co.za", "issue": "cop", "rank": 97, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|098", "outlet": "citizen.co.za", "issue": "cop", "rank": 98, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|099", "outlet": "citizen.co.za", "issue": "cop", "rank": 99, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "citizen.co.za|cop|100", "outlet": "citizen.co.za", "issue": "cop", "rank": 100, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|051", "outlet": "hindustantimes.com", "issue": "cop", "rank": 51, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|052", "outlet": "hindustantimes.com", "issue": "cop", "rank": 52, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|053", "outlet": "hindustantimes.com", "issue": "cop", "rank": 53, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|054", "outlet": "hindustantimes.com", "issue": "cop", "rank": 54, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|055", "outlet": "hindustantimes.com", "issue": "cop", "rank": 55, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|056", "outlet": "hindustantimes.com", "issue": "cop", "rank": 56, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|057", "outlet": "hindustantimes.com", "issue": "cop", "rank": 57, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|058", "outlet": "hindustantimes.com", "issue": "cop", "rank": 58, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|059", "outlet": "hindustantimes.com", "issue": "cop", "rank": 59, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|060", "outlet": "hindustantimes.com", "issue": "cop", "rank": 60, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|061", "outlet": "hindustantimes.com", "issue": "cop", "rank": 61, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|062", "outlet": "hindustantimes.com", "issue": "cop", "rank": 62, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|063", "outlet": "hindustantimes.com", "issue": "cop", "rank": 63, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|064", "outlet": "hindustantimes.com", "issue": "cop", "rank": 64, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|065", "outlet": "hindustantimes.com", "issue": "cop", "rank": 65, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|066", "outlet": "hindustantimes.com", "issue": "cop", "rank": 66, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|067", "outlet": "hindustantimes.com", "issue": "cop", "rank": 67, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|068", "outlet": "hindustantimes.com", "issue": "cop", "rank": 68, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|069", "outlet": "hindustantimes.com", "issue": "cop", "rank": 69, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|070", "outlet": "hindustantimes.com", "issue": "cop", "rank": 70, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|071", "outlet": "hindustantimes.com", "issue": "cop", "rank": 71, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|072", "outlet": "hindustantimes.com", "issue": "cop", "rank": 72, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|073", "outlet": "hindustantimes.com", "issue": "cop", "rank": 73, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|074", "outlet": "hindustantimes.com", "issue": "cop", "rank": 74, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|075", "outlet": "hindustantimes.com", "issue": "cop", "rank": 75, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|076", "outlet": "hindustantimes.com", "issue": "cop", "rank": 76, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|077", "outlet": "hindustantimes.com", "issue": "cop", "rank": 77, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|078", "outlet": "hindustantimes.com", "issue": "cop", "rank": 78, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|079", "outlet": "hindustantimes.com", "issue": "cop", "rank": 79, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|080", "outlet": "hindustantimes.com", "issue": "cop", "rank": 80, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|081", "outlet": "hindustantimes.com", "issue": "cop", "rank": 81, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|082", "outlet": "hindustantimes.com", "issue": "cop", "rank": 82, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|083", "outlet": "hindustantimes.com", "issue": "cop", "rank": 83, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|084", "outlet": "hindustantimes.com", "issue": "cop", "rank": 84, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|085", "outlet": "hindustantimes.com", "issue": "cop", "rank": 85, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|086", "outlet": "hindustantimes.com", "issue": "cop", "rank": 86, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|087", "outlet": "hindustantimes.com", "issue": "cop", "rank": 87, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|088", "outlet": "hindustantimes.com", "issue": "cop", "rank": 88, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|089", "outlet": "hindustantimes.com", "issue": "cop", "rank": 89, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|090", "outlet": "hindustantimes.com", "issue": "cop", "rank": 90, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|091", "outlet": "hindustantimes.com", "issue": "cop", "rank": 91, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|092", "outlet": "hindustantimes.com", "issue": "cop", "rank": 92, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|093", "outlet": "hindustantimes.com", "issue": "cop", "rank": 93, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|094", "outlet": "hindustantimes.com", "issue": "cop", "rank": 94, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|095", "outlet": "hindustantimes.com", "issue": "cop", "rank": 95, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|096", "outlet": "hindustantimes.com", "issue": "cop", "rank": 96, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|097", "outlet": "hindustantimes.com", "issue": "cop", "rank": 97, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|098", "outlet": "hindustantimes.com", "issue": "cop", "rank": 98, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|099", "outlet": "hindustantimes.com", "issue": "cop", "rank": 99, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "hindustantimes.com|cop|100", "outlet": "hindustantimes.com", "issue": "cop", "rank": 100, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|051", "outlet": "iol.co.za", "issue": "gaza", "rank": 51, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|052", "outlet": "iol.co.za", "issue": "gaza", "rank": 52, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|053", "outlet": "iol.co.za", "issue": "gaza", "rank": 53, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|054", "outlet": "iol.co.za", "issue": "gaza", "rank": 54, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|055", "outlet": "iol.co.za", "issue": "gaza", "rank": 55, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|056", "outlet": "iol.co.za", "issue": "gaza", "rank": 56, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|057", "outlet": "iol.co.za", "issue": "gaza", "rank": 57, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|058", "outlet": "iol.co.za", "issue": "gaza", "rank": 58, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|059", "outlet": "iol.co.za", "issue": "gaza", "rank": 59, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|060", "outlet": "iol.co.za", "issue": "gaza", "rank": 60, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|061", "outlet": "iol.co.za", "issue": "gaza", "rank": 61, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|062", "outlet": "iol.co.za", "issue": "gaza", "rank": 62, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|063", "outlet": "iol.co.za", "issue": "gaza", "rank": 63, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|064", "outlet": "iol.co.za", "issue": "gaza", "rank": 64, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|065", "outlet": "iol.co.za", "issue": "gaza", "rank": 65, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|066", "outlet": "iol.co.za", "issue": "gaza", "rank": 66, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|067", "outlet": "iol.co.za", "issue": "gaza", "rank": 67, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|068", "outlet": "iol.co.za", "issue": "gaza", "rank": 68, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|069", "outlet": "iol.co.za", "issue": "gaza", "rank": 69, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|070", "outlet": "iol.co.za", "issue": "gaza", "rank": 70, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|071", "outlet": "iol.co.za", "issue": "gaza", "rank": 71, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|072", "outlet": "iol.co.za", "issue": "gaza", "rank": 72, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|073", "outlet": "iol.co.za", "issue": "gaza", "rank": 73, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|074", "outlet": "iol.co.za", "issue": "gaza", "rank": 74, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|075", "outlet": "iol.co.za", "issue": "gaza", "rank": 75, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|076", "outlet": "iol.co.za", "issue": "gaza", "rank": 76, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|077", "outlet": "iol.co.za", "issue": "gaza", "rank": 77, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|078", "outlet": "iol.co.za", "issue": "gaza", "rank": 78, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|079", "outlet": "iol.co.za", "issue": "gaza", "rank": 79, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|080", "outlet": "iol.co.za", "issue": "gaza", "rank": 80, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|081", "outlet": "iol.co.za", "issue": "gaza", "rank": 81, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|082", "outlet": "iol.co.za", "issue": "gaza", "rank": 82, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|083", "outlet": "iol.co.za", "issue": "gaza", "rank": 83, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|084", "outlet": "iol.co.za", "issue": "gaza", "rank": 84, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|085", "outlet": "iol.co.za", "issue": "gaza", "rank": 85, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|086", "outlet": "iol.co.za", "issue": "gaza", "rank": 86, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|087", "outlet": "iol.co.za", "issue": "gaza", "rank": 87, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|088", "outlet": "iol.co.za", "issue": "gaza", "rank": 88, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|089", "outlet": "iol.co.za", "issue": "gaza", "rank": 89, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|090", "outlet": "iol.co.za", "issue": "gaza", "rank": 90, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|091", "outlet": "iol.co.za", "issue": "gaza", "rank": 91, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|092", "outlet": "iol.co.za", "issue": "gaza", "rank": 92, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|093", "outlet": "iol.co.za", "issue": "gaza", "rank": 93, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|094", "outlet": "iol.co.za", "issue": "gaza", "rank": 94, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|095", "outlet": "iol.co.za", "issue": "gaza", "rank": 95, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|096", "outlet": "iol.co.za", "issue": "gaza", "rank": 96, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|097", "outlet": "iol.co.za", "issue": "gaza", "rank": 97, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|098", "outlet": "iol.co.za", "issue": "gaza", "rank": 98, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|099", "outlet": "iol.co.za", "issue": "gaza", "rank": 99, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "iol.co.za|gaza|100", "outlet": "iol.co.za", "issue": "gaza", "rank": 100, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|051", "outlet": "malaymail.com", "issue": "cop", "rank": 51, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|052", "outlet": "malaymail.com", "issue": "cop", "rank": 52, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|053", "outlet": "malaymail.com", "issue": "cop", "rank": 53, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|054", "outlet": "malaymail.com", "issue": "cop", "rank": 54, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|055", "outlet": "malaymail.com", "issue": "cop", "rank": 55, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|056", "outlet": "malaymail.com", "issue": "cop", "rank": 56, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|057", "outlet": "malaymail.com", "issue": "cop", "rank": 57, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|058", "outlet": "malaymail.com", "issue": "cop", "rank": 58, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|059", "outlet": "malaymail.com", "issue": "cop", "rank": 59, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|060", "outlet": "malaymail.com", "issue": "cop", "rank": 60, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|061", "outlet": "malaymail.com", "issue": "cop", "rank": 61, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|062", "outlet": "malaymail.com", "issue": "cop", "rank": 62, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|063", "outlet": "malaymail.com", "issue": "cop", "rank": 63, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|064", "outlet": "malaymail.com", "issue": "cop", "rank": 64, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|065", "outlet": "malaymail.com", "issue": "cop", "rank": 65, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|066", "outlet": "malaymail.com", "issue": "cop", "rank": 66, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|067", "outlet": "malaymail.com", "issue": "cop", "rank": 67, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|068", "outlet": "malaymail.com", "issue": "cop", "rank": 68, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|069", "outlet": "malaymail.com", "issue": "cop", "rank": 69, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|070", "outlet": "malaymail.com", "issue": "cop", "rank": 70, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|071", "outlet": "malaymail.com", "issue": "cop", "rank": 71, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|072", "outlet": "malaymail.com", "issue": "cop", "rank": 72, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|073", "outlet": "malaymail.com", "issue": "cop", "rank": 73, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|074", "outlet": "malaymail.com", "issue": "cop", "rank": 74, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|075", "outlet": "malaymail.com", "issue": "cop", "rank": 75, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|076", "outlet": "malaymail.com", "issue": "cop", "rank": 76, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|077", "outlet": "malaymail.com", "issue": "cop", "rank": 77, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|078", "outlet": "malaymail.com", "issue": "cop", "rank": 78, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|079", "outlet": "malaymail.com", "issue": "cop", "rank": 79, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|080", "outlet": "malaymail.com", "issue": "cop", "rank": 80, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|081", "outlet": "malaymail.com", "issue": "cop", "rank": 81, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|082", "outlet": "malaymail.com", "issue": "cop", "rank": 82, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|083", "outlet": "malaymail.com", "issue": "cop", "rank": 83, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|084", "outlet": "malaymail.com", "issue": "cop", "rank": 84, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|085", "outlet": "malaymail.com", "issue": "cop", "rank": 85, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|086", "outlet": "malaymail.com", "issue": "cop", "rank": 86, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|087", "outlet": "malaymail.com", "issue": "cop", "rank": 87, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|088", "outlet": "malaymail.com", "issue": "cop", "rank": 88, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|089", "outlet": "malaymail.com", "issue": "cop", "rank": 89, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|090", "outlet": "malaymail.com", "issue": "cop", "rank": 90, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|091", "outlet": "malaymail.com", "issue": "cop", "rank": 91, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|092", "outlet": "malaymail.com", "issue": "cop", "rank": 92, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|093", "outlet": "malaymail.com", "issue": "cop", "rank": 93, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|094", "outlet": "malaymail.com", "issue": "cop", "rank": 94, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|095", "outlet": "malaymail.com", "issue": "cop", "rank": 95, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|096", "outlet": "malaymail.com", "issue": "cop", "rank": 96, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|097", "outlet": "malaymail.com", "issue": "cop", "rank": 97, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|098", "outlet": "malaymail.com", "issue": "cop", "rank": 98, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|099", "outlet": "malaymail.com", "issue": "cop", "rank": 99, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "malaymail.com|cop|100", "outlet": "malaymail.com", "issue": "cop", "rank": 100, "wayback": false, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "newagebd.net|ukraine|001", "outlet": "newagebd.net", "issue": "ukraine", "rank": 1, "wayback": true, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "newagebd.net|ukraine|008", "outlet": "newagebd.net", "issue": "ukraine", "rank": 8, "wayback": true, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "newagebd.net|ukraine|031", "outlet": "newagebd.net", "issue": "ukraine", "rank": 31, "wayback": true, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "newagebd.net|ukraine|054", "outlet": "newagebd.net", "issue": "ukraine", "rank": 54, "wayback": true, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "newagebd.net|ukraine|056", "outlet": "newagebd.net", "issue": "ukraine", "rank": 56, "wayback": true, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "newagebd.net|ukraine|057", "outlet": "newagebd.net", "issue": "ukraine", "rank": 57, "wayback": true, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "newagebd.net|ukraine|058", "outlet": "newagebd.net", "issue": "ukraine", "rank": 58, "wayback": true, "retrieved": "2026-10-03", "status": "error:ConnectionError"}
+{"sample_id": "newsarawaktribune.com.my|cop|019", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 19, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|006", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 6, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
+{"sample_id": "newsarawaktribune.com.my|ukraine|009", "outlet": "newsarawaktribune.com.my", "issue": "ukraine", "rank": 9, "wayback": true, "retrieved": "2026-10-03", "status": "http_404"}
+{"sample_id": "newsarawaktribune.com.my|cop|019", "outlet": "newsarawaktribune.com.my", "issue": "cop", "rank": 19, "wayback": true, "retrieved": "2026-10-03", "status": "http_429"}
