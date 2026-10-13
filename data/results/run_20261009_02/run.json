@@ -1,0 +1,26 @@
+{
+ "run_id": "run_20261009_02",
+ "plan_revision": 5,
+ "script": "data/analysis/p5b_sim_coverage.py",
+ "inputs": [
+  "data/analysis/sim/_cache/p5_cache.json",
+  "data/analysis/sim/outlets.json",
+  "results/run_20261008_01/fits.json",
+  "data/coded/following_cells.csv"
+ ],
+ "sha256s": {
+  "data/analysis/sim/_cache/p5_cache.json": "c188368372f60c0b278e466f90e6bb96da954b557e980d468af58e17b99c1130",
+  "data/analysis/sim/outlets.json": "cf89537b31be7ee26417c70061bfd6c2430380ca328d6612d3965c794090d511",
+  "results/run_20261008_01/fits.json": "813b7d83ee75bd891f5f964c4b3722c4aa9bc63c52cf54dfab6ddd84e7846dd8",
+  "data/coded/following_cells.csv": "49b4c5f1fe5deec669074d4d6ef7dbffeac4943261c0ad11ab9122682396e00d"
+ },
+ "started": "2026-10-09T17:54:19+00:00",
+ "finished": "2026-10-09T17:54:19+00:00",
+ "environment": "data/analysis/environment.txt",
+ "seed": 20261006,
+ "deviations_applied": [
+  "X15"
+ ],
+ "model": null,
+ "notes": "Read-out of run_20261008_01's cached records and fitted parameters (X15); no simulation run. Grids from p5_simulation.py: w, v linspace(0, 1, 11); c linspace(0.5, 5, 11)."
+}

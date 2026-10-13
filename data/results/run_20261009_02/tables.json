@@ -1,0 +1,318 @@
+{
+ "schema": "rihlah-results/2.0",
+ "run_id": "run_20261009_02",
+ "plan_revision": 5,
+ "generated": "2026-10-09T17:54:19+00:00",
+ "tables": [
+  {
+   "label": "T10",
+   "title": "Cells With a Simulated Value and Stories Published, by Configuration (Read-Out of the P5 Run)",
+   "answers": [
+    "RQ2"
+   ],
+   "columns": [
+    "Configuration",
+    "Cells with a salience value (of 52)",
+    "Cells with a framing value (of 52)",
+    "Cells with a timing value (of 52)",
+    "Stories published per seed (M)",
+    "Seeds"
+   ],
+   "rows": [
+    [
+     "Baseline (no rule)",
+     "52.0",
+     "52.0",
+     "52.0",
+     "72,511",
+     "20"
+    ],
+    [
+     "Dependence",
+     "52.0",
+     "52.0",
+     "2.0",
+     "48,356",
+     "20"
+    ],
+    [
+     "Imitation",
+     "52.0",
+     "52.0",
+     "52.0",
+     "107,519",
+     "20"
+    ],
+    [
+     "Herding",
+     "52.0",
+     "52.0",
+     "52.0",
+     "73,460",
+     "20"
+    ],
+    [
+     "Dependence + imitation",
+     "52.0",
+     "52.0",
+     "12.7",
+     "47,654",
+     "20"
+    ],
+    [
+     "Dependence + herding",
+     "52.0",
+     "52.0",
+     "18.0",
+     "49,122",
+     "20"
+    ],
+    [
+     "Imitation + herding",
+     "52.0",
+     "52.0",
+     "52.0",
+     "108,812",
+     "20"
+    ],
+    [
+     "All three",
+     "52.0",
+     "52.0",
+     "28.9",
+     "48,310",
+     "20"
+    ]
+   ],
+   "note": "Read from the records of run_20261008_01 (no new simulation). A cell has a simulated salience value when at least 8 weeks hold at least 5 simulated stories, a framing value when at least 5 published items carry a coder frame, and a timing value when at least 3 published core or event items carry a first-core-mention lag; wire items carry no lag. The standardized errors in Table T4 are means over the cells that hold a value, so the timing error of a dependence configuration rests on the cells listed here. Means over the 20 seeds of the planned order (dependence, imitation, herding).",
+   "stats": [
+    {
+     "name": "cells_timing_baseline",
+     "value": "Baseline (no rule): timing value in 52.0 of 52 cells per seed (M over 20 seeds); stories published per seed M = 72,511",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "cells_timing_D",
+     "value": "Dependence: timing value in 2.0 of 52 cells per seed (M over 20 seeds); stories published per seed M = 48,356",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "cells_timing_I",
+     "value": "Imitation: timing value in 52.0 of 52 cells per seed (M over 20 seeds); stories published per seed M = 107,519",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "cells_timing_H",
+     "value": "Herding: timing value in 52.0 of 52 cells per seed (M over 20 seeds); stories published per seed M = 73,460",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "cells_timing_DI",
+     "value": "Dependence + imitation: timing value in 12.7 of 52 cells per seed (M over 20 seeds); stories published per seed M = 47,654",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "cells_timing_DH",
+     "value": "Dependence + herding: timing value in 18.0 of 52 cells per seed (M over 20 seeds); stories published per seed M = 49,122",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "cells_timing_IH",
+     "value": "Imitation + herding: timing value in 52.0 of 52 cells per seed (M over 20 seeds); stories published per seed M = 108,812",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "cells_timing_DIH",
+     "value": "All three: timing value in 28.9 of 52 cells per seed (M over 20 seeds); stories published per seed M = 48,310",
+     "p": null,
+     "effect": null
+    }
+   ]
+  },
+  {
+   "label": "T11",
+   "title": "Effective Daily Cap on Own Stories Under the Fitted Dependence Rule, by Outlet",
+   "answers": [
+    "RQ2"
+   ],
+   "columns": [
+    "Outlet",
+    "Wire reliance W",
+    "Correspondent presence C",
+    "Cap B at the fitted w = 1.00 (Ukraine / Gaza / COP)",
+    "Cap B at w = 0 (Ukraine / Gaza / COP)",
+    "Keeps no own story at the fitted w"
+   ],
+   "rows": [
+    [
+     "bdnews24.com",
+     "0.57",
+     "0.00",
+     "0 / 0 / 0",
+     "1 / 1 / 0",
+     "yes"
+    ],
+    [
+     "The Citizen",
+     "0.84",
+     "0.00",
+     "0 / 0 / 0",
+     "0 / 1 / 0",
+     "yes"
+    ],
+    [
+     "Daily Post",
+     "0.00",
+     "0.00",
+     "0 / 0 / 0",
+     "2 / 1 / 0",
+     "yes"
+    ],
+    [
+     "Hindustan Times",
+     "0.20",
+     "0.00",
+     "0 / 0 / 0",
+     "11 / 24 / 0",
+     "yes"
+    ],
+    [
+     "IOL",
+     "0.22",
+     "0.03",
+     "0 / 0 / 0",
+     "5 / 4 / 0",
+     "yes"
+    ],
+    [
+     "Malay Mail",
+     "0.94",
+     "0.00",
+     "0 / 0 / 0",
+     "1 / 1 / 0",
+     "yes"
+    ],
+    [
+     "Malaysiakini",
+     "0.11",
+     "0.00",
+     "0 / 0 / 0",
+     "0 / 0 / 0",
+     "yes"
+    ],
+    [
+     "Daily Nation",
+     "0.59",
+     "0.00",
+     "0 / 0 / 0",
+     "1 / 1 / 0",
+     "yes"
+    ],
+    [
+     "New Age",
+     "0.00",
+     "0.00",
+     "0 / 0 / 0",
+     "0 / 1 / 0",
+     "yes"
+    ],
+    [
+     "New Sarawak Tribune",
+     "0.27",
+     "0.04",
+     "0 / 0 / 0",
+     "0 / 1 / 0",
+     "yes"
+    ],
+    [
+     "Punch",
+     "0.52",
+     "0.00",
+     "0 / 0 / 0",
+     "2 / 1 / 0",
+     "yes"
+    ],
+    [
+     "The Star (Kenya)",
+     "0.00",
+     "0.00",
+     "0 / 0 / 0",
+     "6 / 4 / 0",
+     "yes"
+    ],
+    [
+     "The Daily Star",
+     "0.82",
+     "0.00",
+     "0 / 0 / 0",
+     "0 / 1 / 0",
+     "yes"
+    ],
+    [
+     "The Hindu",
+     "0.35",
+     "0.00",
+     "0 / 0 / 0",
+     "9 / 7 / 0",
+     "yes"
+    ],
+    [
+     "TimesLIVE",
+     "0.86",
+     "0.00",
+     "0 / 0 / 0",
+     "0 / 0 / 0",
+     "yes"
+    ],
+    [
+     "Times of India",
+     "0.55",
+     "0.05",
+     "1 / 1 / 0",
+     "13 / 16 / 0",
+     "no"
+    ],
+    [
+     "Nigerian Tribune",
+     "0.00",
+     "0.00",
+     "0 / 0 / 0",
+     "1 / 1 / 0",
+     "yes"
+    ],
+    [
+     "Tuko",
+     "0.92",
+     "0.00",
+     "0 / 0 / 0",
+     "0 / 0 / 0",
+     "yes"
+    ]
+   ],
+   "note": "B = round(n × (1 − W) × (w × C + 1 − w)), with n the outlet's mean daily count of issue stories in the fitting half. At the fitted w = 1.00 the cap is n × (1 − W) × C, so an outlet with no staff foreign byline (C = 0.00) keeps no own proposal and publishes wire copy only. 17 of 18 outlets keep no own story at the fitted w. Correspondent presence (V9) is exploratory (X12); the plan fixed it as the rule's C before the data.",
+   "stats": [
+    {
+     "name": "outlets_cap_zero",
+     "value": "17 of 18 outlets keep no own story at the fitted w = 1.00",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "fitted_w",
+     "value": "w = 1.00 (grid 0 to 1, 11 points); v = 0.10 (grid 0 to 1); c = 0.50 (grid 0.5 to 5)",
+     "p": null,
+     "effect": null
+    }
+   ]
+  }
+ ],
+ "figures": [],
+ "descriptives": []
+}
