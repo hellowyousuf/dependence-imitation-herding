@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and the archive."
+title: "Structural Dependence, Imitation or Herding? Code and data"
+type: software
+authors:
+  - family-names: Yousuf
+    given-names: Mohammad
+    affiliation: "Department of Communication & Journalism, University of New Mexico"
+    orcid: "https://orcid.org/0000-0003-3784-3346"
+  - family-names: Habib
+    given-names: Arif Md Tareque
+    affiliation: "Department of Communication & Journalism, University of New Mexico"
+repository-code: "https://github.com/hellowyousuf/dependence-imitation-herding"
+license:
+  - MIT
+  - CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-10-12"
+keywords:
+  - agenda setting
+  - world-system theory
+  - international news flow
+  - news agencies
+  - LLM agent-based simulation
+  - Global South
+preferred-citation:
+  type: article
+  title: "Structural Dependence, Imitation or Herding? A Multi-Agent Simulation of Global Intermedia Agenda Setting"
+  authors:
+    - family-names: Yousuf
+      given-names: Mohammad
+      orcid: "https://orcid.org/0000-0003-3784-3346"
+    - family-names: Habib
+      given-names: Arif Md Tareque
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:[ARXIV ID]"
