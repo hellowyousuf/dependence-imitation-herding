@@ -10,11 +10,12 @@ authors:
   - family-names: Habib
     given-names: Arif Md Tareque
     affiliation: "Department of Communication & Journalism, University of New Mexico"
+doi: "10.5281/zenodo.23330238"
 repository-code: "https://github.com/hellowyousuf/dependence-imitation-herding"
 license:
   - MIT
   - CC-BY-4.0
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-10-12"
 keywords:
   - agenda setting
