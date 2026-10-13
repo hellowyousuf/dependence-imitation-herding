@@ -1,0 +1,192 @@
+{
+ "schema": "rihlah-results/2.0",
+ "run_id": "run_20261006_02",
+ "plan_revision": 5,
+ "generated": "2026-10-06T16:36:20+00:00",
+ "tables": [
+  {
+   "label": "T3",
+   "title": "Mixed Models of Following on Tier (H1)",
+   "answers": [
+    "H1"
+   ],
+   "columns": [
+    "Model",
+    "Predictor",
+    "Level",
+    "b",
+    "95% CI",
+    "p (unadjusted)",
+    "Cells (n)",
+    "Random effects"
+   ],
+   "rows": [
+    [
+     "H1 tier (periphery vs semi-periphery)",
+     "Periphery",
+     "Salience",
+     "0.103",
+     "[-0.148, 0.354]",
+     ".421",
+     "52",
+     "n = 52, var(country) = 0.0142, var(outlet) = 0.0167, residual = 0.0411"
+    ],
+    [
+     "H1 check: continuous index score (A28)",
+     "Index score (per point)",
+     "Salience",
+     "0.025",
+     "[-0.119, 0.168]",
+     ".738",
+     "52",
+     "n = 52, var(country) = 0.0176, var(outlet) = 0.0165, residual = 0.0412"
+    ],
+    [
+     "H1 tier (periphery vs semi-periphery)",
+     "Periphery",
+     "Framing",
+     "-0.010",
+     "[-0.065, 0.046]",
+     ".729",
+     "52",
+     "n = 52, var(outlet) = 0.0016, residual = 0.0058"
+    ],
+    [
+     "H1 tier, main fit before dropping the zero-variance component",
+     "Periphery",
+     "Framing",
+     "-0.010",
+     "[-0.065, 0.046]",
+     ".728",
+     "52",
+     "n = 52, var(country) = 0.0000, var(outlet) = 0.0016, residual = 0.0058"
+    ],
+    [
+     "H1 tier (periphery vs semi-periphery)",
+     "Periphery",
+     "Framing (without headline-only Post copies, X11)",
+     "-0.004",
+     "[-0.060, 0.051]",
+     ".881",
+     "52",
+     "n = 52, var(outlet) = 0.0015, residual = 0.0060"
+    ],
+    [
+     "H1 tier, main fit before dropping the zero-variance component",
+     "Periphery",
+     "Framing (without headline-only Post copies, X11)",
+     "-0.004",
+     "[-0.060, 0.051]",
+     ".881",
+     "52",
+     "n = 52, var(country) = 0.0000, var(outlet) = 0.0015, residual = 0.0060"
+    ],
+    [
+     "H1 check: continuous index score (A28)",
+     "Index score (per point)",
+     "Framing",
+     "0.018",
+     "[-0.011, 0.046]",
+     ".219",
+     "52",
+     "n = 52, var(outlet) = 0.0013, residual = 0.0058"
+    ],
+    [
+     "H1 check: continuous index, main fit before dropping the zero-variance component",
+     "Index score (per point)",
+     "Framing",
+     "0.018",
+     "[-0.011, 0.046]",
+     ".219",
+     "52",
+     "n = 52, var(country) = 0.0000, var(outlet) = 0.0013, residual = 0.0058"
+    ],
+    [
+     "H1 tier (periphery vs semi-periphery)",
+     "Periphery",
+     "Timing",
+     "-0.026",
+     "[-0.132, 0.081]",
+     ".635",
+     "37",
+     "n = 37, var(country) = 0.0012, var(outlet) = 0.0060, residual = 0.0052"
+    ],
+    [
+     "H1 check: continuous index score (A28)",
+     "Index score (per point)",
+     "Timing",
+     "0.007",
+     "[-0.049, 0.064]",
+     ".794",
+     "37",
+     "n = 37, var(country) = 0.0014, var(outlet) = 0.0061, residual = 0.0052"
+    ]
+   ],
+   "note": "Following per outlet × issue cell (periphery 26 cells, semi-periphery 26; timing 37 cells with at least 10 matched events). Fixed effects: tier (periphery = 1, semi-periphery = 0) and issue (two dummies, Ukraine and Gaza against COP); random intercepts for outlet nested in country (restricted maximum likelihood). Salience is the event-adjusted correlation, framing the bias-corrected similarity, timing the negative median lag in days, so a positive b means closer following in the periphery. p values are two-sided Wald tests before Holm correction; the Holm-adjusted decisions across the nine confirmatory tests are in Table T6. A random-effect variance estimated at zero was dropped and the model refitted; both fits are listed. The index check enters Gunaratne's 2022 score (India 2.83, Malaysia 0.66, Nigeria 0.44, South Africa 0.41, Bangladesh 0.34, Kenya 0.09) in place of tier; H1 predicts a negative coefficient.",
+   "stats": [
+    {
+     "name": "H1_salience_periphery",
+     "value": "b = 0.103, 95% CI [-0.148, 0.354], z = 0.80, n = 52 cells",
+     "p": ".421",
+     "effect": null
+    },
+    {
+     "name": "H1_check_index_salience",
+     "value": "b = 0.025 per index point, 95% CI [-0.119, 0.168], n = 52 cells",
+     "p": ".738",
+     "effect": null
+    },
+    {
+     "name": "H1_framing_periphery",
+     "value": "b = -0.010, 95% CI [-0.065, 0.046], z = -0.35, n = 52 cells",
+     "p": ".729",
+     "effect": null
+    },
+    {
+     "name": "H1_framing_periphery_x11",
+     "value": "b = -0.004, 95% CI [-0.060, 0.051], n = 52 cells",
+     "p": ".881",
+     "effect": null
+    },
+    {
+     "name": "H1_check_index_framing",
+     "value": "b = 0.018 per index point, 95% CI [-0.011, 0.046], n = 52 cells",
+     "p": ".219",
+     "effect": null
+    },
+    {
+     "name": "H1_timing_periphery",
+     "value": "b = -0.026, 95% CI [-0.132, 0.081], z = -0.47, n = 37 cells",
+     "p": ".635",
+     "effect": null
+    },
+    {
+     "name": "H1_check_index_timing",
+     "value": "b = 0.007 per index point, 95% CI [-0.049, 0.064], n = 37 cells",
+     "p": ".794",
+     "effect": null
+    },
+    {
+     "name": "salience_tier_means",
+     "value": "periphery: M = 0.38, SD = 0.29, n = 26; semi-periphery: M = 0.27, SD = 0.31, n = 26",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "framing_tier_means",
+     "value": "periphery: M = -0.10, SD = 0.09, n = 26; semi-periphery: M = -0.09, SD = 0.07, n = 26",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "timing_tier_means",
+     "value": "periphery: M = -0.06, SD = 0.13, n = 18; semi-periphery: M = -0.03, SD = 0.08, n = 19",
+     "p": null,
+     "effect": null
+    }
+   ]
+  }
+ ],
+ "figures": [],
+ "descriptives": []
+}

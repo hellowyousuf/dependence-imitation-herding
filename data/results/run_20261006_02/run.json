@@ -1,0 +1,23 @@
+{
+ "run_id": "run_20261006_02",
+ "plan_revision": 5,
+ "script": "data/analysis/p2_tier_model.py",
+ "inputs": [
+  "data/coded/following_cells.csv"
+ ],
+ "sha256s": {
+  "data/coded/following_cells.csv": "49b4c5f1fe5deec669074d4d6ef7dbffeac4943261c0ad11ab9122682396e00d"
+ },
+ "started": "2026-10-06T16:36:20+00:00",
+ "finished": "2026-10-06T16:36:20+00:00",
+ "environment": "data/analysis/environment.txt",
+ "seed": 20261006,
+ "deviations_applied": [
+  "X1",
+  "X7",
+  "X11",
+  "X13"
+ ],
+ "model": null,
+ "notes": "Holm family entries H1_salience, H1_framing, H1_timing recorded; decisions in P4's T6."
+}
