@@ -1,0 +1,88 @@
+{
+ "all": {
+  "wire_credit": {
+   "rule_decides": 3072,
+   "agree": 3067,
+   "alpha": 0.996,
+   "disagreements_sample": [
+    "bdnews24.com|cop|003",
+    "bdnews24.com|cop|009",
+    "hindustantimes.com|gaza|032",
+    "malaymail.com|cop|009",
+    "malaymail.com|cop|041"
+   ]
+  },
+  "national_agency_credit": {
+   "rule_decides": 3121,
+   "agree": 3118,
+   "alpha": 0.991,
+   "disagreements_sample": [
+    "dailypost.ng|ukraine|016",
+    "dailypost.ng|ukraine|028",
+    "theguardian.com|gaza|051"
+   ]
+  },
+  "foreign_story": {
+   "rule_decides": 1091,
+   "agree": 1091,
+   "alpha": 1.0,
+   "disagreements_sample": []
+  },
+  "staff_foreign_byline": {
+   "rule_decides": 1162,
+   "agree": 1159,
+   "alpha": 0.944,
+   "disagreements_sample": [
+    "theguardian.com|gaza|026",
+    "theguardian.com|gaza|055",
+    "washingtonpost.com|cop|053"
+   ]
+  }
+ },
+ "outside_reliability_sample": {
+  "wire_credit": {
+   "rule_decides": 2772,
+   "agree": 2767,
+   "alpha": 0.996,
+   "disagreements_sample": [
+    "bdnews24.com|cop|003",
+    "bdnews24.com|cop|009",
+    "hindustantimes.com|gaza|032",
+    "malaymail.com|cop|009",
+    "malaymail.com|cop|041"
+   ]
+  },
+  "national_agency_credit": {
+   "rule_decides": 2821,
+   "agree": 2818,
+   "alpha": 0.99,
+   "disagreements_sample": [
+    "dailypost.ng|ukraine|016",
+    "dailypost.ng|ukraine|028",
+    "theguardian.com|gaza|051"
+   ]
+  },
+  "foreign_story": {
+   "rule_decides": 964,
+   "agree": 964,
+   "alpha": 1.0,
+   "disagreements_sample": []
+  },
+  "staff_foreign_byline": {
+   "rule_decides": 1028,
+   "agree": 1025,
+   "alpha": 0.944,
+   "disagreements_sample": [
+    "theguardian.com|gaza|026",
+    "theguardian.com|gaza|055",
+    "washingtonpost.com|cop|053"
+   ]
+  }
+ },
+ "frame_all_pass_vs_reliability_v2_p1": {
+  "n": 300,
+  "agree": 265,
+  "alpha": 0.852
+ },
+ "x11_syndication_url_rows": 49
+}

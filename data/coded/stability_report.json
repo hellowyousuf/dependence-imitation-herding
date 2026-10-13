@@ -1,0 +1,165 @@
+{
+ "passes": [
+  "reliability_v2_p1",
+  "reliability_v2_p2",
+  "reliability_v2_p3"
+ ],
+ "floor": 0.8,
+ "n": 300,
+ "model": "claude-opus-5-5",
+ "frame": {
+  "alpha_passes_1_3": 0.849,
+  "all_three_agree": 248,
+  "alpha_pass1_vs_variant": 0.799,
+  "agree_pass1_vs_variant": 252,
+  "per_code": {
+   "conflict": {
+    "stories_with_code": 81,
+    "all_three_agree": 63
+   },
+   "economic": {
+    "stories_with_code": 65,
+    "all_three_agree": 49
+   },
+   "episodic": {
+    "stories_with_code": 117,
+    "all_three_agree": 76
+   },
+   "human_interest": {
+    "stories_with_code": 23,
+    "all_three_agree": 13
+   },
+   "other": {
+    "stories_with_code": 13,
+    "all_three_agree": 8
+   },
+   "responsibility": {
+    "stories_with_code": 26,
+    "all_three_agree": 15
+   },
+   "thematic": {
+    "stories_with_code": 30,
+    "all_three_agree": 24
+   }
+  },
+  "majority_counts": {
+   "conflict": 74,
+   "economic": 56,
+   "episodic": 95,
+   "responsibility": 19,
+   "other": 10,
+   "thematic": 28,
+   "human_interest": 18
+  },
+  "unstable_pairs": {
+   "conflict / episodic": 15,
+   "episodic / human_interest": 7,
+   "economic / episodic": 7,
+   "episodic / responsibility": 4,
+   "economic / responsibility": 4,
+   "episodic / thematic": 3,
+   "episodic / other": 2,
+   "conflict / economic": 2,
+   "economic / episodic / other": 1,
+   "responsibility / thematic": 1
+  },
+  "unstable_ids": [
+   "bdnews24.com|cop|021",
+   "bdnews24.com|cop|030",
+   "bdnews24.com|gaza|016",
+   "dailypost.ng|cop|006",
+   "dailypost.ng|ukraine|004",
+   "hindustantimes.com|cop|019",
+   "hindustantimes.com|cop|035",
+   "hindustantimes.com|ukraine|025",
+   "iol.co.za|cop|007",
+   "iol.co.za|cop|008",
+   "iol.co.za|cop|015",
+   "iol.co.za|gaza|003",
+   "iol.co.za|gaza|010",
+   "iol.co.za|gaza|030",
+   "iol.co.za|gaza|042",
+   "iol.co.za|ukraine|001",
+   "iol.co.za|ukraine|008",
+   "iol.co.za|ukraine|016",
+   "malaymail.com|gaza|048",
+   "malaysiakini.com|ukraine|010",
+   "nation.africa|cop|022",
+   "nation.africa|cop|025",
+   "nation.africa|cop|041",
+   "nation.africa|gaza|035",
+   "nation.africa|ukraine|015",
+   "nation.africa|ukraine|018",
+   "newagebd.net|gaza|003",
+   "newagebd.net|gaza|031",
+   "newagebd.net|ukraine|037",
+   "newsarawaktribune.com.my|cop|012",
+   "newsarawaktribune.com.my|ukraine|054",
+   "punchng.com|gaza|049",
+   "punchng.com|ukraine|046",
+   "the-star.co.ke|gaza|030",
+   "the-star.co.ke|gaza|032",
+   "the-star.co.ke|gaza|036",
+   "the-star.co.ke|ukraine|041",
+   "thedailystar.net|cop|040",
+   "thedailystar.net|gaza|002",
+   "thehindu.com|cop|012",
+   "thehindu.com|cop|049",
+   "thehindu.com|ukraine|017",
+   "timeslive.co.za|cop|039",
+   "timeslive.co.za|gaza|033",
+   "timeslive.co.za|gaza|042",
+   "timesofindia|gaza|039",
+   "timesofindia|gaza|042",
+   "timesofindia|ukraine|007",
+   "timesofindia|ukraine|051",
+   "tribuneonlineng.com|cop|008",
+   "tribuneonlineng.com|cop|010",
+   "tuko.co.ke|ukraine|046"
+  ]
+ },
+ "binary": {
+  "foreign_story": {
+   "alpha_passes_1_3": 0.956,
+   "alpha_pass1_vs_variant": 0.406,
+   "prevalence_pass1": 217
+  },
+  "wire_credit": {
+   "alpha_passes_1_3": 0.995,
+   "alpha_pass1_vs_variant": 1.0,
+   "prevalence_pass1": 107
+  },
+  "national_agency_credit": {
+   "alpha_passes_1_3": 1.0,
+   "alpha_pass1_vs_variant": 1.0,
+   "prevalence_pass1": 23
+  },
+  "staff_foreign_byline": {
+   "alpha_passes_1_3": 0.749,
+   "alpha_pass1_vs_variant": 0.666,
+   "prevalence_pass1": 1
+  }
+ },
+ "rules_vs_model": {
+  "foreign_story": {
+   "rule_decides": 127,
+   "agree": 127,
+   "alpha": 1.0
+  },
+  "wire_credit": {
+   "rule_decides": 300,
+   "agree": 300,
+   "alpha": 1.0
+  },
+  "national_agency_credit": {
+   "rule_decides": 300,
+   "agree": 300,
+   "alpha": 1.0
+  },
+  "staff_foreign_byline": {
+   "rule_decides": 134,
+   "agree": 134,
+   "alpha": null
+  }
+ }
+}

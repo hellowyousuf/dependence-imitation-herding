@@ -1,0 +1,7 @@
+country,iso3,pct_world_gni_2022,pct_world_exports_2022,export_series,gunaratne_index,tier
+India,IND,3.127,2.4724,NE.EXP.GNFS.CD,2.8324,semi-periphery
+Malaysia,MYS,0.3854,0.9913,NE.EXP.GNFS.CD,0.658,semi-periphery
+Nigeria,NGA,0.6213,0.2186,BX.GSR.GNFS.CD,0.4401,semi-periphery
+South Africa,ZAF,0.3896,0.4326,NE.EXP.GNFS.CD,0.4089,periphery
+Bangladesh,BGD,0.4669,0.1876,NE.EXP.GNFS.CD,0.3412,periphery
+Kenya,KEN,0.11,0.0578,NE.EXP.GNFS.CD,0.0865,periphery
