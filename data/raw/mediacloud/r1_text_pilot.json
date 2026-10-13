@@ -1,0 +1,37 @@
+{
+ "story_endpoint": [
+  {
+   "id": "5f713f7cab8bc8a2d10c4051b1898d3c269cf0480381cfad7d8a5b5478d434b8",
+   "domain": "taranganews.com",
+   "story_has_text": false,
+   "text_chars": 0
+  },
+  {
+   "id": "67f31d255f7609ecbfbceb98eb943b1208531b48d88f218d3d99a231c91e1bc2",
+   "domain": "taranganews.com",
+   "story_has_text": false,
+   "text_chars": 0
+  },
+  {
+   "id": "b92df2243f6f0f8dcd877a46f87afaf1ad8a27eacc806bd38b9a54cd0428947e",
+   "domain": "taranganews.com",
+   "story_has_text": false,
+   "text_chars": 0
+  },
+  {
+   "id": "863adb6cbf2c19325c634ef7ff1cdee090193a10df0bcd8fd73998eceabb0861",
+   "domain": "taranganews.com",
+   "story_has_text": false,
+   "text_chars": 0
+  },
+  {
+   "id": "fae62170b171e44d11b40e834fd9eb7d57fd5c154fe2f874a6e9e30deee9bd33",
+   "domain": "taranganews.com",
+   "story_has_text": false,
+   "text_chars": 0
+  }
+ ],
+ "expanded_list": {
+  "expanded_error": "HTTP 403: 'You are not permitted to fetch `expanded` stories.'"
+ }
+}

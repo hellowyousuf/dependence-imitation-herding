@@ -1,0 +1,680 @@
+{
+ "Bangladesh": {
+  "matches": [
+   {
+    "id": 34412132,
+    "name": "Bangladesh - National",
+    "notes": "Media is largely about Bangladesh",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38002016,
+    "name": "Bangladesh - State & Local",
+    "notes": "Media is largely about Bangladesh - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 9351689,
+    "name": "bangladesh bengali abyz 20161216",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38002019,
+    "name": "Dhaka, Bangladesh - State & Local",
+    "notes": "Media is largely about Dhaka, Bangladesh - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 9351692,
+    "name": "bangladesh english abyz 20161216",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38002023,
+    "name": "Khulna, Bangladesh - State & Local",
+    "notes": "Media is largely about Khulna, Bangladesh - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38002017,
+    "name": "Chittagong, Bangladesh - State & Local",
+    "notes": "Media is largely about Chittagong, Bangladesh - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 262985184,
+    "name": "Asian American Media - Bangladeshi",
+    "notes": "Compiled by Jonathan Ong's team at UMass, NSF Co-Insights",
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38002021,
+    "name": "Barisal, Bangladesh - State & Local",
+    "notes": "Media is largely about Barisal, Bangladesh - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38002025,
+    "name": "Rajshahi, Bangladesh - State & Local",
+    "notes": "Media is largely about Rajshahi, Bangladesh - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38002027,
+    "name": "Sylhet, Bangladesh - State & Local",
+    "notes": "Media is largely about Sylhet, Bangladesh - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   }
+  ],
+  "national_id": 34412132
+ },
+ "Kenya": {
+  "matches": [
+   {
+    "id": 34412126,
+    "name": "Kenya - National",
+    "notes": "Media is largely about Kenya.\n11/22/24: updated by Rahul Bhargava based on detailed notes from Femicide Count Kenya organizational partner",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 262985210,
+    "name": "Kenya for Gates Global Health 2024",
+    "notes": "Static collection of Kenya for existing Gates Global Health Initiative research.",
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9238246,
+    "name": "kenya abyz 20160715",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38380260,
+    "name": "Kenya - State & Local",
+    "notes": "Media is largely about Kenya - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   }
+  ],
+  "national_id": 34412126
+ },
+ "Nigeria": {
+  "matches": [
+   {
+    "id": 38376341,
+    "name": "Nigeria - National",
+    "notes": "Media is largely about Nigeria - National",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 9244199,
+    "name": "nigeria abyz 20160725",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 8879743,
+    "name": "Nigeria",
+    "notes": "Manually curated list of 49 Nigerian news sites. Most sources started collecting content on 2014-10-17.",
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9313255,
+    "name": "nigeria hausa 20161007",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9173064,
+    "name": "nigeria mitpolisci 20160321",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9137553,
+    "name": "gates nigeria 20160203",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9269152,
+    "name": "nigeria additional 20160812",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 8879744,
+    "name": "nigeria egghead 20141017",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 262985207,
+    "name": "nigeria",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   }
+  ],
+  "national_id": 38376341
+ },
+ "India": {
+  "matches": [
+   {
+    "id": 9197869,
+    "name": "india indiabloggers org 20160421",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9197881,
+    "name": "feedly india 20160420",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38379954,
+    "name": "India - State & Local",
+    "notes": "Media is largely about India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38381358,
+    "name": "Indiana, United States - State & Local",
+    "notes": "Media is largely about Indiana, United States - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 34412118,
+    "name": "India - National",
+    "notes": "Media is largely about India",
+    "public": true,
+    "featured": true,
+    "monitored": true
+   },
+   {
+    "id": 9325106,
+    "name": "Indian Hindi Language",
+    "notes": "Sources published in India in the Hindi language.",
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9200499,
+    "name": "india additional 20160430",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9172519,
+    "name": "india alexa 20160318",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9137550,
+    "name": "gates india 20160203",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9201394,
+    "name": "india alexa pruned new 20160509",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38379973,
+    "name": "Maharashtra, India - State & Local",
+    "notes": "Media is largely about Maharashtra, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379959,
+    "name": "Delhi, India - State & Local",
+    "notes": "Media is largely about Delhi, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379957,
+    "name": "Kerala, India - State & Local",
+    "notes": "Media is largely about Kerala, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379969,
+    "name": "Tamil Nadu, India - State & Local",
+    "notes": "Media is largely about Tamil Nadu, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379955,
+    "name": "Gujarat, India - State & Local",
+    "notes": "Media is largely about Gujarat, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379991,
+    "name": "Karn\u0101taka, India - State & Local",
+    "notes": "Media is largely about Karn\u0101taka, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379967,
+    "name": "Andhra Pradesh, India - State & Local",
+    "notes": "Media is largely about Andhra Pradesh, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379961,
+    "name": "West Bengal, India - State & Local",
+    "notes": "Media is largely about West Bengal, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379975,
+    "name": "Punjab, India - State & Local",
+    "notes": "Media is largely about Punjab, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379980,
+    "name": "Assam, India - State & Local",
+    "notes": "Media is largely about Assam, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 262985189,
+    "name": "Asian American Media - Indian",
+    "notes": "Compiled by Jonathan Ong's team at UMass, NSF Co-Insights",
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38379965,
+    "name": "Uttar Pradesh, India - State & Local",
+    "notes": "Media is largely about Uttar Pradesh, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379963,
+    "name": "Madhya Pradesh, India - State & Local",
+    "notes": "Media is largely about Madhya Pradesh, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380009,
+    "name": "Rajasthan, India - State & Local",
+    "notes": "Media is largely about Rajasthan, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 262985226,
+    "name": "Jammu & Kashmir, India - State & Local",
+    "notes": "Media is largely about Jammu & Kashmir, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38379989,
+    "name": "Goa, India - State & Local",
+    "notes": "Media is largely about Goa, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379984,
+    "name": "Chandigarh, India - State & Local",
+    "notes": "Media is largely about Chandigarh, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380012,
+    "name": "Sikkim, India - State & Local",
+    "notes": "Media is largely about Sikkim, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379995,
+    "name": "Manipur, India - State & Local",
+    "notes": "Media is largely about Manipur, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380014,
+    "name": "Tripura, India - State & Local",
+    "notes": "Media is largely about Tripura, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380004,
+    "name": "Nagaland, India - State & Local",
+    "notes": "Media is largely about Nagaland, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380016,
+    "name": "Uttarakhand, India - State & Local",
+    "notes": "Media is largely about Uttarakhand, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 262985228,
+    "name": "Odisha, India - State & Local",
+    "notes": "",
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38379971,
+    "name": "Haryana, India - State & Local",
+    "notes": "Media is largely about Haryana, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 262985227,
+    "name": "Jh\u0101rkhand, India - State & Local",
+    "notes": "",
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38379982,
+    "name": "Bihar, India - State & Local",
+    "notes": "Media is largely about Bihar, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379998,
+    "name": "Meghalaya, India - State & Local",
+    "notes": "Media is largely about Meghalaya, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379986,
+    "name": "Chhattisgarh, India - State & Local",
+    "notes": "Media is largely about Chhattisgarh, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380002,
+    "name": "Mizoram, India - State & Local",
+    "notes": "Media is largely about Mizoram, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38379977,
+    "name": "Arunachal Pradesh, India - State & Local",
+    "notes": "Media is largely about Arunachal Pradesh, India - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 9238244,
+    "name": "india hindi 20160705",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 9197949,
+    "name": "gates india 20160203 collection:feedly india 20160420",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   }
+  ],
+  "national_id": 34412118
+ },
+ "South Africa": {
+  "matches": [
+   {
+    "id": 34412238,
+    "name": "South Africa - National",
+    "notes": "Media is largely about South Africa",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380886,
+    "name": "South Africa - State & Local",
+    "notes": "Media is largely about South Africa - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380888,
+    "name": "Gauteng, South Africa - State & Local",
+    "notes": "Media is largely about Gauteng, South Africa - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380890,
+    "name": "Western Cape, South Africa - State & Local",
+    "notes": "Media is largely about Western Cape, South Africa - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380892,
+    "name": "Eastern Cape, South Africa - State & Local",
+    "notes": "Media is largely about Eastern Cape, South Africa - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380897,
+    "name": "Limpopo, South Africa - State & Local",
+    "notes": "Media is largely about Limpopo, South Africa - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 9137554,
+    "name": "gates south africa 20160203",
+    "notes": null,
+    "public": true,
+    "featured": false,
+    "monitored": false
+   },
+   {
+    "id": 38380899,
+    "name": "Mpumalanga, South Africa - State & Local",
+    "notes": "Media is largely about Mpumalanga, South Africa - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380894,
+    "name": "Free State, South Africa - State & Local",
+    "notes": "Media is largely about Free State, South Africa - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   }
+  ],
+  "national_id": 34412238
+ },
+ "Malaysia": {
+  "matches": [
+   {
+    "id": 34412243,
+    "name": "Malaysia - National",
+    "notes": "Media is largely about Malaysia",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380297,
+    "name": "Malaysia - State & Local",
+    "notes": "Media is largely about Malaysia - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380298,
+    "name": "Selangor, Malaysia - State & Local",
+    "notes": "Media is largely about Selangor, Malaysia - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380304,
+    "name": "Sarawak, Malaysia - State & Local",
+    "notes": "Media is largely about Sarawak, Malaysia - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380302,
+    "name": "Sabah, Malaysia - State & Local",
+    "notes": "Media is largely about Sabah, Malaysia - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   },
+   {
+    "id": 38380300,
+    "name": "Pulau Pinang, Malaysia - State & Local",
+    "notes": "Media is largely about Pulau Pinang, Malaysia - State & Local",
+    "public": true,
+    "featured": false,
+    "monitored": true
+   }
+  ],
+  "national_id": 34412243
+ }
+}

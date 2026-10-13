@@ -1,0 +1,1485 @@
+{
+ "period": [
+  "2022-02-24",
+  "2024-12-31"
+ ],
+ "query": "language:en",
+ "countries": {
+  "Bangladesh": [
+   {
+    "domain": "bbc.co.uk",
+    "en_stories": 165174,
+    "source_id": 932549,
+    "label": "BBC",
+    "homepage": "http://bbc.com",
+    "media_type": null,
+    "pub_country": "GBR",
+    "primary_language": "en"
+   },
+   {
+    "domain": "taranganews.com",
+    "en_stories": 58243,
+    "source_id": 361096,
+    "label": "Taranga News - Entertainment News",
+    "homepage": "http://www.taranganews.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "observerbd.com",
+    "en_stories": 57163,
+    "source_id": 373872,
+    "label": "observerbd.com",
+    "homepage": "http://observerbd.com/",
+    "media_type": "print_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "bbc.com",
+    "en_stories": 53979,
+    "source_id": 932549,
+    "label": "BBC",
+    "homepage": "http://bbc.com",
+    "media_type": null,
+    "pub_country": "GBR",
+    "primary_language": "en"
+   },
+   {
+    "domain": "weeklyblitz.net",
+    "en_stories": 27426,
+    "source_id": 41608,
+    "label": "weeklyblitz",
+    "homepage": "http://www.weeklyblitz.net/",
+    "media_type": "print_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "bdnews24.com",
+    "en_stories": 25291,
+    "source_id": 38832,
+    "label": "bdnews24",
+    "homepage": "http://bdnews24.com",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "app.com.pk",
+    "en_stories": 21068,
+    "source_id": 58818,
+    "label": "app.com.pk",
+    "homepage": "http://app.com.pk/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "jagonews24.com",
+    "en_stories": 10669,
+    "source_id": 560693,
+    "label": "jagonews24.com",
+    "homepage": "http://jagonews24.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "bn"
+   },
+   {
+    "domain": "bangladeshsun.com",
+    "en_stories": 8837,
+    "source_id": 361145,
+    "label": "Bangladesh Sun - Authoritative Bangladesh News Source",
+    "homepage": "http://www.bangladeshsun.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "bangladeshnews.net",
+    "en_stories": 8792,
+    "source_id": 320927,
+    "label": "bangladeshnews.net",
+    "homepage": "http://bangladeshnews.net/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "bdnewstimes.com",
+    "en_stories": 6655,
+    "source_id": 622983,
+    "label": "BD News Times",
+    "homepage": "http://www.bdnewstimes.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "bn"
+   },
+   {
+    "domain": "daily-sun.com",
+    "en_stories": 5449,
+    "source_id": 242821,
+    "label": "daily-sun.com",
+    "homepage": "http://daily-sun.com/",
+    "media_type": "print_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "ourtimebd.com",
+    "en_stories": 4866,
+    "source_id": 300465,
+    "label": "OurtimeBD",
+    "homepage": "http://www.ourtimebd.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "thebangladeshtoday.com",
+    "en_stories": 2685,
+    "source_id": 311514,
+    "label": "thebangladeshtoday.com",
+    "homepage": "http://thebangladeshtoday.com/",
+    "media_type": "print_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "bangladeshchronicle.net",
+    "en_stories": 2622,
+    "source_id": 262818,
+    "label": "bangladeshchronicle.net",
+    "homepage": "http://bangladeshchronicle.net/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "thedailynewnation.com",
+    "en_stories": 1679,
+    "source_id": 298500,
+    "label": "thedailynewnation.com",
+    "homepage": "http://thedailynewnation.com/",
+    "media_type": "print_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "timewatch.com.bd",
+    "en_stories": 1669,
+    "source_id": 361098,
+    "label": "Timewatch | Online Bangla News Paper",
+    "homepage": "http://www.timewatch.com.bd/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "bn"
+   },
+   {
+    "domain": "crimebarta.com",
+    "en_stories": 984,
+    "source_id": 622994,
+    "label": "Crime Barta",
+    "homepage": "http://www.crimebarta.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "bn"
+   },
+   {
+    "domain": "vnewsbd.com",
+    "en_stories": 948,
+    "source_id": 649518,
+    "label": "V News (English)",
+    "homepage": "http://vnewsbd.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "alltimenews.com",
+    "en_stories": 704,
+    "source_id": 622950,
+    "label": "All Time News - Bangladesh (Bengali)",
+    "homepage": "http://www.alltimenews.com/bn/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "bn"
+   },
+   {
+    "domain": "icetoday.net",
+    "en_stories": 683,
+    "source_id": 1702148,
+    "label": "ICE Today: A Bangladeshi Fashion, Entertainment & Lifestyle Magazine",
+    "homepage": "https://icetoday.net/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "bd24live.com",
+    "en_stories": 607,
+    "source_id": 622977,
+    "label": "BD 24 Live - Bangladesh (English)",
+    "homepage": "http://www.bd24live.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "en"
+   },
+   {
+    "domain": "thedhakapost.com",
+    "en_stories": 247,
+    "source_id": 623067,
+    "label": "The Dhaka Post - Bangladesh (English)",
+    "homepage": "http://www.thedhakapost.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "bn"
+   },
+   {
+    "domain": "bdtoday24.com",
+    "en_stories": 186,
+    "source_id": 622985,
+    "label": "BD Today 24",
+    "homepage": "http://www.bdtoday24.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "bn"
+   },
+   {
+    "domain": "zoombangla.com",
+    "en_stories": 175,
+    "source_id": 623074,
+    "label": "Zoom Bangla",
+    "homepage": "http://news.zoombangla.com/",
+    "media_type": "digital_native",
+    "pub_country": "BGD",
+    "primary_language": "bn"
+   }
+  ],
+  "Kenya": [
+   {
+    "domain": "the-star.co.ke",
+    "en_stories": 116204,
+    "source_id": 106916,
+    "label": "the-star.co.ke",
+    "homepage": "https://www.the-star.co.ke/",
+    "media_type": "print_native",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "nation.africa",
+    "en_stories": 75039,
+    "source_id": 1912643,
+    "label": "nation.africa - Kenya",
+    "homepage": "https://nation.africa/kenya",
+    "media_type": "print_native",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "tuko.co.ke",
+    "en_stories": 30666,
+    "source_id": 311461,
+    "label": "tuko.co.ke",
+    "homepage": "https://www.tuko.co.ke",
+    "media_type": "digital_native",
+    "pub_country": "KEN",
+    "primary_language": "sw"
+   },
+   {
+    "domain": "standardmedia.co.ke",
+    "en_stories": 27816,
+    "source_id": 40852,
+    "label": "The Standard (Kenya)",
+    "homepage": "http://www.standardmedia.co.ke",
+    "media_type": "print_native",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "kenyan-post.com",
+    "en_stories": 22782,
+    "source_id": 106874,
+    "label": "DAILY POST",
+    "homepage": "http://www.kenyan-post.com",
+    "media_type": "digital_native",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "mpasho.co.ke",
+    "en_stories": 22299,
+    "source_id": 299830,
+    "label": "Mpasho News",
+    "homepage": "https://mpasho.co.ke",
+    "media_type": "digital_native",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "kbc.co.ke",
+    "en_stories": 22085,
+    "source_id": 41358,
+    "label": "kbc.co.ke",
+    "homepage": "https://www.kbc.co.ke/",
+    "media_type": "video_broadcast",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "capitalfm.co.ke",
+    "en_stories": 21410,
+    "source_id": 60426,
+    "label": "capitalfm.co.ke",
+    "homepage": "https://www.capitalfm.co.ke/news/",
+    "media_type": "video_broadcast",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "businessdailyafrica.com",
+    "en_stories": 17841,
+    "source_id": 41687,
+    "label": "businessdailyafrica.com",
+    "homepage": "http://www.businessdailyafrica.com/",
+    "media_type": "print_native",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "kahawatungu.com",
+    "en_stories": 17262,
+    "source_id": 106906,
+    "label": "Kahawa Tungu",
+    "homepage": "http://www.kahawatungu.com",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "ntvkenya.co.ke",
+    "en_stories": 12818,
+    "source_id": 1912491,
+    "label": "ntvkenya.co.ke",
+    "homepage": "https://ntvkenya.co.ke/",
+    "media_type": "video_broadcast",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "theeastafrican.co.ke",
+    "en_stories": 10476,
+    "source_id": 41171,
+    "label": "theeastafrican.co.ke",
+    "homepage": "http://www.theeastafrican.co.ke/",
+    "media_type": "print_native",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "kenyans.co.ke",
+    "en_stories": 8676,
+    "source_id": 563164,
+    "label": "kenyans.co.ke",
+    "homepage": "http://Kenyans.co.ke",
+    "media_type": "digital_native",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "ghettoradio.co.ke",
+    "en_stories": 7362,
+    "source_id": 106921,
+    "label": "Ghetto Radio 89.5 | Your Official Sheng Station",
+    "homepage": "http://www.ghettoradio.co.ke",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "nairobiwire.com",
+    "en_stories": 6982,
+    "source_id": 106897,
+    "label": "Nairobi Wire",
+    "homepage": "http://nairobiwire.com",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "kdrtv.co.ke",
+    "en_stories": 5324,
+    "source_id": 1381721,
+    "label": "kdrtv.co.ke",
+    "homepage": "http://kdrtv.co.ke/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "kenyastar.com",
+    "en_stories": 5077,
+    "source_id": 106905,
+    "label": "Kenya Star \u2013 Continuously Updating Kenya News",
+    "homepage": "http://www.kenyastar.com",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "ksnmedia.com",
+    "en_stories": 4785,
+    "source_id": 306473,
+    "label": "ksnmedia.com",
+    "homepage": "http://ksnmedia.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "nairobireview.africa",
+    "en_stories": 3375,
+    "source_id": 1912190,
+    "label": "nairobireview.africa",
+    "homepage": "https://nairobireview.africa",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": null
+   },
+   {
+    "domain": "kenyatribune.com",
+    "en_stories": 1697,
+    "source_id": 1912161,
+    "label": "kenyatribune.com",
+    "homepage": "https://www.kenyatribune.com",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "k24tv.co.ke",
+    "en_stories": 1643,
+    "source_id": 1427922,
+    "label": "k24tv.co.ke",
+    "homepage": "https://www.k24tv.co.ke/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": null
+   },
+   {
+    "domain": "kenyanews.go.ke",
+    "en_stories": 1428,
+    "source_id": 1378500,
+    "label": "kenyanews.go.ke",
+    "homepage": "http://kenyanews.go.ke/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "ghafla.co.ke",
+    "en_stories": 1321,
+    "source_id": 106896,
+    "label": "Ghafla!Kenya",
+    "homepage": "http://www.ghafla.co.ke",
+    "media_type": "digital_native",
+    "pub_country": "KEN",
+    "primary_language": "en"
+   },
+   {
+    "domain": "kutv.co.ke",
+    "en_stories": 1206,
+    "source_id": 1912170,
+    "label": "kutv.co.ke",
+    "homepage": "http://kutv.co.ke/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "sportsleo.com",
+    "en_stories": 1170,
+    "source_id": 1912160,
+    "label": "sportsleo.com",
+    "homepage": "https://sportsleo.com",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": null
+   }
+  ],
+  "Nigeria": [
+   {
+    "domain": "punchng.com",
+    "en_stories": 128385,
+    "source_id": 18023,
+    "label": "punchng.com",
+    "homepage": "http://www.punchng.com/",
+    "media_type": "print_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "dailypost.ng",
+    "en_stories": 119769,
+    "source_id": 130930,
+    "label": "Daily Post",
+    "homepage": "https://dailypost.ng/",
+    "media_type": "digital_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "tribuneonlineng.com",
+    "en_stories": 105092,
+    "source_id": 339427,
+    "label": "tribuneonlineng.com",
+    "homepage": "https://tribuneonlineng.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "guardian.ng",
+    "en_stories": 100482,
+    "source_id": 279665,
+    "label": "guardian.ng",
+    "homepage": "https://guardian.ng",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "legit.ng",
+    "en_stories": 97000,
+    "source_id": 930990,
+    "label": "legit.ng",
+    "homepage": "http://legit.ng/",
+    "media_type": null,
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "vanguardngr.com",
+    "en_stories": 96145,
+    "source_id": 18029,
+    "label": "vanguardngr.com",
+    "homepage": "http://www.vanguardngr.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "newtelegraphng.com",
+    "en_stories": 84127,
+    "source_id": 978636,
+    "label": "newtelegraphng.com",
+    "homepage": "http://newtelegraphng.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "blueprint.ng",
+    "en_stories": 73854,
+    "source_id": 295758,
+    "label": "blueprint.ng",
+    "homepage": "https://www.blueprint.ng/",
+    "media_type": "print_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "tori.ng",
+    "en_stories": 70996,
+    "source_id": 279620,
+    "label": "tori.ng",
+    "homepage": "http://tori.ng/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "leadership.ng",
+    "en_stories": 64903,
+    "source_id": 305169,
+    "label": "leadership.ng",
+    "homepage": "http://leadership.ng/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "ms"
+   },
+   {
+    "domain": "pulse.ng",
+    "en_stories": 60991,
+    "source_id": 143546,
+    "label": "pulse.ng",
+    "homepage": "http://pulse.ng/",
+    "media_type": "digital_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "businessday.ng",
+    "en_stories": 59392,
+    "source_id": 1219798,
+    "label": "businessday.ng",
+    "homepage": "https://businessday.ng",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "thenationonlineng.net",
+    "en_stories": 56382,
+    "source_id": 144730,
+    "label": "thenationonlineng.net",
+    "homepage": "https://thenationonlineng.net/",
+    "media_type": "print_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "independent.ng",
+    "en_stories": 56065,
+    "source_id": 373312,
+    "label": "independent.ng",
+    "homepage": "http://independent.ng/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "theeagleonline.com.ng",
+    "en_stories": 54546,
+    "source_id": 143765,
+    "label": "theeagleonline.com.ng",
+    "homepage": "http://theeagleonline.com.ng/",
+    "media_type": "digital_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "sunnewsonline.com",
+    "en_stories": 54164,
+    "source_id": 18027,
+    "label": "The Sun Nigeria",
+    "homepage": "http://www.sunnewsonline.com/",
+    "media_type": "print_native",
+    "pub_country": "USA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "von.gov.ng",
+    "en_stories": 51837,
+    "source_id": 319145,
+    "label": "von.gov.ng",
+    "homepage": "http://von.gov.ng/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "gistmania.com",
+    "en_stories": 47289,
+    "source_id": 144931,
+    "label": "gistmania.com",
+    "homepage": "https://www.gistmania.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "newsdiaryonline.com",
+    "en_stories": 46018,
+    "source_id": 18012,
+    "label": "NewsDiary Online",
+    "homepage": "http://newsdiaryonline.com/",
+    "media_type": "digital_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "premiumtimesng.com",
+    "en_stories": 43190,
+    "source_id": 114907,
+    "label": "premiumtimesng.com",
+    "homepage": "https://www.premiumtimesng.com/",
+    "media_type": "digital_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "pmnewsnigeria.com",
+    "en_stories": 42779,
+    "source_id": 18021,
+    "label": "pmnewsnigeria.com",
+    "homepage": "https://pmnewsnigeria.com/",
+    "media_type": "print_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "thisdaylive.com",
+    "en_stories": 41095,
+    "source_id": 41605,
+    "label": "thisdaylive.com",
+    "homepage": "http://www.thisdaylive.com/",
+    "media_type": "print_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "nigerianeye.com",
+    "en_stories": 38704,
+    "source_id": 119632,
+    "label": "nigerianeye.com",
+    "homepage": "http://nigerianeye.com/",
+    "media_type": "digital_native",
+    "pub_country": "NGA",
+    "primary_language": "en"
+   },
+   {
+    "domain": "ripplesnigeria.com",
+    "en_stories": 37464,
+    "source_id": 320284,
+    "label": "ripplesnigeria.com",
+    "homepage": "http://ripplesnigeria.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "dailytrust.com",
+    "en_stories": 32517,
+    "source_id": 1612304,
+    "label": "dailytrust.com",
+    "homepage": "https://dailytrust.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   }
+  ],
+  "India": [
+   {
+    "domain": "indiatimes.com",
+    "en_stories": 1903569,
+    "source_id": 115065,
+    "label": "indiatimes.com",
+    "homepage": "http://indiatimes.com/",
+    "media_type": "digital_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "hindustantimes.com",
+    "en_stories": 461108,
+    "source_id": 20258,
+    "label": "The Hindustan Times",
+    "homepage": "http://www.hindustantimes.com/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "thehindu.com",
+    "en_stories": 450450,
+    "source_id": 22331,
+    "label": "Hindu",
+    "homepage": "https://www.thehindu.com/",
+    "media_type": null,
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "news18.com",
+    "en_stories": 372311,
+    "source_id": 189910,
+    "label": "news18.com",
+    "homepage": "http://news18.com/",
+    "media_type": "video_broadcast",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "newindianexpress.com",
+    "en_stories": 295273,
+    "source_id": 973649,
+    "label": "newindianexpress.com",
+    "homepage": "http://www.newindianexpress.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "indianexpress.com",
+    "en_stories": 294807,
+    "source_id": 56899,
+    "label": "Indian Express",
+    "homepage": "https://indianexpress.com/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "freepressjournal.in",
+    "en_stories": 285581,
+    "source_id": 136476,
+    "label": "freepressjournal.in",
+    "homepage": "http://freepressjournal.in/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "ndtv.com",
+    "en_stories": 269897,
+    "source_id": 17973,
+    "label": "ndtv.com",
+    "homepage": "http://www.ndtv.com/",
+    "media_type": "video_broadcast",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "india.com",
+    "en_stories": 243495,
+    "source_id": 271589,
+    "label": "India | Latest India News | Get Free India.com Email | Live Cricket and Entertainment News at India.Com",
+    "homepage": "http://www.india.com/",
+    "media_type": null,
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "livemint.com",
+    "en_stories": 207261,
+    "source_id": 56177,
+    "label": "livemint.com",
+    "homepage": "http://www.livemint.com/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "indiasnews.net",
+    "en_stories": 181351,
+    "source_id": 283750,
+    "label": "indiasnews.net",
+    "homepage": "http://indiasnews.net/",
+    "media_type": "digital_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "tribuneindia.com",
+    "en_stories": 179189,
+    "source_id": 57626,
+    "label": "tribuneindia.com",
+    "homepage": "http://tribuneindia.com/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "business-standard.com",
+    "en_stories": 166364,
+    "source_id": 19341,
+    "label": "business-standard.com",
+    "homepage": "http://www.business-standard.com/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "financialexpress.com",
+    "en_stories": 154287,
+    "source_id": 39886,
+    "label": "financialexpress.com",
+    "homepage": "http://www.financialexpress.com/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "mid-day.com",
+    "en_stories": 130358,
+    "source_id": 131138,
+    "label": "mid-day.com",
+    "homepage": "http://mid-day.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "dnaindia.com",
+    "en_stories": 110683,
+    "source_id": 65929,
+    "label": "dnaindia.com",
+    "homepage": "http://www.dnaindia.com/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "thehindubusinessline.com",
+    "en_stories": 100024,
+    "source_id": 67989,
+    "label": "Business Line",
+    "homepage": "https://www.thehindubusinessline.com/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "pinkvilla.com",
+    "en_stories": 99525,
+    "source_id": 283470,
+    "label": "Pinkvilla",
+    "homepage": "http://www.pinkvilla.com/",
+    "media_type": "digital_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "moneycontrol.com",
+    "en_stories": 68522,
+    "source_id": 1207811,
+    "label": "moneycontrol.com",
+    "homepage": "https://hindi.moneycontrol.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "firstpost.com",
+    "en_stories": 63486,
+    "source_id": 1318042,
+    "label": "firstpost.com",
+    "homepage": "http://www.firstpost.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "rediff.com",
+    "en_stories": 54652,
+    "source_id": 41643,
+    "label": "rediff",
+    "homepage": "http://www.rediff.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "scroll.in",
+    "en_stories": 51542,
+    "source_id": 323198,
+    "label": "Scroll.in",
+    "homepage": "https://scroll.in/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "thequint.com",
+    "en_stories": 47996,
+    "source_id": 282811,
+    "label": "thequint.com",
+    "homepage": "http://thequint.com/",
+    "media_type": "digital_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "businessworld.in",
+    "en_stories": 35703,
+    "source_id": 271153,
+    "label": "BW Businessworld \u2013 Indian Business News, Opinion, Analysis",
+    "homepage": "http://www.businessworld.in/",
+    "media_type": "print_native",
+    "pub_country": "IND",
+    "primary_language": "en"
+   },
+   {
+    "domain": "oneindia.com",
+    "en_stories": 35539,
+    "source_id": 245499,
+    "label": "oneindia.com",
+    "homepage": "http://oneindia.com/",
+    "media_type": "digital_native",
+    "pub_country": "IND",
+    "primary_language": "kn"
+   }
+  ],
+  "South Africa": [
+   {
+    "domain": "iol.co.za",
+    "en_stories": 158992,
+    "source_id": 27054,
+    "label": "iol.co.za",
+    "homepage": "http://www.iol.co.za",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "citizen.co.za",
+    "en_stories": 102681,
+    "source_id": 108262,
+    "label": "citizen.co.za",
+    "homepage": "https://www.citizen.co.za/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "timeslive.co.za",
+    "en_stories": 61376,
+    "source_id": 27029,
+    "label": "timeslive.co.za",
+    "homepage": "https://www.timeslive.co.za/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "thesouthafrican.com",
+    "en_stories": 59346,
+    "source_id": 310665,
+    "label": "thesouthafrican.com",
+    "homepage": "https://www.thesouthafrican.com",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "southafricatoday.net",
+    "en_stories": 43308,
+    "source_id": 144678,
+    "label": "southafricatoday.net",
+    "homepage": "http://southafricatoday.net/",
+    "media_type": "digital_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "sowetanlive.co.za",
+    "en_stories": 38991,
+    "source_id": 86467,
+    "label": "sowetanlive.co.za",
+    "homepage": "https://sowetanlive.co.za/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "heraldlive.co.za",
+    "en_stories": 36783,
+    "source_id": 269287,
+    "label": "heraldlive.co.za",
+    "homepage": "https://www.heraldlive.co.za/weekend-post/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "dispatchlive.co.za",
+    "en_stories": 34858,
+    "source_id": 269284,
+    "label": "DispatchLIVE",
+    "homepage": "http://www.dispatchlive.co.za/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "africannewsagency.com",
+    "en_stories": 32027,
+    "source_id": 1912506,
+    "label": "https://www.africannewsagency.com/",
+    "homepage": "https://www.africannewsagency.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "ewn.co.za",
+    "en_stories": 31074,
+    "source_id": 107855,
+    "label": "ewn.co.za",
+    "homepage": "https://ewn.co.za/",
+    "media_type": "digital_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "enca.com",
+    "en_stories": 30307,
+    "source_id": 122276,
+    "label": "enca.com",
+    "homepage": "http://www.enca.com/south-africa",
+    "media_type": "video_broadcast",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "georgeherald.com",
+    "en_stories": 14875,
+    "source_id": 657873,
+    "label": "George Herald",
+    "homepage": "http://www.georgeherald.com/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "moneyweb.co.za",
+    "en_stories": 14373,
+    "source_id": 75070,
+    "label": "moneyweb.co.za",
+    "homepage": "https://www.moneyweb.co.za",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": null
+   },
+   {
+    "domain": "sundayworld.co.za",
+    "en_stories": 12632,
+    "source_id": 577587,
+    "label": "sundayworld.co.za",
+    "homepage": "http://sundayworld.co.za/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "co.za",
+    "en_stories": 11387,
+    "source_id": 108262,
+    "label": "citizen.co.za",
+    "homepage": "https://www.citizen.co.za/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "iafrica.com",
+    "en_stories": 11227,
+    "source_id": 110546,
+    "label": "iafrica.com",
+    "homepage": "http://iafrica.com/",
+    "media_type": "digital_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "capetalk.co.za",
+    "en_stories": 10265,
+    "source_id": 304659,
+    "label": "capetalk.co.za",
+    "homepage": "http://capetalk.co.za/",
+    "media_type": "video_broadcast",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "ofm.co.za",
+    "en_stories": 9605,
+    "source_id": 66378,
+    "label": "ofm.co.za",
+    "homepage": "http://ofm.co.za/",
+    "media_type": "video_broadcast",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "politicsweb.co.za",
+    "en_stories": 8853,
+    "source_id": 119364,
+    "label": "politicsweb.co.za",
+    "homepage": "http://politicsweb.co.za/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "rekord.co.za",
+    "en_stories": 7201,
+    "source_id": 1829732,
+    "label": "rekord.co.za",
+    "homepage": "http://rekord.co.za/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": null
+   },
+   {
+    "domain": "southcoastherald.co.za",
+    "en_stories": 7174,
+    "source_id": 271647,
+    "label": "South Coast Herald",
+    "homepage": "http://southcoastherald.co.za/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "lowvelder.co.za",
+    "en_stories": 6232,
+    "source_id": 563474,
+    "label": "lowvelder.co.za",
+    "homepage": "https://lowvelder.co.za/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "itweb.co.za",
+    "en_stories": 5888,
+    "source_id": 145201,
+    "label": "itweb.co.za",
+    "homepage": "https://www.itweb.co.za",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "sedibengster.com",
+    "en_stories": 5715,
+    "source_id": 271646,
+    "label": "Sedibeng Ster",
+    "homepage": "http://sedibengster.com/",
+    "media_type": "print_native",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   },
+   {
+    "domain": "vocfm.co.za",
+    "en_stories": 5701,
+    "source_id": 99750,
+    "label": "vocfm.co.za",
+    "homepage": "http://www.vocfm.co.za/",
+    "media_type": "video_broadcast",
+    "pub_country": "ZAF",
+    "primary_language": "en"
+   }
+  ],
+  "Malaysia": [
+   {
+    "domain": "malaymail.com",
+    "en_stories": 138854,
+    "source_id": 762165,
+    "label": "malaymail.com",
+    "homepage": "http://malaymail.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "bernama.com",
+    "en_stories": 75359,
+    "source_id": 56440,
+    "label": "bernama.com",
+    "homepage": "http://bernama.com/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": "en"
+   },
+   {
+    "domain": "nst.com.my",
+    "en_stories": 67443,
+    "source_id": 39395,
+    "label": "nst",
+    "homepage": "http://www.nst.com.my/",
+    "media_type": "print_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "newsarawaktribune.com.my",
+    "en_stories": 39966,
+    "source_id": 1279131,
+    "label": "newsarawaktribune.com.my",
+    "homepage": "http://newsarawaktribune.com.my/",
+    "media_type": null,
+    "pub_country": null,
+    "primary_language": null
+   },
+   {
+    "domain": "theborneopost.com",
+    "en_stories": 36866,
+    "source_id": 110341,
+    "label": "theborneopost.com",
+    "homepage": "http://theborneopost.com/",
+    "media_type": "print_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "malaysiakini.com",
+    "en_stories": 29685,
+    "source_id": 39058,
+    "label": "malaysiakini",
+    "homepage": "http://www.malaysiakini.com/",
+    "media_type": "digital_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "therakyatpost.com",
+    "en_stories": 8714,
+    "source_id": 110548,
+    "label": "therakyatpost.com",
+    "homepage": "http://therakyatpost.com/",
+    "media_type": "digital_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "thesundaily.my",
+    "en_stories": 6162,
+    "source_id": 75462,
+    "label": "The Sun Daily",
+    "homepage": "http://www.thesundaily.my/",
+    "media_type": "print_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "kualalumpurnews.net",
+    "en_stories": 5768,
+    "source_id": 319102,
+    "label": "kualalumpurnews.net",
+    "homepage": "http://kualalumpurnews.net/",
+    "media_type": "digital_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "malaysianews.net",
+    "en_stories": 5710,
+    "source_id": 318939,
+    "label": "malaysianews.net",
+    "homepage": "http://malaysianews.net/",
+    "media_type": "digital_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "malaysia-today.net",
+    "en_stories": 4648,
+    "source_id": 61504,
+    "label": "malaysia-today.net",
+    "homepage": "http://malaysia-today.net/",
+    "media_type": "digital_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "harakahdaily.net",
+    "en_stories": 2776,
+    "source_id": 312125,
+    "label": "harakahdaily.net",
+    "homepage": "http://harakahdaily.net/",
+    "media_type": "print_native",
+    "pub_country": "MYS",
+    "primary_language": "ms"
+   },
+   {
+    "domain": "kosmo.com.my",
+    "en_stories": 256,
+    "source_id": 656780,
+    "label": "Kosmo",
+    "homepage": "http://www.kosmo.com.my/",
+    "media_type": "print_native",
+    "pub_country": "MYS",
+    "primary_language": "ms"
+   },
+   {
+    "domain": "thestar.com.my",
+    "en_stories": 125,
+    "source_id": 40537,
+    "label": "thestar-my",
+    "homepage": "http://thestar.com.my/",
+    "media_type": "print_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "utusan.com.my",
+    "en_stories": 58,
+    "source_id": 123858,
+    "label": "utusan.com.my",
+    "homepage": "http://utusan.com.my/",
+    "media_type": "print_native",
+    "pub_country": "MYS",
+    "primary_language": "ms"
+   },
+   {
+    "domain": "theedgemarkets.com",
+    "en_stories": 24,
+    "source_id": 60382,
+    "label": "The Edge Markets",
+    "homepage": "http://www.theedgemarkets.com/",
+    "media_type": "print_native",
+    "pub_country": "MYS",
+    "primary_language": null
+   },
+   {
+    "domain": "dailyexpress.com.my",
+    "en_stories": 2,
+    "source_id": 244552,
+    "label": "dailyexpress.com.my",
+    "homepage": "http://dailyexpress.com.my/",
+    "media_type": "print_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   },
+   {
+    "domain": "freemalaysiatoday.com",
+    "en_stories": 1,
+    "source_id": 57726,
+    "label": "freemalaysiatoday.com",
+    "homepage": "http://freemalaysiatoday.com/",
+    "media_type": "digital_native",
+    "pub_country": "MYS",
+    "primary_language": "en"
+   }
+  ]
+ },
+ "core_and_wires": {
+  "nytimes.com": {
+   "source_id": 1,
+   "label": "New York Times"
+  },
+  "washingtonpost.com": {
+   "source_id": 2,
+   "label": "washingtonpost.com"
+  },
+  "theguardian.com": {
+   "source_id": 300560,
+   "label": "theguardian.com"
+  },
+  "bbc.com": {
+   "source_id": 932549,
+   "label": "BBC"
+  },
+  "bbc.co.uk": {
+   "source_id": null,
+   "label": null
+  },
+  "apnews.com": {
+   "source_id": 106145,
+   "label": "apnews.com"
+  },
+  "reuters.com": {
+   "source_id": 1089,
+   "label": "Reuters"
+  },
+  "afp.com": {
+   "source_id": 39756,
+   "label": "afp"
+  }
+ }
+}

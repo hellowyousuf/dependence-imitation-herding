@@ -1,0 +1,237 @@
+{
+ "complete": true,
+ "finished": "2026-10-01T22:11:45+00:00",
+ "client": "mediacloud 5.1.0",
+ "api_version": {
+  "GIT_REV": "27b50e08825c9ec661b39f26f37668b260446e8e",
+  "now": 1790892730.964201,
+  "version": "3.1.15"
+ },
+ "period": [
+  "2022-02-24",
+  "2024-12-31"
+ ],
+ "language": "language:en",
+ "issues": {
+  "ukraine": "(Ukraine OR Ukrainian OR Kyiv OR Kiev OR Zelensky OR (Russia AND invasion))",
+  "gaza": "(Gaza OR Hamas OR (Israel AND (war OR strike OR ceasefire OR hostages)))",
+  "cop": "(COP27 OR COP28 OR (climate AND (summit OR conference) AND (Sharm OR Dubai OR UNFCCC)))"
+ },
+ "deep_sources": [
+  {
+   "group": "Bangladesh",
+   "domain": "taranganews.com",
+   "source_id": 361096
+  },
+  {
+   "group": "Bangladesh",
+   "domain": "observerbd.com",
+   "source_id": 373872
+  },
+  {
+   "group": "Bangladesh",
+   "domain": "weeklyblitz.net",
+   "source_id": 41608
+  },
+  {
+   "group": "Bangladesh",
+   "domain": "bdnews24.com",
+   "source_id": 38832
+  },
+  {
+   "group": "Bangladesh",
+   "domain": "app.com.pk",
+   "source_id": 58818
+  },
+  {
+   "group": "Bangladesh",
+   "domain": "jagonews24.com",
+   "source_id": 560693
+  },
+  {
+   "group": "Kenya",
+   "domain": "the-star.co.ke",
+   "source_id": 106916
+  },
+  {
+   "group": "Kenya",
+   "domain": "nation.africa",
+   "source_id": 1912643
+  },
+  {
+   "group": "Kenya",
+   "domain": "tuko.co.ke",
+   "source_id": 311461
+  },
+  {
+   "group": "Kenya",
+   "domain": "standardmedia.co.ke",
+   "source_id": 40852
+  },
+  {
+   "group": "Kenya",
+   "domain": "kenyan-post.com",
+   "source_id": 106874
+  },
+  {
+   "group": "Kenya",
+   "domain": "mpasho.co.ke",
+   "source_id": 299830
+  },
+  {
+   "group": "Nigeria",
+   "domain": "punchng.com",
+   "source_id": 18023
+  },
+  {
+   "group": "Nigeria",
+   "domain": "dailypost.ng",
+   "source_id": 130930
+  },
+  {
+   "group": "Nigeria",
+   "domain": "tribuneonlineng.com",
+   "source_id": 339427
+  },
+  {
+   "group": "Nigeria",
+   "domain": "guardian.ng",
+   "source_id": 279665
+  },
+  {
+   "group": "Nigeria",
+   "domain": "legit.ng",
+   "source_id": 930990
+  },
+  {
+   "group": "Nigeria",
+   "domain": "vanguardngr.com",
+   "source_id": 18029
+  },
+  {
+   "group": "India",
+   "domain": "indiatimes.com",
+   "source_id": 115065
+  },
+  {
+   "group": "India",
+   "domain": "hindustantimes.com",
+   "source_id": 20258
+  },
+  {
+   "group": "India",
+   "domain": "thehindu.com",
+   "source_id": 22331
+  },
+  {
+   "group": "India",
+   "domain": "news18.com",
+   "source_id": 189910
+  },
+  {
+   "group": "India",
+   "domain": "newindianexpress.com",
+   "source_id": 973649
+  },
+  {
+   "group": "India",
+   "domain": "indianexpress.com",
+   "source_id": 56899
+  },
+  {
+   "group": "South Africa",
+   "domain": "iol.co.za",
+   "source_id": 27054
+  },
+  {
+   "group": "South Africa",
+   "domain": "citizen.co.za",
+   "source_id": 108262
+  },
+  {
+   "group": "South Africa",
+   "domain": "timeslive.co.za",
+   "source_id": 27029
+  },
+  {
+   "group": "South Africa",
+   "domain": "thesouthafrican.com",
+   "source_id": 310665
+  },
+  {
+   "group": "South Africa",
+   "domain": "southafricatoday.net",
+   "source_id": 144678
+  },
+  {
+   "group": "South Africa",
+   "domain": "sowetanlive.co.za",
+   "source_id": 86467
+  },
+  {
+   "group": "Malaysia",
+   "domain": "malaymail.com",
+   "source_id": 762165
+  },
+  {
+   "group": "Malaysia",
+   "domain": "bernama.com",
+   "source_id": 56440
+  },
+  {
+   "group": "Malaysia",
+   "domain": "nst.com.my",
+   "source_id": 39395
+  },
+  {
+   "group": "Malaysia",
+   "domain": "newsarawaktribune.com.my",
+   "source_id": 1279131
+  },
+  {
+   "group": "Malaysia",
+   "domain": "theborneopost.com",
+   "source_id": 110341
+  },
+  {
+   "group": "Malaysia",
+   "domain": "malaysiakini.com",
+   "source_id": 39058
+  },
+  {
+   "group": "core",
+   "domain": "nytimes.com",
+   "source_id": 1
+  },
+  {
+   "group": "core",
+   "domain": "washingtonpost.com",
+   "source_id": 2
+  },
+  {
+   "group": "core",
+   "domain": "theguardian.com",
+   "source_id": 300560
+  },
+  {
+   "group": "core",
+   "domain": "bbc.com",
+   "source_id": 932549
+  },
+  {
+   "group": "wire",
+   "domain": "apnews.com",
+   "source_id": 106145
+  },
+  {
+   "group": "wire",
+   "domain": "reuters.com",
+   "source_id": 1089
+  },
+  {
+   "group": "wire",
+   "domain": "afp.com",
+   "source_id": 39756
+  }
+ ]
+}

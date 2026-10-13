@@ -1,0 +1,31 @@
+{
+ "complete": true,
+ "requested": [
+  [
+   "Bangladesh",
+   "thedailystar.net"
+  ],
+  [
+   "Bangladesh",
+   "newagebd.net"
+  ]
+ ],
+ "finished": "2026-10-02T12:38:01+00:00",
+ "sources": [
+  [
+   "Bangladesh",
+   "thedailystar.net",
+   1850688
+  ],
+  [
+   "Bangladesh",
+   "thedailystar.net",
+   57484
+  ],
+  [
+   "Bangladesh",
+   "newagebd.net",
+   148218
+  ]
+ ]
+}
