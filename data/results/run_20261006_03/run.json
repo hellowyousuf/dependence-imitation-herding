@@ -1,0 +1,27 @@
+{
+ "run_id": "run_20261006_03",
+ "plan_revision": 5,
+ "script": "data/analysis/p3_wire_model.py",
+ "inputs": [
+  "data/coded/following_cells.csv",
+  "data/analysis/holm_family.json"
+ ],
+ "sha256s": {
+  "data/coded/following_cells.csv": "49b4c5f1fe5deec669074d4d6ef7dbffeac4943261c0ad11ab9122682396e00d",
+  "data/analysis/holm_family.json": "99b734b35bf78238cbf32be0893c638d349c2ae0c23885b18e02266cd73879a1"
+ },
+ "started": "2026-10-06T16:36:21+00:00",
+ "finished": "2026-10-06T16:36:22+00:00",
+ "environment": "data/analysis/environment.txt",
+ "seed": 20261006,
+ "deviations_applied": [
+  "X1",
+  "X4",
+  "X7",
+  "X11",
+  "X12",
+  "X13"
+ ],
+ "model": null,
+ "notes": "Holm family entries H2_salience, H2_framing, H2_timing recorded; decisions in P4's T6."
+}

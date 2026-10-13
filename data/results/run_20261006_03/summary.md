@@ -1,0 +1,24 @@
+# run_20261006_03 — P3 H2 wire models
+
+- H2 wire reliance (confirmatory, no V9 term, X12) · Wire reliance V4 (0–1) · Salience: b = -0.020, CI [-0.267, 0.227], p = .875, n = 52 — n = 52, var(country) = 0.0143, var(outlet) = 0.0188, residual = 0.0412
+- Tier gap net of wire reliance (first T1 falsifier) · Periphery · Salience: b = 0.108, CI [-0.153, 0.368], p = .418, n = 52 — n = 52, var(country) = 0.0143, var(outlet) = 0.0188, residual = 0.0412
+- First T1 falsifier read-out · Upper CI bound of the net tier gap vs half the H1 estimate · Salience: b = 0.368 vs 0.052, CI —, p = —, n = 52 — not met
+- Exploratory: with the V9 term (X12; outside the Holm family) · Wire reliance V4 · Salience: b = -0.035, CI [-0.272, 0.203], p = .774, n = 52 — n = 52, var(country) = 0.0197, var(outlet) = 0.0155, residual = 0.0412
+- Exploratory: with the V9 term (X12; outside the Holm family) · Correspondent presence V9 · Salience: b = -1.383, CI [-3.589, 0.823], p = .219, n = 52 — n = 52, var(country) = 0.0197, var(outlet) = 0.0155, residual = 0.0412
+- Exploratory: with the V9 term (X12; outside the Holm family) · Periphery · Salience: b = 0.101, CI [-0.179, 0.381], p = .481, n = 52 — n = 52, var(country) = 0.0197, var(outlet) = 0.0155, residual = 0.0412
+- H2 wire reliance (confirmatory, no V9 term, X12) · Wire reliance V4 (0–1) · Framing: b = 0.019, CI [-0.066, 0.104], p = .663, n = 52 — n = 52, var(outlet) = 0.0019, residual = 0.0057
+- Tier gap net of wire reliance (first T1 falsifier) · Periphery · Framing: b = -0.014, CI [-0.074, 0.047], p = .654, n = 52 — n = 52, var(outlet) = 0.0019, residual = 0.0057
+- H2 wire reliance, main fit before dropping the zero-variance component · Wire reliance V4 (0–1) · Framing: b = 0.019, CI [-0.066, 0.104], p = .663, n = 52 — n = 52, var(country) = 0.0000, var(outlet) = 0.0019, residual = 0.0057
+- First T1 falsifier read-out · Upper CI bound of the net tier gap vs half the H1 estimate · Framing: b = 0.047 vs -0.005, CI —, p = —, n = 52 — not met
+- H2 wire reliance (confirmatory, no V9 term, X12) · Wire reliance V4 (0–1) · Framing (without headline-only Post copies, X11): b = 0.025, CI [-0.061, 0.111], p = .571, n = 52 — n = 52, var(outlet) = 0.0019, residual = 0.0058
+- Tier gap net of wire reliance (first T1 falsifier) · Periphery · Framing (without headline-only Post copies, X11): b = -0.010, CI [-0.070, 0.051], p = .758, n = 52 — n = 52, var(outlet) = 0.0019, residual = 0.0058
+- H2 wire reliance, main fit before dropping the zero-variance component · Wire reliance V4 (0–1) · Framing (without headline-only Post copies, X11): b = 0.025, CI [-0.061, 0.111], p = .571, n = 52 — n = 52, var(country) = 0.0000, var(outlet) = 0.0019, residual = 0.0058
+- Exploratory: with the V9 term (X12; outside the Holm family) · Wire reliance V4 · Framing: b = 0.016, CI [-0.068, 0.101], p = .701, n = 52 — n = 52, var(outlet) = 0.0019, residual = 0.0056
+- Exploratory: with the V9 term (X12; outside the Holm family) · Correspondent presence V9 · Framing: b = -0.509, CI [-1.284, 0.266], p = .198, n = 52 — n = 52, var(outlet) = 0.0019, residual = 0.0056
+- Exploratory: with the V9 term (X12; outside the Holm family) · Periphery · Framing: b = -0.017, CI [-0.077, 0.043], p = .588, n = 52 — n = 52, var(outlet) = 0.0019, residual = 0.0056
+- H2 wire reliance (confirmatory, no V9 term, X12) · Wire reliance V4 (0–1) · Timing: b = 0.175, CI [0.084, 0.267], p = < .001, n = 37 — n = 37, var(country) = 0.0014, var(outlet) = 0.0018, residual = 0.0051
+- Tier gap net of wire reliance (first T1 falsifier) · Periphery · Timing: b = -0.053, CI [-0.141, 0.034], p = .232, n = 37 — n = 37, var(country) = 0.0014, var(outlet) = 0.0018, residual = 0.0051
+- First T1 falsifier read-out · Upper CI bound of the net tier gap vs half the H1 estimate · Timing: b = 0.034 vs -0.013, CI —, p = —, n = 37 — not met
+- Exploratory: with the V9 term (X12; outside the Holm family) · Wire reliance V4 · Timing: b = 0.174, CI [0.081, 0.268], p = < .001, n = 37 — n = 37, var(country) = 0.0013, var(outlet) = 0.0019, residual = 0.0051
+- Exploratory: with the V9 term (X12; outside the Holm family) · Correspondent presence V9 · Timing: b = -0.312, CI [-1.262, 0.638], p = .520, n = 37 — n = 37, var(country) = 0.0013, var(outlet) = 0.0019, residual = 0.0051
+- Exploratory: with the V9 term (X12; outside the Holm family) · Periphery · Timing: b = -0.053, CI [-0.140, 0.034], p = .231, n = 37 — n = 37, var(country) = 0.0013, var(outlet) = 0.0019, residual = 0.0051

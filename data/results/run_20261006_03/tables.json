@@ -1,0 +1,324 @@
+{
+ "schema": "rihlah-results/2.0",
+ "run_id": "run_20261006_03",
+ "plan_revision": 5,
+ "generated": "2026-10-06T16:36:22+00:00",
+ "tables": [
+  {
+   "label": "T5",
+   "title": "Mixed Models of Following on Wire Reliance (H2) and the First Falsifier of the Structural Account",
+   "answers": [
+    "H2"
+   ],
+   "columns": [
+    "Model",
+    "Predictor",
+    "Level",
+    "b",
+    "95% CI",
+    "p (unadjusted)",
+    "Cells (n)",
+    "Random effects / read-out"
+   ],
+   "rows": [
+    [
+     "H2 wire reliance (confirmatory, no V9 term, X12)",
+     "Wire reliance V4 (0–1)",
+     "Salience",
+     "-0.020",
+     "[-0.267, 0.227]",
+     ".875",
+     "52",
+     "n = 52, var(country) = 0.0143, var(outlet) = 0.0188, residual = 0.0412"
+    ],
+    [
+     "Tier gap net of wire reliance (first T1 falsifier)",
+     "Periphery",
+     "Salience",
+     "0.108",
+     "[-0.153, 0.368]",
+     ".418",
+     "52",
+     "n = 52, var(country) = 0.0143, var(outlet) = 0.0188, residual = 0.0412"
+    ],
+    [
+     "First T1 falsifier read-out",
+     "Upper CI bound of the net tier gap vs half the H1 estimate",
+     "Salience",
+     "0.368 vs 0.052",
+     "—",
+     "—",
+     "52",
+     "not met"
+    ],
+    [
+     "Exploratory: with the V9 term (X12; outside the Holm family)",
+     "Wire reliance V4",
+     "Salience",
+     "-0.035",
+     "[-0.272, 0.203]",
+     ".774",
+     "52",
+     "n = 52, var(country) = 0.0197, var(outlet) = 0.0155, residual = 0.0412"
+    ],
+    [
+     "Exploratory: with the V9 term (X12; outside the Holm family)",
+     "Correspondent presence V9",
+     "Salience",
+     "-1.383",
+     "[-3.589, 0.823]",
+     ".219",
+     "52",
+     "n = 52, var(country) = 0.0197, var(outlet) = 0.0155, residual = 0.0412"
+    ],
+    [
+     "Exploratory: with the V9 term (X12; outside the Holm family)",
+     "Periphery",
+     "Salience",
+     "0.101",
+     "[-0.179, 0.381]",
+     ".481",
+     "52",
+     "n = 52, var(country) = 0.0197, var(outlet) = 0.0155, residual = 0.0412"
+    ],
+    [
+     "H2 wire reliance (confirmatory, no V9 term, X12)",
+     "Wire reliance V4 (0–1)",
+     "Framing",
+     "0.019",
+     "[-0.066, 0.104]",
+     ".663",
+     "52",
+     "n = 52, var(outlet) = 0.0019, residual = 0.0057"
+    ],
+    [
+     "Tier gap net of wire reliance (first T1 falsifier)",
+     "Periphery",
+     "Framing",
+     "-0.014",
+     "[-0.074, 0.047]",
+     ".654",
+     "52",
+     "n = 52, var(outlet) = 0.0019, residual = 0.0057"
+    ],
+    [
+     "H2 wire reliance, main fit before dropping the zero-variance component",
+     "Wire reliance V4 (0–1)",
+     "Framing",
+     "0.019",
+     "[-0.066, 0.104]",
+     ".663",
+     "52",
+     "n = 52, var(country) = 0.0000, var(outlet) = 0.0019, residual = 0.0057"
+    ],
+    [
+     "First T1 falsifier read-out",
+     "Upper CI bound of the net tier gap vs half the H1 estimate",
+     "Framing",
+     "0.047 vs -0.005",
+     "—",
+     "—",
+     "52",
+     "not met"
+    ],
+    [
+     "H2 wire reliance (confirmatory, no V9 term, X12)",
+     "Wire reliance V4 (0–1)",
+     "Framing (without headline-only Post copies, X11)",
+     "0.025",
+     "[-0.061, 0.111]",
+     ".571",
+     "52",
+     "n = 52, var(outlet) = 0.0019, residual = 0.0058"
+    ],
+    [
+     "Tier gap net of wire reliance (first T1 falsifier)",
+     "Periphery",
+     "Framing (without headline-only Post copies, X11)",
+     "-0.010",
+     "[-0.070, 0.051]",
+     ".758",
+     "52",
+     "n = 52, var(outlet) = 0.0019, residual = 0.0058"
+    ],
+    [
+     "H2 wire reliance, main fit before dropping the zero-variance component",
+     "Wire reliance V4 (0–1)",
+     "Framing (without headline-only Post copies, X11)",
+     "0.025",
+     "[-0.061, 0.111]",
+     ".571",
+     "52",
+     "n = 52, var(country) = 0.0000, var(outlet) = 0.0019, residual = 0.0058"
+    ],
+    [
+     "Exploratory: with the V9 term (X12; outside the Holm family)",
+     "Wire reliance V4",
+     "Framing",
+     "0.016",
+     "[-0.068, 0.101]",
+     ".701",
+     "52",
+     "n = 52, var(outlet) = 0.0019, residual = 0.0056"
+    ],
+    [
+     "Exploratory: with the V9 term (X12; outside the Holm family)",
+     "Correspondent presence V9",
+     "Framing",
+     "-0.509",
+     "[-1.284, 0.266]",
+     ".198",
+     "52",
+     "n = 52, var(outlet) = 0.0019, residual = 0.0056"
+    ],
+    [
+     "Exploratory: with the V9 term (X12; outside the Holm family)",
+     "Periphery",
+     "Framing",
+     "-0.017",
+     "[-0.077, 0.043]",
+     ".588",
+     "52",
+     "n = 52, var(outlet) = 0.0019, residual = 0.0056"
+    ],
+    [
+     "H2 wire reliance (confirmatory, no V9 term, X12)",
+     "Wire reliance V4 (0–1)",
+     "Timing",
+     "0.175",
+     "[0.084, 0.267]",
+     "< .001",
+     "37",
+     "n = 37, var(country) = 0.0014, var(outlet) = 0.0018, residual = 0.0051"
+    ],
+    [
+     "Tier gap net of wire reliance (first T1 falsifier)",
+     "Periphery",
+     "Timing",
+     "-0.053",
+     "[-0.141, 0.034]",
+     ".232",
+     "37",
+     "n = 37, var(country) = 0.0014, var(outlet) = 0.0018, residual = 0.0051"
+    ],
+    [
+     "First T1 falsifier read-out",
+     "Upper CI bound of the net tier gap vs half the H1 estimate",
+     "Timing",
+     "0.034 vs -0.013",
+     "—",
+     "—",
+     "37",
+     "not met"
+    ],
+    [
+     "Exploratory: with the V9 term (X12; outside the Holm family)",
+     "Wire reliance V4",
+     "Timing",
+     "0.174",
+     "[0.081, 0.268]",
+     "< .001",
+     "37",
+     "n = 37, var(country) = 0.0013, var(outlet) = 0.0019, residual = 0.0051"
+    ],
+    [
+     "Exploratory: with the V9 term (X12; outside the Holm family)",
+     "Correspondent presence V9",
+     "Timing",
+     "-0.312",
+     "[-1.262, 0.638]",
+     ".520",
+     "37",
+     "n = 37, var(country) = 0.0013, var(outlet) = 0.0019, residual = 0.0051"
+    ],
+    [
+     "Exploratory: with the V9 term (X12; outside the Holm family)",
+     "Periphery",
+     "Timing",
+     "-0.053",
+     "[-0.140, 0.034]",
+     ".231",
+     "37",
+     "n = 37, var(country) = 0.0013, var(outlet) = 0.0019, residual = 0.0051"
+    ]
+   ],
+   "note": "Same cells, levels and random structure as Table T3. Wire reliance is the share of a cell's coded foreign stories that credit AP, AFP or Reuters (credits only; no text-reuse rule, X4), so b is the change in following from a cell with no wire credits to one with wire credits on every foreign story. The confirmatory model carries no correspondent-presence term because V9 fell below the stability floor (X12); the first falsifier therefore reads the tier gap net of wire reliance alone, with correspondent presence inside the remainder. The falsifier read-out compares the upper bound of the net tier gap's 95% CI with half the H1 estimate from Table T3: the non-wire channels lose support when the bound lies below it and the H1 estimate is positive. The exploratory model adds V9 and stands outside the Holm family. Holm-adjusted decisions are in Table T6.",
+   "stats": [
+    {
+     "name": "H2_salience_wire_reliance",
+     "value": "b = -0.020, 95% CI [-0.267, 0.227], z = -0.16, n = 52 cells",
+     "p": ".875",
+     "effect": null
+    },
+    {
+     "name": "falsifier1_salience",
+     "value": "tier gap net of wire reliance b = 0.108, 95% CI [-0.153, 0.368]; H1 estimate 0.103, half = 0.052; upper bound below half: no",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "exploratory_V9_salience",
+     "value": "V9 b = -1.383, 95% CI [-3.589, 0.823]; V4 b = -0.035, 95% CI [-0.272, 0.203]; n = 52 cells",
+     "p": ".219",
+     "effect": null
+    },
+    {
+     "name": "H2_framing_wire_reliance",
+     "value": "b = 0.019, 95% CI [-0.066, 0.104], z = 0.44, n = 52 cells",
+     "p": ".663",
+     "effect": null
+    },
+    {
+     "name": "falsifier1_framing",
+     "value": "tier gap net of wire reliance b = -0.014, 95% CI [-0.074, 0.047]; H1 estimate -0.010, half = -0.005; upper bound below half: no",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "H2_framing_wire_reliance_x11",
+     "value": "b = 0.025, 95% CI [-0.061, 0.111], n = 52 cells",
+     "p": ".571",
+     "effect": null
+    },
+    {
+     "name": "exploratory_V9_framing",
+     "value": "V9 b = -0.509, 95% CI [-1.284, 0.266]; V4 b = 0.016, 95% CI [-0.068, 0.101]; n = 52 cells",
+     "p": ".198",
+     "effect": null
+    },
+    {
+     "name": "H2_timing_wire_reliance",
+     "value": "b = 0.175, 95% CI [0.084, 0.267], z = 3.75, n = 37 cells",
+     "p": "< .001",
+     "effect": null
+    },
+    {
+     "name": "falsifier1_timing",
+     "value": "tier gap net of wire reliance b = -0.053, 95% CI [-0.141, 0.034]; H1 estimate -0.026, half = -0.013; upper bound below half: no",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "exploratory_V9_timing",
+     "value": "V9 b = -0.312, 95% CI [-1.262, 0.638]; V4 b = 0.174, 95% CI [0.081, 0.268]; n = 37 cells",
+     "p": ".520",
+     "effect": null
+    },
+    {
+     "name": "V4_tier_cell_means",
+     "value": "periphery: M = 0.56, SD = 0.37, n = 26; semi-periphery: M = 0.34, SD = 0.32, n = 26",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "V9_tier_cell_means",
+     "value": "periphery: M = 0.004, cells with any staff foreign byline = 1 of 26; semi-periphery: M = 0.011, cells with any staff foreign byline = 2 of 26",
+     "p": null,
+     "effect": null
+    }
+   ]
+  }
+ ],
+ "figures": [],
+ "descriptives": []
+}
