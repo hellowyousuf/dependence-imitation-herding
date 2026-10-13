@@ -1,0 +1,724 @@
+{
+ "schema": "rihlah-results/2.0",
+ "run_id": "run_20261006_01",
+ "plan_revision": 5,
+ "generated": "2026-10-06T16:36:19+00:00",
+ "tables": [
+  {
+   "label": "T1",
+   "title": "Validation of the Coding Under the Model-Stability Protocol",
+   "answers": [
+    "RQ1"
+   ],
+   "columns": [
+    "Variable",
+    "Coded by",
+    "Model stability α (3 passes, n = 300)",
+    "Prompt-variant α",
+    "Rule-vs-model α (n)",
+    "Meets .80 floor"
+   ],
+   "rows": [
+    [
+     "V2/V7 frame",
+     "model",
+     ".849",
+     ".799",
+     "—",
+     "yes"
+    ],
+    [
+     "Foreign story (C4)",
+     "rule, else model",
+     ".956",
+     ".406",
+     "1.000 (1,091)",
+     "yes, after one revision"
+    ],
+    [
+     "V4 wire credit",
+     "rule",
+     ".995",
+     "1.000",
+     ".996 (3,072)",
+     "yes"
+    ],
+    [
+     "V11 national-agency credit",
+     "rule",
+     "1.000",
+     "1.000",
+     ".991 (3,121)",
+     "yes"
+    ],
+    [
+     "V9 staff foreign byline",
+     "rule, else model",
+     ".749",
+     ".666",
+     ".944 (1,162)",
+     "no — exploratory (X12)"
+    ],
+    [
+     "Agent frame labels vs coder (300 written-out proposals)",
+     "agents / model",
+     "pending (P5)",
+     "—",
+     "—",
+     "pending (P5)"
+    ]
+   ],
+   "note": "No human coder took part (deviation X10). Model stability is Krippendorff's α (nominal) across three fresh-context passes of the model coder (claude-opus-5-5, prompt version 2) on a random reliability sample of 300 articles stratified by tier; all three passes agreed on 248 of 300 frames. Prompt-variant α compares pass 1 with a reworded prompt. The full coding pass agreed with pass 1 of the reliability sample at α = — (n = 300). Rule-vs-model α is the agreement between the fixed credit and dateline rules and the model coder on every story the rules decide (n in parentheses, of 3,121). The foreign-story wording was revised once under the plan's if_below rule (first wording α = .782). Wire credit excludes the 49 Washington Post syndicated copies coded 1 by URL rule (X11) from the rule-vs-model count.",
+   "stats": [
+    {
+     "name": "frame_stability_alpha",
+     "value": "α = .849 (3 passes, n = 300)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "wire_rule_model_alpha",
+     "value": "α = .996 (n = 3,072)",
+     "p": null,
+     "effect": null
+    }
+   ]
+  },
+  {
+   "label": "T2",
+   "title": "Following at Three Levels by Tier and Issue",
+   "answers": [
+    "RQ1"
+   ],
+   "columns": [
+    "Tier",
+    "Issue",
+    "Cells (n, after the 20-story floor)",
+    "Coded articles (n)",
+    "Salience r (M, SD)",
+    "Framing similarity (M, SD)",
+    "Timing V3a (Mdn days)",
+    "Timing V3b (Mdn weeks)"
+   ],
+   "rows": [
+    [
+     "Periphery",
+     "Ukraine",
+     "9",
+     "433",
+     "0.33 (0.19)",
+     "-0.12 (0.09)",
+     "-0.12 (events 9,167)",
+     "0"
+    ],
+    [
+     "Periphery",
+     "Gaza",
+     "9",
+     "449",
+     "0.19 (0.23)",
+     "-0.10 (0.11)",
+     "-0.04 (events 10,814)",
+     "0"
+    ],
+    [
+     "Periphery",
+     "COP27/COP28",
+     "8",
+     "364",
+     "0.64 (0.29)",
+     "-0.09 (0.09)",
+     "0.04 (events 131)",
+     "0"
+    ],
+    [
+     "Periphery",
+     "All issues",
+     "26",
+     "1246",
+     "0.38 (0.29)",
+     "-0.10 (0.09)",
+     "-0.07 (events 20,112)",
+     "0"
+    ],
+    [
+     "Semi-periphery",
+     "Ukraine",
+     "9",
+     "448",
+     "0.28 (0.27)",
+     "-0.08 (0.06)",
+     "-0.04 (events 11,530)",
+     "0"
+    ],
+    [
+     "Semi-periphery",
+     "Gaza",
+     "9",
+     "450",
+     "0.11 (0.30)",
+     "-0.11 (0.07)",
+     "-0.03 (events 14,288)",
+     "0"
+    ],
+    [
+     "Semi-periphery",
+     "COP27/COP28",
+     "8",
+     "385",
+     "0.46 (0.30)",
+     "-0.09 (0.09)",
+     "0.00 (events 159)",
+     "0"
+    ],
+    [
+     "Semi-periphery",
+     "All issues",
+     "26",
+     "1283",
+     "0.27 (0.31)",
+     "-0.09 (0.07)",
+     "-0.03 (events 25,977)",
+     "0"
+    ]
+   ],
+   "note": "Salience r is the Pearson correlation between the event-adjusted residuals of an outlet's weekly issue share and the core set's over the weeks both hold at least 5 stories (149 weeks, February 24, 2022, to December 31, 2024). The core set is the weekly mean of The New York Times, The Washington Post, The Guardian and BBC News over the core outlets present that week; The Washington Post is absent after March 4, 2024 (X7). Framing similarity is 1 minus the Jensen–Shannon distance between the cell's frame distribution and the pooled core sample's, minus its expected value over 1,000 random splits of the pooled articles at the observed sizes, so that 0 means indistinguishable from the core and negative values mean farther than sampling alone would give. Timing V3a is the negative median lag in days from the first core mention of a GDELT event to the outlet's first mention; lags above 14 days are censored; V3b is the negative lag in weeks of the peak cross-correlation of weekly shares (−4 to 4). Dropped cells (fewer than 20 stories): Malaysiakini COP27/COP28, New Age COP27/COP28. Cells with 20–49 stories were coded whole: bdnews24.com COP (33), New Sarawak Tribune COP (36), Tuko COP (33). V3a is reported only for cells with at least 10 matched events (37 of 52 kept cells); New Sarawak Tribune has no GDELT event mentions, so its three cells have no V3a value. Tiers by Gunaratne's index on World Bank 2022 data (X1): periphery = Bangladesh, Kenya, South Africa; semi-periphery = India, Malaysia, Nigeria.",
+   "stats": [
+    {
+     "name": "periphery_salience_mean",
+     "value": "M = 0.38, SD = 0.29, n = 26 cells",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "periphery_framing_mean",
+     "value": "M = -0.10, SD = 0.09, n = 26 cells",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "periphery_timing_median",
+     "value": "Mdn = -0.07 days, n = 18 cells",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "semi-periphery_salience_mean",
+     "value": "M = 0.27, SD = 0.31, n = 26 cells",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "semi-periphery_framing_mean",
+     "value": "M = -0.09, SD = 0.07, n = 26 cells",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "semi-periphery_timing_median",
+     "value": "Mdn = -0.03 days, n = 19 cells",
+     "p": null,
+     "effect": null
+    }
+   ]
+  },
+  {
+   "label": "T8",
+   "title": "Foreign Stories, Wire Reliance, Correspondent Presence and National-Agency Credits by Outlet",
+   "answers": [
+    "RQ1"
+   ],
+   "columns": [
+    "Outlet",
+    "Country",
+    "Tier",
+    "Index score",
+    "Coded stories",
+    "Foreign stories",
+    "Foreign share",
+    "Wire reliance V4",
+    "Staff foreign byline V9 (exploratory)",
+    "National-agency credit V11"
+   ],
+   "rows": [
+    [
+     "The Daily Star",
+     "Bangladesh",
+     "periphery",
+     "0.34",
+     "150",
+     "140",
+     "0.93",
+     "0.82",
+     "0.00",
+     "0.01"
+    ],
+    [
+     "bdnews24.com",
+     "Bangladesh",
+     "periphery",
+     "0.34",
+     "121",
+     "120",
+     "0.99",
+     "0.56",
+     "0.00",
+     "0.00"
+    ],
+    [
+     "New Age",
+     "Bangladesh",
+     "periphery",
+     "0.34",
+     "100",
+     "97",
+     "0.97",
+     "0.00",
+     "0.00",
+     "0.00"
+    ],
+    [
+     "The Star (Kenya)",
+     "Kenya",
+     "periphery",
+     "0.09",
+     "150",
+     "114",
+     "0.76",
+     "0.00",
+     "0.00",
+     "0.00"
+    ],
+    [
+     "Daily Nation",
+     "Kenya",
+     "periphery",
+     "0.09",
+     "143",
+     "100",
+     "0.70",
+     "0.63",
+     "0.00",
+     "0.00"
+    ],
+    [
+     "Tuko",
+     "Kenya",
+     "periphery",
+     "0.09",
+     "133",
+     "125",
+     "0.94",
+     "0.90",
+     "0.00",
+     "0.00"
+    ],
+    [
+     "IOL",
+     "South Africa",
+     "periphery",
+     "0.41",
+     "150",
+     "88",
+     "0.59",
+     "0.22",
+     "0.03",
+     "0.08"
+    ],
+    [
+     "The Citizen",
+     "South Africa",
+     "periphery",
+     "0.41",
+     "149",
+     "103",
+     "0.69",
+     "0.84",
+     "0.00",
+     "0.00"
+    ],
+    [
+     "TimesLIVE",
+     "South Africa",
+     "periphery",
+     "0.41",
+     "150",
+     "130",
+     "0.87",
+     "0.86",
+     "0.00",
+     "0.00"
+    ],
+    [
+     "Punch",
+     "Nigeria",
+     "semi-periphery",
+     "0.44",
+     "150",
+     "98",
+     "0.65",
+     "0.60",
+     "0.00",
+     "0.03"
+    ],
+    [
+     "Daily Post",
+     "Nigeria",
+     "semi-periphery",
+     "0.44",
+     "150",
+     "94",
+     "0.63",
+     "0.00",
+     "0.00",
+     "0.01"
+    ],
+    [
+     "Nigerian Tribune",
+     "Nigeria",
+     "semi-periphery",
+     "0.44",
+     "150",
+     "49",
+     "0.33",
+     "0.00",
+     "0.00",
+     "0.00"
+    ],
+    [
+     "Times of India",
+     "India",
+     "semi-periphery",
+     "2.83",
+     "150",
+     "99",
+     "0.66",
+     "0.55",
+     "0.04",
+     "0.08"
+    ],
+    [
+     "Hindustan Times",
+     "India",
+     "semi-periphery",
+     "2.83",
+     "149",
+     "124",
+     "0.83",
+     "0.20",
+     "0.00",
+     "0.04"
+    ],
+    [
+     "The Hindu",
+     "India",
+     "semi-periphery",
+     "2.83",
+     "150",
+     "103",
+     "0.69",
+     "0.35",
+     "0.00",
+     "0.08"
+    ],
+    [
+     "Malay Mail",
+     "Malaysia",
+     "semi-periphery",
+     "0.66",
+     "150",
+     "139",
+     "0.93",
+     "0.94",
+     "0.00",
+     "0.03"
+    ],
+    [
+     "New Sarawak Tribune",
+     "Malaysia",
+     "semi-periphery",
+     "0.66",
+     "134",
+     "78",
+     "0.58",
+     "0.28",
+     "0.03",
+     "0.58"
+    ],
+    [
+     "Malaysiakini",
+     "Malaysia",
+     "semi-periphery",
+     "0.66",
+     "100",
+     "39",
+     "0.39",
+     "0.08",
+     "0.00",
+     "0.54"
+    ],
+    [
+     "The New York Times",
+     "Core",
+     "—",
+     "—",
+     "144",
+     "99",
+     "0.69",
+     "0.00",
+     "0.10",
+     "0.00"
+    ],
+    [
+     "The Washington Post",
+     "Core",
+     "—",
+     "—",
+     "150",
+     "101",
+     "0.67",
+     "0.52",
+     "0.19",
+     "0.00"
+    ],
+    [
+     "The Guardian",
+     "Core",
+     "—",
+     "—",
+     "150",
+     "108",
+     "0.72",
+     "0.06",
+     "0.26",
+     "0.00"
+    ],
+    [
+     "BBC News",
+     "Core",
+     "—",
+     "—",
+     "148",
+     "107",
+     "0.72",
+     "0.00",
+     "0.01",
+     "0.00"
+    ]
+   ],
+   "note": "Shares are over the outlet's coded foreign stories across its kept issue cells. V4 counts credits to AP, AFP or Reuters in the byline, dateline or end note; no text-reuse rule was applied because no agency full texts were available (X4). The 49 Washington Post syndicated copies count as wire copy by URL rule (X11). V9 is exploratory (X12): its model self-consistency was .749. The index score is Gunaratne's (2001) weighted share of world GNP (55%) and world exports (45%) on 2022 World Bank data, in percent-share units (X1).",
+   "stats": [
+    {
+     "name": "periphery_wire_reliance",
+     "value": "V4 = 0.57 (foreign stories n = 1,017 of 1,246 coded)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "periphery_staff_foreign_byline",
+     "value": "V9 = 0.00 (n = 1,017; exploratory)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "periphery_national_agency",
+     "value": "V11 = 0.01 (n = 1,017)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "semi-periphery_wire_reliance",
+     "value": "V4 = 0.40 (foreign stories n = 823 of 1,283 coded)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "semi-periphery_staff_foreign_byline",
+     "value": "V9 = 0.01 (n = 823; exploratory)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "semi-periphery_national_agency",
+     "value": "V11 = 0.12 (n = 823)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "core_wire_reliance",
+     "value": "V4 = 0.14 (foreign stories n = 415 of 592 coded)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "core_staff_foreign_byline",
+     "value": "V9 = 0.14 (n = 415; exploratory)",
+     "p": null,
+     "effect": null
+    },
+    {
+     "name": "core_national_agency",
+     "value": "V11 = 0.00 (n = 415)",
+     "p": null,
+     "effect": null
+    }
+   ]
+  },
+  {
+   "label": "T9",
+   "title": "Checks on the Following Measures by Tier",
+   "answers": [
+    "RQ1"
+   ],
+   "columns": [
+    "Measure and check",
+    "Periphery M (SD)",
+    "Semi-periphery M (SD)"
+   ],
+   "rows": [
+    [
+     "Salience r, whole period (main)",
+     "0.38 (0.29)",
+     "0.27 (0.31)"
+    ],
+    [
+     "Salience r, first validation half",
+     "0.41 (0.34)",
+     "0.44 (0.31)"
+    ],
+    [
+     "Salience r, second validation half",
+     "0.22 (0.25)",
+     "0.23 (0.33)"
+    ],
+    [
+     "Salience r, core of three (without The Washington Post, X7 check)",
+     "0.39 (0.30)",
+     "0.29 (0.31)"
+    ],
+    [
+     "Salience r, mismatched-issue core series (benchmark)",
+     "-0.13 (0.13)",
+     "-0.15 (0.15)"
+    ],
+    [
+     "Framing similarity, whole period (main)",
+     "-0.10 (0.09)",
+     "-0.09 (0.07)"
+    ],
+    [
+     "Framing similarity, first half",
+     "-0.08 (0.10)",
+     "-0.08 (0.10)"
+    ],
+    [
+     "Framing similarity, second half",
+     "-0.10 (0.11)",
+     "-0.08 (0.09)"
+    ],
+    [
+     "Framing similarity without the 49 headline-only Post copies (X11)",
+     "-0.11 (0.09)",
+     "-0.10 (0.07)"
+    ],
+    [
+     "Framing similarity against wire-credited core stories removed (A22 check)",
+     "-0.11 (0.09)",
+     "-0.10 (0.08)"
+    ],
+    [
+     "Framing similarity, non-wire stories only (both samples)",
+     "-0.09 (0.10)",
+     "-0.11 (0.09)"
+    ],
+    [
+     "Framing similarity, mismatched-issue core sample (benchmark)",
+     "-0.16 (0.09)",
+     "-0.14 (0.07)"
+    ],
+    [
+     "Timing V3a (Mdn days), whole period (main)",
+     "-0.06 (0.13)",
+     "-0.03 (0.08)"
+    ],
+    [
+     "Timing V3a, first half",
+     "-0.08 (0.11)",
+     "-0.05 (0.09)"
+    ],
+    [
+     "Timing V3a, second half",
+     "-0.06 (0.15)",
+     "-0.01 (0.11)"
+    ],
+    [
+     "Timing V3a, core first mentions permuted across events (benchmark)",
+     "0.30 (4.68)",
+     "-0.07 (2.16)"
+    ],
+    [
+     "Timing V3b (weeks), whole period",
+     "0.04 (1.08)",
+     "-0.15 (0.88)"
+    ],
+    [
+     "Timing V3b, mismatched-issue core series (benchmark)",
+     "-1.04 (3.10)",
+     "1.08 (3.10)"
+    ],
+    [
+     "Own-country share of issue-story titles V10",
+     "0.06 (0.04)",
+     "0.12 (0.08)"
+    ]
+   ],
+   "note": "Means over kept outlet × issue cells (periphery 26, semi-periphery 26). Halves: the climate issue splits at June 8, 2023 (COP27 period first, COP28 second); Ukraine at August 13, 2023; Gaza at May 19, 2024 within the war's period from October 7, 2023. The mismatched-issue benchmark pairs each cell with the core series or core sample of a different issue (Ukraine with Gaza, Gaza with COP, COP with Ukraine). The timing benchmark shuffles the core first-mention times across the issue's events (fixed seed). The check with wire-credited core stories removed applies to framing only: census story records carry no credit codes, so salience and timing cannot be recomputed on a wire-free core. V10 is computed on story titles, since the census holds no article text.",
+   "stats": []
+  }
+ ],
+ "figures": [
+  {
+   "label": "F1",
+   "title": "Weekly Issue Shares, Core and Peripheral Outlets",
+   "file": "figures/f1.svg",
+   "note": "Weekly share of each outlet's stories on the issue, averaged over the outlets of a tier (kept cells) and over the core outlets present that week; weeks with fewer than 5 stories excluded."
+  }
+ ],
+ "descriptives": [
+  {
+   "name": "coded_stories",
+   "value": 3121,
+   "unit": "stories"
+  },
+  {
+   "name": "coded_peripheral",
+   "value": 2529,
+   "unit": "stories"
+  },
+  {
+   "name": "coded_core",
+   "value": 592,
+   "unit": "stories"
+  },
+  {
+   "name": "kept_cells_peripheral",
+   "value": 52,
+   "unit": "cells"
+  },
+  {
+   "name": "dropped_cells",
+   "value": 2,
+   "unit": "cells"
+  },
+  {
+   "name": "weeks",
+   "value": 149,
+   "unit": "weeks"
+  },
+  {
+   "name": "events_peripheral",
+   "value": 46089,
+   "unit": "outlet-events"
+  }
+ ]
+}
