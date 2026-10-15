@@ -1,6 +1,6 @@
 # Structural Dependence, Imitation or Herding? Code and data
 
-Code, data and simulation records for the paper *Structural Dependence, Imitation or Herding? A Multi-Agent Simulation of Global Intermedia Agenda Setting* by Mohammad Yousuf and Arif Md Tareque Habib (University of New Mexico). Preprint: arXiv:[ARXIV ID]. Archive: Zenodo, DOI [10.5281/zenodo.23330238](https://doi.org/10.5281/zenodo.23330238) (all versions).
+Code, data and simulation records for the paper *Structural Dependence, Imitation or Herding? A Multi-Agent Simulation of Global Intermedia Agenda Setting* by Mohammad Yousuf and Arif Md Tareque Habib (University of New Mexico). Preprint: [arXiv:2610.20144](https://arxiv.org/abs/2610.20144). Archive: Zenodo, DOI [10.5281/zenodo.23330238](https://doi.org/10.5281/zenodo.23330238) (all versions).
 
 ## What the study is
 
@@ -107,4 +107,4 @@ Run records (`run.json`, `runs.jsonl`), result notes and script comments refer t
 
 Cite the paper and this archive. `CITATION.cff` holds both; GitHub shows them under "Cite this repository".
 
-Yousuf, M., and Habib, A. M. T. (2026). Structural dependence, imitation or herding? A multi-agent simulation of global intermedia agenda setting. arXiv:[ARXIV ID]. Code and data: Zenodo, https://doi.org/10.5281/zenodo.23330238.
+Yousuf, M., and Habib, A. M. T. (2026). Structural dependence, imitation or herding? A multi-agent simulation of global intermedia agenda setting. arXiv:2610.20144. https://doi.org/10.48550/arXiv.2610.20144. Code and data: Zenodo, https://doi.org/10.5281/zenodo.23330238.

@@ -1619,8 +1619,8 @@
   },
   {
    "file": "CITATION.cff",
-   "sha256": "e8a743f97867ab8c41e2477b944c00216826bd857ca2ea3e1c19949acb174720",
-   "bytes": 1295,
+   "sha256": "ca74a96936470edd6b94d7131da522ac970e47b8ebc9344b0327a1c33af7f87f",
+   "bytes": 1396,
    "from": "build/submission_2026-10-12/scripts/release_docs/CITATION.cff",
    "source_id": "written for the release",
    "licence": "CC-BY-4.0",
@@ -1646,8 +1646,8 @@
   },
   {
    "file": "README.md",
-   "sha256": "b865c2aff3400770b639d3f8b9cdaf1da6a446c2e92825cc742bf008564d1431",
-   "bytes": 9593,
+   "sha256": "c994c8864d06378a9c7174c755f78615e73bb43e65d88bb43f1c33a6170c209b",
+   "bytes": 9672,
    "from": "build/submission_2026-10-12/scripts/release_docs/README.md",
    "source_id": "written for the release",
    "licence": "CC-BY-4.0",

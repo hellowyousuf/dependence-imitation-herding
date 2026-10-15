@@ -22,13 +22,19 @@
     "LLM agent-based simulation",
     "Global South"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "language": "eng",
   "related_identifiers": [
     {
       "identifier": "https://github.com/hellowyousuf/dependence-imitation-herding",
       "relation": "isSupplementTo",
       "scheme": "url"
+    },
+    {
+      "identifier": "arXiv:2610.20144",
+      "relation": "isSupplementTo",
+      "scheme": "arxiv",
+      "resource_type": "publication-preprint"
     }
   ],
   "notes": "Data sources: World Bank WDI (CC BY 4.0); Media Cloud (counts and story ids only, under the Media Cloud Terms of Use); GDELT Project (cited with attribution). The language-model agents ran Qwen3-14B (Apache 2.0)."

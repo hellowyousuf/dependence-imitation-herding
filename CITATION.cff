@@ -15,7 +15,7 @@ repository-code: "https://github.com/hellowyousuf/dependence-imitation-herding"
 license:
   - MIT
   - CC-BY-4.0
-version: "1.0.1"
+version: "1.0.2"
 date-released: "2026-10-12"
 keywords:
   - agenda setting
@@ -34,7 +34,9 @@ preferred-citation:
     - family-names: Habib
       given-names: Arif Md Tareque
   year: 2026
-  journal: "arXiv preprint"
+  journal: "arXiv preprint arXiv:2610.20144"
+  doi: "10.48550/arXiv.2610.20144"
+  url: "https://arxiv.org/abs/2610.20144"
   identifiers:
-    - type: other
-      value: "arXiv:[ARXIV ID]"
+    - type: doi
+      value: "10.48550/arXiv.2610.20144"
